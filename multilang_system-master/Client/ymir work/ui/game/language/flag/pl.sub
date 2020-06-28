@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "flag.dds"
+left 16
+top 12
+right 31
+bottom 23

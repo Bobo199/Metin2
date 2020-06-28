@@ -1,0 +1,69 @@
+
+
+Group ShopNPC
+{
+	#--#    NPC    Group
+	1	9001	TAB1
+	2	9001	TAB2
+	3	9001	TAB3
+	4	9002	OKK
+}
+
+Group TAB1
+{
+	Vnum    14
+	Name    ARMOR
+	sort 	Name
+	Group Items
+	{
+		#--# Vnum	Count	Price	price_type	price_vnum socket0 socket1 socket2 attr_type0 attr_value0 attr_type1 attr_value1 attr_type2 attr_value2 attr_type3 attr_value3 attr_type4 attr_value4 attr_type5 attr_value5 attr_type6 attr_value6
+		1	12019 	1 	200   	3 50011 28442 28441 28443 1 2000 2 200 29 15 30 15 31 15 0 0 0 0
+		2	12029	1	2		3 279 28442 28441 28443 1 2000 0 0 0 0 0 0 0 0 0 0 0 0
+		3	12039	1	25000	1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		4	71161	1	50		1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		5	12049	1	250		4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Group TAB2
+{
+	Vnum    15
+	Name    WEAPON
+	sort 	Vnum
+	Group Items
+	{
+		#--# Vnum Count Price price_type price_vnum socket0 socket1 socket2 attr_type0 attr_value0 attr_type1 attr_value1 attr_type2 attr_value2 attr_type3 attr_value3 attr_type4 attr_value4 attr_type5 attr_value5 attr_type6 attr_value6
+		1	469	1	1 3 279 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		2	279	1	25000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		3	299	1	25000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		4	109	1	25000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Group TAB3
+{
+	Vnum    16
+	Name    SHIELD
+	sort	Price
+	Group Items
+	{
+		#--# Vnum Count Price price_type price_vnum socket0 socket1 socket2 attr_type0 attr_value0 attr_type1 attr_value1 attr_type2 attr_value2 attr_type3 attr_value3 attr_type4 attr_value4 attr_type5 attr_value5 attr_type6 attr_value6
+		1	13009	1	5000  4 0 0 0 0 5 12 6 12 15 15 0 0 0 0 0 0 0 0
+		2	13029	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		3	13049	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		4	13069	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		5	13089	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Group OKK
+{
+	Vnum    17
+	Name    wat
+	sort	Type
+	Group Items
+	{
+		#--# Vnum Count Price price_type price_vnum socket0 socket1 socket2 attr_type0 attr_value0 attr_type1 attr_value1 attr_type2 attr_value2 attr_type3 attr_value3 attr_type4 attr_value4 attr_type5 attr_value5 attr_type6 attr_value6
+		1	19	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		2	12019	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		3	12029	1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+		4	299		1	50000 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}

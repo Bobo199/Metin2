@@ -1,0 +1,1 @@
+#define RENEWAL_BOOK_NAME

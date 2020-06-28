@@ -1,0 +1,1 @@
+#define __EXTENDED_SAFEBOX__

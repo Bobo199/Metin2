@@ -1,0 +1,2 @@
+SHOP_NOT_ENOUGH_ITEM	You don't have enough Item.
+SHOP_NOT_ENOUGH_EXP	You don't have enough EXP.

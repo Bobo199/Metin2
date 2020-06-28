@@ -1,0 +1,4 @@
+YENILE_BUTTON_TITLE	Inventory Sorting:
+YENILE_BUTTON	|Eemoji/key_lclick|e - Name
+YENILE_BUTTON2	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - Level
+YENILE_BUTTON3	|Eemoji/key_alt|e + |Eemoji/key_lclick|e - Custom Sort

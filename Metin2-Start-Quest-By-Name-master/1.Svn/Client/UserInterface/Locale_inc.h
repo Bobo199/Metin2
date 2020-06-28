@@ -1,0 +1,1 @@
+#define QUEST_BY_NAME

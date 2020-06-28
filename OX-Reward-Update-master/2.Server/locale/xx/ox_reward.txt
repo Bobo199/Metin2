@@ -1,0 +1,37 @@
+Group oxrewardwarrior										
+{							
+	#--#	item	count	gold		
+	1	20009	1	20000	
+	2	12019	1 2000			
+	3	299	1	12400
+	4	0	1	1461
+	5	469	1	1040
+	6	50011	100	20000
+	7	50070	1	10000
+	8	50072	1 50000
+	9	50073	1	10000
+}
+Group oxrewardassassin										
+{							
+	#--#	item	count	gold			
+	1	19	1	20000	
+	2	69	1	2000			
+	3	79	1	12400
+	4	89	1	1040
+}
+Group oxrewardsura										
+{							
+	#--#	item	count	gold			
+	1	99	1	20000	
+	2	109	1	2000			
+	3	129	1	12400
+	4	139	1	1040
+}
+Group oxrewardshaman										
+{							
+	#--#	item	count	gold			
+	1	149	1	20000	
+	2	159	1	2000			
+	3	169	1	12400
+	4	179	1	1040
+}

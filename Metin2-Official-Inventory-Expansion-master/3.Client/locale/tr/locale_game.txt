@@ -1,0 +1,3 @@
+EXINVEN_USE_ITEM_FAIL_FALL_SHORT	%d envanter genişletmesine daha ihtiyacın var.
+EXINVEN_USE_ITEM_FAIL_FOURTH_PAGE_STAGE_MAX	Envanterin maksimum genişletme sayısına ulaştı.
+EXINVEN_USE_ITEM_QUESTION	Envanterini %d envanter genişletmesiyle büyütmek mi istiyorsun?

@@ -1,0 +1,47 @@
+"BLOKLANDIN";
+"Engellediðin veya Engellendiðin için bu iþlemi gerçekleþtiremezsiniz.";
+
+"lonca olmaz";
+"Lonca arkadaþýný engelleyemezsiniz.";
+
+"gm'ye bu yanlis yapilmaz.";
+"Oyun yöneticilerini engelleyemezsiniz.";
+
+"%s bloklandi";
+"%s engellendi.";
+
+"%s yok ki.";
+"%s oyunda deðil.";
+
+"arkadas ekleyemezsin.";
+"Arkadaþ olduðun için kiþiyi engelleyemezsiniz.";
+
+"blok ekleyemezsin";
+"Engellediðin için arkadaþ olamazsýnýz.";
+
+"zaten bloklu";
+"Bu kiþi zaten engellenmiþ.";
+
+"zaten arkadas.";
+"Bu kiþi zaten arkadaþýnýz.";
+
+"bloklu degil";
+"Bu kiþi engellenmiþ deðil.";
+
+"arkadas degil";
+"Bu kiþi arkadaþýnýz deðil.";
+
+"%s'yi blokladim";
+"%s' bloklandýðý için mesaj atamazsýnýz.";
+
+"%s beni blokladi.";
+"%s sizi blokladýðý için mesaj atamazsýnýz.";
+
+"%s birbirimiz.";
+"%s birbirinizi blokladýðýnýz için mesaj atamazsýnýz.";
+
+"%s blokkk";
+"%s bloklandýðý için bu eylemi gerçekleþtiremezsiniz.";
+
+"%s blokkk_me";
+"%s sizi blokladýðý için bu eylemi gerçekleþtiremezsiniz.";

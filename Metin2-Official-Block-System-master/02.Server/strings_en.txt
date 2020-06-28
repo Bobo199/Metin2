@@ -1,0 +1,47 @@
+"BLOKLANDIN";
+"You can't perform this action because you are Blocked or Blocked.";
+
+"gm'ye bu yanlis yapilmaz.";
+"You can't block Game-Master.";
+
+"lonca olmaz";
+"You can't block because player is your guild friend.";
+
+"%s bloklandi";
+"%s blocked.";
+
+"%s yok ki.";
+"%s isn't exist.";
+
+"arkadas ekleyemezsin.";
+"You can't block because this is your friend.";
+
+"blok ekleyemezsin";
+"You can't friend because you blocked this player.";
+
+"zaten bloklu";
+"This player already blocked.";
+
+"zaten arkadas.";
+"This player already your friend.";
+
+"bloklu degil";
+"This player didn't block.";
+
+"arkadas degil";
+"This player isn't your friend.";
+
+"%s'yi blokladim";
+"You can't write to %s, because you Blocked this player.";
+
+"%s beni blokladi.";
+"You can't write to %s, because you are Blocked from this player.";
+
+"%s birbirimiz.";
+"You can't perform this action because you Blocked and Blocked.";
+
+"%s blokkk";
+"You can't perform this action because you Blocked %s";
+
+"%s blokkk_me";
+"You can't perform this action because %s Blocked you.";

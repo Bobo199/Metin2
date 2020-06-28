@@ -1,0 +1,3 @@
+EXINVEN_USE_ITEM_FAIL_FALL_SHORT	You still require %d Inventory Expansion(s).
+EXINVEN_USE_ITEM_FAIL_FOURTH_PAGE_STAGE_MAX	Your inventory has reached the maximum number of expansions.
+EXINVEN_USE_ITEM_QUESTION	Do you want to expand your inventory using %d Inventory Expansions?

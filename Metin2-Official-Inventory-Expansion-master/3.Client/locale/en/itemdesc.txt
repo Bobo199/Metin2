@@ -1,0 +1,2 @@
+72319	Inventory Expansion	Use this item to expand your inventory.
+72320	Inventory Expansion	Use this item to expand your inventory.

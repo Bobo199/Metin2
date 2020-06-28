@@ -1,0 +1,1 @@
+REVIVE_AUTO_TOWN_MESSAGE	Autorestart at town in: {}

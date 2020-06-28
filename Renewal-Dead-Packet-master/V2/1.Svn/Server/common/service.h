@@ -1,0 +1,1 @@
+#define RENEWAL_DEAD_PACKET

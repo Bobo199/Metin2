@@ -1,0 +1,23 @@
+quest test_lang begin
+    state start begin
+        when login or levelup with pc.level >= 1 begin
+            if get_lang() == 0 then
+                chat("Your Lang is 0")
+            elseif get_lang() == 1 then
+                chat("Your Lang is 1")
+            elseif get_lang() == 2 then
+                chat("Your Lang is 2")
+            elseif get_lang() == 3 then
+                chat("Your Lang is 3")
+            elseif get_lang() == 4 then
+                chat("Your Lang is 4")
+            elseif get_lang() == 5 then
+                chat("Your Lang is 5")
+            elseif get_lang() == 6 then
+                chat("Your Lang is 6")
+            else
+                chat("lang: "..get_lang().." not found")
+            end
+        end
+    end
+end

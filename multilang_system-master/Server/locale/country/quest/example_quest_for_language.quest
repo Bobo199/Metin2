@@ -1,0 +1,56 @@
+-- If you want a quest in a some languages you can follow the example.
+
+-- before all chat you need a "if" you can order it as you like or use other logic.
+
+quest example_quest_for_language  begin
+	state start begin
+		when login or levelup with pc.level >= 30 begin
+			if get_lang() == 0 then
+				set_state(information_en)
+			elseif get_lang() == 1 then
+				set_state(information_es)
+			elseif get_lang() == 2 then
+				set_state(information_hu)
+			else 
+				set_state(information_en)
+			end
+		end
+	end
+
+	state information_en begin
+    	when 20084.chat.["en"]gameforge.collect_quest_lv30._140_npcChat with pc.count_item(30006) >0   begin
+			...
+			...
+			...
+			else
+				say_title(["en"]gameforge.collect_herb_lv10._50_sayTitle)
+				say(["en"]gameforge.collect_quest_lv30._200_say)
+				return
+			end
+		end
+	end
+	state information_es begin
+    	when 20084.chat.["es"]gameforge.collect_quest_lv30._140_npcChat with pc.count_item(30006) >0   begin
+			...
+			...
+			...
+			else
+				say_title(["es"]gameforge.collect_herb_lv10._50_sayTitle)
+				say(["es"]gameforge.collect_quest_lv30._200_say)
+				return
+			end
+		end
+	end
+	state information_hu begin
+    	when 20084.chat.["hu"]gameforge.collect_quest_lv30._140_npcChat with pc.count_item(30006) >0   begin
+			...
+			...
+			...
+			else
+				say_title(["hu"]gameforge.collect_herb_lv10._50_sayTitle)
+				say(["hu"]gameforge.collect_quest_lv30._200_say)
+				return
+			end
+		end
+	end
+end

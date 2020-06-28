@@ -1,0 +1,2403 @@
+"%s";
+"%s";
+
+"잠시후 모두 마을로 이동됩니다.";
+"Everyone will be teleported into the city shortly. ";
+
+"존재하지 않는 아이템 입니다";
+"This item does not exist. ";
+
+"상자가 갑자기 폭발하였습니다! 생명력이 감소했습니다.";
+"The box suddenly exploded! You have lost Hit Points (HP). ";
+
+"상자에서 나온 녹색 연기를 들이마시자 독이 온몸으로 퍼집니다!";
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body! ";
+
+"상자에서 %s 가 %d 개 나왔습니다.";
+"You have received %s, %d units. ";
+
+"상자에서 %s 가 나왔습니다.";
+"The box contains %s. ";
+
+"열쇠가 맞지 않는 것 같다.";
+"This key does not seem to fit the lock. ";
+
+"아무것도 얻을 수 없었습니다.";
+"You have not received anything. ";
+
+"소지금이 부족하여 이 아이템을 사용할 수 없습니다.";
+"You do not have enough Yang to use this item. ";
+
+"스킬 레벨을 내리는데 성공하였습니다.";
+"You have lowered your Skill Level. ";
+
+"스킬 레벨을 내릴 수 없습니다.";
+"You cannot lower your Skill Level. ";
+
+"이미 효과가 걸려 있습니다.";
+"This effect is already activated. ";
+
+"상품을 받을 인벤토리가 부족합니다. 인벤토리를 비워주세요!";
+"You do not have enough space in your inventory to accept the reward. ";
+
+"이 아이템은 PC방에서만 사용할 수 있습니다.";
+"This item can only be used in an Internet cafe. ";
+
+"사용 제한량을 초과하였습니다.";
+"That is over the limit. ";
+
+"월병 또는 종자 를 사용하였습니다";
+"Used Moon Cake or Seed. ";
+
+"결혼 상태가 아니면 결혼반지를 사용할 수 없습니다.";
+"You cannot wear a Wedding Ring if you are not married. ";
+
+"이 곳에선 이벤트용 감지기가 동작하지 않는것 같습니다.";
+"You cannot use the Event Detector from this position. ";
+
+"이벤트용 감지기가 신비로운 빛을 내며 사라집니다.";
+"The Event Detector vanished in a mysterious light. ";
+
+"이벤트용 감지기가 흔적도 없이 사라집니다.";
+"The Event Detector has vanished. ";
+
+"이 곳에서 영석 감지기가 동작하지 않는것 같습니다.";
+"The Compass for Metin Stones does not work in dungeons. ";
+
+"영석 감지기가 신비로운 빛을 내며 사라집니다.";
+"The Compass for Metin Stones has vanished in the mysterious light. ";
+
+"영석 감지기가 흔적도 없이 사라집니다.";
+"The Compass for Metin Stones has vanished. ";
+
+"%s 아이템 을 획득하셨습니다";
+"You have won %s items. ";
+
+"조개에서 돌조각이 나왔습니다.";
+"You will find a simple Piece of Stone in the Clam. ";
+
+"조개가 흔적도 없이 사라집니다.";
+"The Clam has vanished. ";
+
+"조개에서 백진주가 나왔습니다.";
+"There is a White Pearl inside the Shell. ";
+
+"조개에서 청진주가 나왔습니다.";
+"There is a Blue Pearl inside the Shell. ";
+
+"조개에서 피진주가 나왔습니다.";
+"There is a Crimson Pearl inside the Shell. ";
+
+"이 책은 너무 어려워 이해하기가 힘듭니다.";
+"It isn't easy to understand this book. ";
+
+"이 책은 아무리 봐도 도움이 될 것 같지 않습니다.";
+"This book will not help you. ";
+
+"레벨 30이 되기 전에는 습득할 수 있을 것 같지 않습니다.";
+"You need to have a minimum level of 30 to understand this book. ";
+
+"레벨 50이 되기 전에는 습득할 수 있을 것 같지 않습니다.";
+"You need a minimum level of 50 to understand this book. ";
+
+"연계기는 더이상 수련할 수 없습니다.";
+"You can't train any more Combos. ";
+
+"%s 길드가 %s 길드의 깃발을 빼앗았습니다!";
+"%s has captured the flag of %s! ";
+
+"이미 완벽하게 알아들을 수 있는 언어이다.";
+"You already understand this language. ";
+
+"더 이상 수련할 수 없습니다.";
+"You cannot improve this skill any further. ";
+
+"이 책을 읽으려면 레벨을 더 올려야 합니다.";
+"You have to improve your Level to read this Book. ";
+
+"이 책은 너무 어려워서 수련할 수 없습니다.";
+"The book is too hard for practising. ";
+
+"이 책으로는 더 이상 수련할 수 없습니다.";
+"You cannot train with this Book any more. ";
+
+"아직 승마 스킬을 수련할 수 있는 레벨이 아닙니다.";
+"You need a minimum level of 50 to get riding training. ";
+
+"주안술서를 통해 주화입마에서 빠져나왔습니다.";
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll. ";
+
+"더 이상 승마 수련서를 읽을 수 없습니다.";
+"You cannot read any more Riding Guides. ";
+
+"승마 수련서를 읽어 승마 스킬 포인트를 얻었습니다.";
+"You read the Horseback Riding Manual and received a Riding Point. ";
+
+"얻은 포인트로는 승마 스킬의 레벨을 올릴 수 있습니다.";
+"You can use this point to improve your riding skill! ";
+
+"%s 길드의 깃발을 %s 님이 획득하였습니다.";
+"The guild %s's flag has been stolen by player %s. ";
+
+"승마 수련서 이해에 실패하였습니다.";
+"You did not understand the riding guide. ";
+
+"마음이 맑아지는군. 가슴을 짓누르던 무언가가 좀 가벼워진 느낌이야.";
+"Your mind is clear. You can concentrate really well now. ";
+
+"선악치가 %d 증가하였습니다.";
+"Your rank has increased by %d points. ";
+
+"현재 헤어스타일에서는 염색과 탈색이 불가능합니다.";
+"You cannot dye or bleach your current hairstyle. ";
+
+"%d 레벨이 되어야 다시 염색하실 수 있습니다.";
+"You need to have reached level %d to be able to dye your hair again. ";
+
+"성별이 맞지않아 이 아이템을 열 수 없습니다.";
+"This item can only be opened by the another gender. ";
+
+"현재 위치에서 사용할 수 없습니다.";
+"You cannot use this from your current position. ";
+
+"이동할 준비가 되어있음으로 귀환부를 사용할수 없습니다";
+"You are ready to warp, so you cannot use the 'Return' Scroll. ";
+
+"원래 위치로 복귀";
+"You are being brought back to the place of origin. ";
+
+"던전 안에서는 %s%s 사용할 수 없습니다.";
+"%s%s cannot be used in a dungeon. ";
+
+"<퀘스트> 이전에 같은 보상을 받은 적이 있어 다시 받지 않습니다.";
+"<Quest> You have already received your reward. ";
+
+"을";
+"the ";
+
+"를";
+"the ";
+
+"청소할 석이 박혀있지 않습니다.";
+"There aren't any Pieces of Broken Stone available for removal. ";
+
+"속성을 변경할 수 없는 아이템입니다.";
+"You cannot change the upgrade of this item. ";
+
+"변경할 속성이 없습니다.";
+"There is no upgrade that you can change. ";
+
+"속성을 바꾼지 %d분 이내에는 다시 변경할 수 없습니다.(%d 분 남음)";
+"You can only do this %d minutes after an upgrade. (%d minutes left) ";
+
+"속성을 변경하였습니다.";
+"You have changed the upgrade. ";
+
+"속성 추가에 성공하였습니다.";
+"Upgrade successfully added. ";
+
+"속성 추가에 실패하였습니다.";
+"No upgrade added. ";
+
+"더이상 이 아이템을 이용하여 속성을 추가할 수 없습니다.";
+"You must use the Blessing Marble in order to add another bonus to this item. ";
+
+"대련장에서 사용하실 수 없습니다.";
+"You cannot use this in the duel arena. ";
+
+"더 이상 이 아이템을 이용하여 속성을 추가할 수 없습니다.";
+"This item can no longer be improved. The maximum number of bonuses has been reached. ";
+
+"먼저 재가비서를 이용하여 속성을 추가시켜 주세요.";
+"You can only use the Blessing Marble with an item which already has 4 bonuses. ";
+
+"소켓이 성공적으로 추가되었습니다.";
+"Socket successfully added. ";
+
+"소켓 추가에 실패하였습니다.";
+"No socket added. ";
+
+"이 액세서리에는 더이상 소켓을 추가할 공간이 없습니다.";
+"No additional sockets could be added to this item. ";
+
+"이 아이템으로 소켓을 추가할 수 없는 아이템입니다.";
+"You cannot add a socket to this item. ";
+
+"장착에 성공하였습니다.";
+"Arming successful. ";
+
+"장착에 실패하였습니다.";
+"Arming has failed. ";
+
+"먼저 다이아몬드로 악세서리에 소켓을 추가해야합니다.";
+"You have to add a socket first. Use a diamond in order to do this. ";
+
+"이 액세서리에는 더이상 장착할 소켓이 없습니다.";
+"There is no Socket for Gemstones in this accessory. ";
+
+"열정의 가면을 착용시에만 할 수 있습니다.";
+"You can do this when you wear an Emotion Mask. ";
+
+"다이아몬드로 소켓을 추가해야합니다.";
+"You have to add a Socket if you want to use a Diamond. ";
+
+"이 액세서리에는 더이상 보석을 장착할 수 없습니다.";
+"No more gems can be added to this item. ";
+
+"이 아이템을 장착할 수 없습니다.";
+"These items cannot be used together. ";
+
+"낚시 중에 미끼를 갈아끼울 수 없습니다.";
+"You cannot change the Bait while fishing. ";
+
+"이미 꽂혀있던 미끼를 빼고 %s를 끼웁니다.";
+"You are exchanging the current Bait for %s. ";
+
+"낚시대에 %s를 미끼로 끼웁니다.";
+"You attached %s to the hook as bait. ";
+
+"물약 조합을 위한 재료가 부족합니다.";
+"You are missing some ingredients to make the potion. ";
+
+"재료(%s)가 부족합니다.";
+"You do not have enough material (%s). ";
+
+"빈 병이 모자릅니다.";
+"You do not have enough empty bottles. ";
+
+"물약 제조에 실패했습니다.";
+"The potion production has failed. ";
+
+"여자만 할 수 있습니다.";
+"Only women can do this. ";
+
+"같은 종류의 메틴석은 여러개 부착할 수 없습니다.";
+"You cannot attach several stones of the same type. ";
+
+"이 메틴석은 장비에 부착할 수 없습니다.";
+"This Spirit Stone cannot be attached to this type of item. ";
+
+"이 메틴석은 무기에 부착할 수 없습니다.";
+"You cannot attach this Spirit Stone to a weapon. ";
+
+"메틴석 부착에 성공하였습니다.";
+"You have attached the Spirit Stone successfully. ";
+
+"메틴석 부착에 실패하였습니다.";
+"The Spirit Stone broke while being attached. ";
+
+"부착할 수 있는 슬롯이 없습니다.";
+"No slot free. ";
+
+"사용할수 없습니다.";
+"This function is not available right now. ";
+
+"삼거리 전투 참가중에는 귀환부,귀환기억부를 사용할수 없습니다.";
+"You cannot use a return scroll while taking part in a kingdom battle. ";
+
+"창고를 연후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"After opening the Storeroom you cannot use a 'Return' Scroll for %d seconds. ";
+
+"거래창,창고 등을 연 상태에서는 귀환부,귀환기억부 를 사용할수 없습니다.";
+"You cannot use a return scroll while another window is open. ";
+
+"그런 사람이 없습니다.";
+"This person does not exist. ";
+
+"아이템 개량후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"After a trade, you cannot use a scroll for another %d seconds. ";
+
+"개인상점 사용후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"After opening a storeroom you cannot use a return scroll for another %d seconds. ";
+
+"이동 되어질 위치와 너무 가까워 귀환부를 사용할수 없습니다.";
+"You cannot use the return scroll because the distance is too small. ";
+
+"거래 후 %d초 이내에는 귀환부,귀환기억부등을 사용할 수 없습니다.";
+"After a trade you cannot use a return scroll for %d seconds. ";
+
+"거래창,창고 등을 연 상태에서는 보따리,비단보따리를 사용할수 없습니다.";
+"You cannot open the Storeroom if another window is already open. ";
+
+"버릴 수 없는 아이템입니다.";
+"You cannot drop this item. ";
+
+"떨어진 아이템은 3분 후 사라집니다.";
+"The dropped item will vanish in 3 minutes. ";
+
+"아이템 획득: %s";
+"%s received ";
+
+"소지하고 있는 아이템이 너무 많습니다.";
+"You have too many items in your inventory. ";
+
+"아이템 획득: %s 님으로부터 %s";
+"%s received, %s units ";
+
+"잠시후 해당 마을은  마을로 이동됩니다.";
+"Everyone will be teleported into the city shortly. ";
+
+"너무 가까이 있습니다.";
+"You are too near. ";
+
+"아이템 전달: %s 님에게 %s";
+"Item Trade: %s, %s ";
+
+"둔갑 중에는 착용중인 장비를 변경할 수 없습니다.";
+"You cannot change the equipped item while you are transformed. ";
+
+"가만히 있을 때만 착용할 수 있습니다.";
+"You have to stand still to equip the item. ";
+
+"죽지 않은 말에게 선초를 먹일 수 없습니다.";
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses. ";
+
+"죽은 말에게 사료를 먹일 수 없습니다.";
+"You cannot feed a dead Horse. ";
+
+"말에게 선초를 주었습니다.";
+"You fed the Horse with Herbs. ";
+
+"말에게 사료를 주었습니다.";
+"You have fed the Horse. ";
+
+"아직 이 머리를 사용할 수 없는 레벨입니다.";
+"Your level is too low to wear this Hairstyle. ";
+
+"동일한 머리 스타일로는 교체할 수 없습니다.";
+"You already have this Hairstyle. ";
+
+"이미 둔갑중인 상태입니다.";
+"You have already transformed. ";
+
+"너무 멀리 있습니다";
+"You are too far away. ";
+
+"잘못된 둔갑 아이템입니다.";
+"That's the wrong trading item. ";
+
+"나보다 너무 높은 레벨의 몬스터로는 변신 할 수 없습니다.";
+"You cannot transform into a monster who has a higher level than you. ";
+
+"레벨이 낮아 착용할 수 없습니다.";
+"Your level is too low to equip this item. ";
+
+"근력이 낮아 착용할 수 없습니다.";
+"You are not strong enough to equip yourself with this item. ";
+
+"지능이 낮아 착용할 수 없습니다.";
+"Your intelligence is too low to equip yourself with this item. ";
+
+"민첩이 낮아 착용할 수 없습니다.";
+"Your dexterity is too low to equip yourself with this item. ";
+
+"체력이 낮아 착용할 수 없습니다.";
+"Your vitality is too low to equip yourself with this item. ";
+
+"결혼하지 않은 상태에서 예물을 착용할 수 없습니다.";
+"You cannot use this item because you are not married. ";
+
+"같은 종류의 유니크 아이템 두 개를 동시에 장착할 수 없습니다.";
+"You cannot equip this item twice. ";
+
+"%s에서 소켓 빠질때까지 남은 시간 %d";
+"Time left until the removal of the socket of %s: %d ";
+
+"이성간에만 할 수 있습니다.";
+"This action can only be done with another gender. ";
+
+"%s에 박혀있던 보석이 사라집니다.";
+"A gem made of %s has vanished. ";
+
+"<길드> 길드 이름이 적합하지 않습니다.";
+"<Guild> This guild name is invalid. ";
+
+"<길드> 이미 같은 이름의 길드가 있습니다.";
+"<Guild> This guild name is already taken. ";
+
+"<길드> 길드를 생성할 수 없습니다.";
+"<Guild> You cannot found a guild. ";
+
+"%s 길드가 %s 길드에 선전포고를 하였습니다!";
+"The guild %s has declared war on %s! ";
+
+"<길드> %s 길드가 길드전을 거부하였습니다.";
+"<Guild> %s has refused the Guild war. ";
+
+"%s 길드와 %s 길드가 잠시 후 전쟁을 시작합니다!";
+"The guild war between %s and %s will start in a few minutes! ";
+
+"%s 길드와 %s 길드가 전쟁을 시작하였습니다!";
+"The guild war between %s and %s has begun! ";
+
+"%s 길드와 %s 길드 사이의 전쟁이 무승부로 끝났습니다.";
+"The guild war between %s and %s has ended in a draw. ";
+
+"%s 길드가 %s 길드와의 전쟁에서 승리 했습니다.";
+"%s has won the guild war against %s. ";
+
+"이 행동은 상호동의 하에 가능 합니다.";
+"You need your fellow player's approval for this. ";
+
+"<길드> 길드전이 취소 되었습니다.";
+"<Guild> The guild war has been canceled. ";
+
+"%s 길드와 %s 길드 사이의 전쟁이 취소되었습니다.";
+"The guild war between %s and %s has been canceled. ";
+
+"닫기";
+"Close ";
+
+"전투가 시작 되어 취소 되었습니다.";
+"Action canceled. You have already started fighting. ";
+
+"다른 컴퓨터에서 로그인 하여 접속을 종료 합니다.";
+"Someone has logged into your account. You will be disconnected from the server. ";
+
+"나무에서 부터 신비한 빛이 나옵니다.";
+"A mysterious light appears from the tree. ";
+
+"%d분의 결제시간이 추가 되었습니다. (결제번호 %d)";
+"%d Playtime added to your account. (Payment number %d) ";
+
+"관전 모드로 길드전에 참가하셨습니다.";
+"You can participate in the guild battle in viewer mode. ";
+
+"자신을 선택하시면 밖으로 나갈 수 있는 <관람 종료> 버튼이 나옵니다.";
+"While choosing a character, an icon appears. ";
+
+"길드전에 참가한 상대방 길드원이 아무도 없습니다.";
+"There are no opponents. ";
+
+"%s님과의 대결 시작!";
+"The battle with %s has begun! ";
+
+"1분 이내에 아무도 접속하지 않으면 길드전이 자동 종료됩니다.";
+"If no enemy can be found, the guild war will be ended automatically. ";
+
+"길드전이 일찍 종료되어 무승부로 판정 되었습니다. (5분이 지나지 않음)";
+"Because the guild war finished early, the result will judged as a draw. ";
+
+"군주가 내린 축복으로 모든 에너지가 가득 채워집니다";
+"The energy is reflected because of the Emperors Blessing. ";
+
+"%d 초 후에 군주의 축복을 사용할 수 있습니다";
+"After %d seconds you can use the Emperors Blessing. ";
+
+"국고에 자금이 모자랍니다 국고 : %d";
+"Not enough tax income : %d. ";
+
+"[TEST_ONLY]현재 국고 : %d";
+"[TEST_ONLY]Tax : %d ";
+
+"둔갑에 실패 하였습니다";
+"Transformation error. ";
+
+"둔갑서 수련을 마첬습니다. 신선에게 찾아가세요.";
+"You learned the transmutation completely. ";
+
+"말을 먼저 소환해주세요.";
+"Please call your Horse first. ";
+
+"말을 돌려보냈습니다.";
+"You have sent your horse away. ";
+
+"%s님이 대결신청을 했습니다. 승낙하려면 대결동의를 하세요.";
+"%s challenged you to a battle! ";
+
+"말에서 먼저 내려야 합니다.";
+"You have to get off your Horse. ";
+
+"말을 탄 상태에서는 먹이를 줄 수 없습니다.";
+"You cannot feed your Horse while sitting on it. ";
+
+"말에게 %s%s 주었습니다.";
+"You have fed the Horse with %s%s. ";
+
+"%s 아이템이 필요합니다";
+"You need %s. ";
+
+"셧다운이 %d초 남았습니다.";
+"%d seconds until Exit. ";
+
+"%d초 후 게임이 셧다운 됩니다.";
+"The game will be closed in %d seconds. ";
+
+"%d초 남았습니다.";
+"%d seconds until Exit. ";
+
+"취소 되었습니다.";
+"Your logout has been canceled. ";
+
+"로그인 화면으로 돌아 갑니다. 잠시만 기다리세요.";
+"Back to login window. Please wait. ";
+
+"게임을 종료 합니다. 잠시만 기다리세요.";
+"You have been disconnected from the server. Please wait. ";
+
+"%s에게 대결신청을 했습니다.";
+"You have challenged %s to a battle. ";
+
+"캐릭터를 전환 합니다. 잠시만 기다리세요.";
+"You are changing character. Please wait. ";
+
+"아직 재시작 할 수 없습니다.(%d초 남음 )";
+"A new start is not possible at the moment. Please wait %d seconds. ";
+
+"아직 재시작 할 수 없습니다. (%d초 남음)";
+"You cannot restart yet. Please wait another %d seconds. ";
+
+"아직 재시작 할 수 없습니다.(%d초 남음)";
+"You cannot restart yet. Please wait another %d seconds. ";
+
+"아직 마을에서 재시작 할 수 없습니다. (%d 초 남음)";
+"You cannot restart in the city yet. Wait another %d seconds. ";
+
+"성지에서 부활 기회를 모두 잃었습니다! 마을로 이동합니다!";
+"The waiting time has expired. You will be revived in the city. ";
+
+"둔갑 중에는 능력을 올릴 수 없습니다.";
+"You cannot change your status while you are transformed. ";
+
+"상대방이 대련중입니다.";
+"This player is currently fighting. ";
+
+"<길드> 길드에 속해있지 않습니다.";
+"<Guild> It does not belong to the guild. ";
+
+"<길드> 길드 스킬 레벨을 변경할 권한이 없습니다.";
+"<Guild> You do not have the authority to change the level of the guild skills. ";
+
+"잘못된 선택을 했습니다";
+"Your choice is incorrect. ";
+
+"<창고> 잘못된 암호를 입력하셨습니다.";
+"<Storeroom> You have entered an incorrect password. ";
+
+"<창고> 창고가 이미 열려있습니다.";
+"<Storeroom> The Storeroom is already open. ";
+
+"<창고> 창고를 닫은지 10초 안에는 열 수 없습니다.";
+"<Storeroom> You have to wait 10 seconds before you can open the Storeroom again. ";
+
+"<창고> 거리가 멀어서 창고를 열 수 없습니다.";
+"<Storeroom> You are too far away to open the storeroom. ";
+
+"<파티> 서버 문제로 파티 관련 처리를 할 수 없습니다.";
+"<Group> The server cannot execute this group request. ";
+
+"<파티> 던전 안에서는 파티에서 나갈 수 없습니다.";
+"<Group> You cannot leave a group while you are in a dungeon. ";
+
+"<파티> 파티에서 나가셨습니다.";
+"<Group> You have left the group. ";
+
+"<길드> 이미 다른 전쟁에 참전 중 입니다.";
+"<Guild> Your guild is already participating in another war. ";
+
+"<길드> 길드전에 대한 권한이 없습니다.";
+"<Guild> No one is entitled to a guild war. ";
+
+"<길드> 그런 길드가 없습니다.";
+"<Guild> No guild with this name exists. ";
+
+"이미 입후보되어있습니다";
+"There already is a candidacy. ";
+
+"<길드> 상대방 길드가 이미 전쟁 중 입니다.";
+"<Guild> This guild is already participating in a war. ";
+
+"<길드> 전비가 부족하여 길드전을 할 수 없습니다.";
+"<Guild> Not enough Yang to participate in a guild war. ";
+
+"<길드> 상대방 길드의 전비가 부족하여 길드전을 할 수 없습니다.";
+"<Guild> The guild does not have enough Yang to participate in a guild war. ";
+
+"<길드> 이미 전쟁이 예약된 길드 입니다.";
+"<Guild> This Guild is already scheduled for another war. ";
+
+"<길드> 이미 전쟁 중인 길드입니다.";
+"<Guild> This guild is already participating in another war. ";
+
+"<길드> 레더 점수가 모자라서 길드전을 할 수 없습니다.";
+"<Guild> Guild level is too low to participate in a guild war. ";
+
+"<길드> 길드전을 하기 위해선 최소한 %d명이 있어야 합니다.";
+"<Guild> A minimum of %d players are needed to participate in a guild war. ";
+
+"<길드> 상대방 길드의 레더 점수가 모자라서 길드전을 할 수 없습니다.";
+"<Guild> The guild does not have enough points to participate in a guild war. ";
+
+"<길드> 상대방 길드의 길드원 수가 부족하여 길드전을 할 수 없습니다.";
+"<Guild> The guild does not have enough members to participate in a guild war. ";
+
+"레벨 20 이하는 핸드폰 번호를 등록할 수 없습니다.";
+"Your level has to be higher than 20 to register a cell phone number. ";
+
+"군주의 자격을 가지고 있지 않습니다";
+"You do not have the emperor qualification. ";
+
+"%s 님으로 부터 친구 등록을 거부 당했습니다.";
+"%s declined the invitation. ";
+
+"이미 파티에 속해 있으므로 가입신청을 할 수 없습니다.";
+"You cannot accept the invitation because you are already in the group. ";
+
+"군주만이 사용가능 한 기능입니다";
+"Only the emperor can use this. ";
+
+"%d 초간 쿨타임이 적용중입니다.";
+"Cooldown time for approximately %d seconds ";
+
+"국고에 돈이 부족합니다. 현재 : %u 필요금액 : %u";
+"Lack of Taxes. Current Capital : %u Missing Capital : %u ";
+
+"사용법: warpto <character name>";
+"Command: warp to <character name> ";
+
+"타제국 유저에게는 이동할수 없습니다";
+"You cannot be warped to an unknown player. ";
+
+"해당 유저는 %d 채널에 있습니다. (현재 채널 %d)";
+"Adding player %d into the channel. (Present channel %d) ";
+
+"%s 에게로 이동합니다";
+"Warp to player %s. ";
+
+"타제국 유저는 소환 할수 없습니다";
+"You cannot call unknown players. ";
+
+"<길드> 길드전중에는 사냥에 따른 이익이 없습니다.";
+"<Guild> There are no experience points for hunting during a guild war. ";
+
+"군주의 축복으로 이지역 %s 유저는 HP,SP가 모두 채워집니다.";
+"When the Blessing of the Emperor is used %s the HP and SP are restored again. ";
+
+"나의 군주 정보";
+"My information about the emperor ";
+
+"[%s군주] : %s  보유금액 %lld";
+"[%sMonarch] : %s Yang owned %lld ";
+
+"[%s군주] : %s";
+"[%sMonarch] : %s ";
+
+"군주 정보";
+"Information about the emperor ";
+
+"군주만이 사용할수 있는 기능입니다";
+"Only an emperor can use this. ";
+
+"1-50 사이의 수치를 선택해주세요";
+"Choose a number between 1 and 50. ";
+
+"세금이 %d %로 설정되었습니다";
+"Taxes are set to %d % . ";
+
+"소환할수 없는 몬스터 입니다. 소환가능한 몬스터는 홈페이지를 참조하세요";
+"The Monster cannot be called. Check the Mob Number. ";
+
+"최대 생명력 +%d";
+"Hit Points +%d ";
+
+"최대 정신력 +%d";
+"Spell Points +%d ";
+
+"군주의 축복을 사용하였습니다.";
+"The Emperor Blessing is activated. ";
+
+"체력 +%d";
+"Endurance +%d ";
+
+"지능 +%d";
+"Intelligence +%d ";
+
+"근력 +%d";
+"Strength +%d ";
+
+"민첩 +%d";
+"Dexterity +%d ";
+
+"공격속도 +%d";
+"Attack Speed +%d ";
+
+"이동속도 %d";
+"Movement Speed %d ";
+
+"쿨타임 -%d";
+"Cooldown Time -%d ";
+
+"생명력 회복 +%d";
+"Energy Recovery +%d ";
+
+"정신력 회복 +%d";
+"Spell Point Recovery +%d ";
+
+"독공격 %d";
+"Poison Attack %d ";
+
+"쿨타임 적용중  %d 후 사용가능";
+"Is being prepared. Can be used after %d . ";
+
+"스턴 +%d";
+"Star +%d ";
+
+"슬로우 +%d";
+"Speed Reduction +%d ";
+
+"%d%% 확률로 치명타 공격";
+"Critical Attack with a chance of %d%% ";
+
+"%d%% 확률로 관통 공격";
+"Chance of a Speared Attack of %d%% ";
+
+"인간류 몬스터 타격치 +%d%%";
+"Player's Attack Power against Monsters +%d%% ";
+
+"동물류 몬스터 타격치 +%d%%";
+"Horse's Attack Power against Monsters +%d%% ";
+
+"웅귀족 타격치 +%d%%";
+"Attack Boost against Wonggui + %d%% ";
+
+"밀교류 타격치 +%d%%";
+"Attack Boost against Milgyo + %d%% ";
+
+"시체류 타격치 +%d%%";
+"Attack boost against zombies + %d%% ";
+
+"악마류 타격치 +%d%%";
+"Attack boost against devils + %d%% ";
+
+"군주의 사자후 영향으로 이지역 %s 유저는 3분간 10 %% 의 공격력이  증가됩니다";
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area. ";
+
+"타격치 %d%% 를 생명력으로 흡수";
+"Absorbing of Energy %d%% while attacking. ";
+
+"타력치 %d%% 를 정신력으로 흡수";
+"Absorption of Spell Points (SP) %d%% while attacking. ";
+
+"%d%% 확률로 타격시 상대 전신력 소모";
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy. ";
+
+"%d%% 확률로 피해시 정신력 회복";
+"Absorbing of Spell Points (SP) with a chance of %d%% ";
+
+"물리타격시 블럭 확률 %d%%";
+"%d%% Chance of blocking a close-combat attack ";
+
+"활 공격 회피 확률 %d%%";
+"%d%% Chance of blocking a long range attack ";
+
+"한손검 방어 %d%%";
+"One-Handed Sword defense %d%% ";
+
+"양손검 방어 %d%%";
+"Two-Handed Sword Defense %d%% ";
+
+"두손검 방어 %d%%";
+"Two-Handed Sword Defense %d%% ";
+
+"방울 방어 %d%%";
+"Bell Defense %d%% ";
+
+"군주의 금강권 영향으로 이지역 %s 유저는 3분간 10 %% 의 방어력이  증가됩니다";
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armor for 3 minutes. ";
+
+"부채 방어 %d%%";
+"Fan Defense %d%% ";
+
+"활공격 저항 %d%%";
+"Distant Attack Resistance %d%% ";
+
+"화염 저항 %d%%";
+"Fire Resistance %d%% ";
+
+"전기 저항 %d%%";
+"Lightning Resistance %d%% ";
+
+"마법 저항 %d%%";
+"Magic Resistance %d%% ";
+
+"바람 저항 %d%%";
+"Wind Resistance %d%% ";
+
+"직접 타격치 반사 확률 : %d%%";
+"Reflect Direct Hit: %d%% ";
+
+"저주 되돌리기 확률 %d%%";
+"Reflect Curse: %d%% ";
+
+"독 저항 %d%%";
+"Poison Resistance %d%% ";
+
+"%d%% 확률로 적퇴치시 정신력 회복";
+"Spell Points (SP) will be increased by %d%% if you win. ";
+
+"OX 이벤트가 이미 진행중입니다(flag: %d)";
+"The event is already running. (Flag: %d) ";
+
+"%d%% 확률로 적퇴치시 경험치 추가 상승";
+"Experience increases by %d%% if you win against an opponent. ";
+
+"%d%% 확률로 적퇴치시 돈 2배 드롭";
+"Increase of Yang up to %d%% if you win. ";
+
+"%d%% 확률로 적퇴치시 아이템 2배 드롭";
+"Increase of captured Items up to %d%% if you win. ";
+
+"물약 사용시 %d%% 성능 증가";
+"Power increase of up to %d%% after taking the potion. ";
+
+"%d%% 확률로 적퇴치시 생명력 회복";
+"%d%% Chance of filling up Hit Points after a victory. ";
+
+"기절하지 않음 %d%%";
+"No Dizziness %d%% ";
+
+"느려지지 않음 %d%%";
+"No Slowing Down %d%% ";
+
+"넘어지지 않음 %d%%";
+"No falling down %d%% ";
+
+"공격력 +%d";
+"Attack Power + %d ";
+
+"방어력 +%d";
+"Armor + %d ";
+
+"OX 문제 스크립트 로딩 실패";
+"OX quiz script could not be loaded. ";
+
+"마법 공격력 +%d";
+"Magical Attack + %d ";
+
+"마법 방어력 +%d";
+"Magical Defense + %d ";
+
+"최대 지구력 +%d";
+"Maximum Endurance + %d ";
+
+"무사에게 강함 +%d%%";
+"Strong against Warriors + %d%% ";
+
+"자객에게 강함 +%d%%";
+"Strong against Ninjas + %d%% ";
+
+"수라에게 강함 +%d%%";
+"Strong against Sura + %d%% ";
+
+"무당에게 강함 +%d%%";
+"Strong against Shamans + %d%% ";
+
+"몬스터에게 강함 +%d%%";
+"Strong against Monsters + %d%% ";
+
+"공격력 +%d%%";
+"Attack + %d%% ";
+
+"방어력 +%d%%";
+"Defense + %d%% ";
+
+"OX 문제 스크립트 로딩 성공";
+"OX quiz script has loaded. ";
+
+"경험치 %d%%";
+"Experience %d%% ";
+
+"아이템 드롭율 %.1f배";
+"Chance to find an Item %. 1f ";
+
+"돈 드롭율 %.1f배";
+"Chance to find Yang %. 1f ";
+
+"최대 생명력 +%d%%";
+"Maximum Energy +%d%% ";
+
+"최대 정신력 +%d%%";
+"Maximum Energy +%d%% ";
+
+"스킬 데미지 %d%%";
+"Skill Damage %d%% ";
+
+"평타 데미지 %d%%";
+"Hit Damage %d%% ";
+
+"스킬 데미지 저항 %d%%";
+"Resistance against Skill Damage %d%% ";
+
+"평타 데미지 저항 %d%%";
+"Resistance against Hits %d%% ";
+
+"무사공격에 %d%% 저항";
+"%d%% Resistance against Warrior Attacks ";
+
+"안녕하세요. 메틴2 입니다.";
+"Welcome to Metin2. ";
+
+"자객공격에 %d%% 저항";
+"%d%% Resistance against Ninja Attacks ";
+
+"수라공격에 %d%% 저항";
+"%d%% Resistance against Sura Attacks ";
+
+"무당공격에 %d%% 저항";
+"%d%% Resistance against Shaman Attacks ";
+
+"(만료일 : %d년 %d월 %d일)";
+"(Procedure: %d y- %d m - %d d) ";
+
+"채팅 금지 상태입니다.";
+"Your chat is blocked. ";
+
+"외치기는 유료회원만 사용할수 있습니다";
+"You need a higher level to be able to call. ";
+
+"외치기는 레벨 %d 이상만 사용 가능 합니다.";
+"You need a minimum level of %d to be able to call. ";
+
+"파티 중이 아닙니다.";
+"You are not in this Group. ";
+
+"길드에 가입하지 않았습니다.";
+"You did not join this Guild. ";
+
+"상대방이 메신져 추가 거부 상태입니다.";
+"The player has rejected your request to add him to your friend list. ";
+
+"OX 이벤트가 시작되었습니다.";
+"OX Event has started. ";
+
+"<메신져> 운영자는 메신져에 추가할 수 없습니다.";
+"<Friends> You cannot add a GM to your list. ";
+
+"%s 님은 접속되 있지 않습니다.";
+"%s is not online. ";
+
+"거래 후 %d초 이내에 창고를 열수 없습니다.";
+"After a trade, you have to wait %d seconds before you can open a shop. ";
+
+"창고를 연후 %d초 이내에는 거래를 할수 없습니다.";
+"You can trade again in %d seconds. ";
+
+"액수가 20억 냥을 초과하여 거래를 할수가 없습니다..";
+"You have more than 2 Billion Yang. You cannot trade. ";
+
+"다른 거래중일경우 개인상점을 열수가 없습니다.";
+"You cannot open a private shop while you are trading with others. ";
+
+"상대방의 총금액이 20억 냥을 초과하여 거래를 할수가 없습니다..";
+"The player has more than 2 Billion Yang. You cannot trade with him. ";
+
+"<창고> 옮길 수 없는 위치입니다.";
+"<Storeroom> No movement possible. ";
+
+"<창고> 이 아이템은 넣을 수 없습니다.";
+"<Storeroom> The item cannot be stored. ";
+
+"<파티> 파티요청을 한 캐릭터를 찾을수 없습니다.";
+"<Group> The player who invited you is not online. ";
+
+"전쟁 서버가 열려있지 않아 길드전을 시작할 수 없습니다.";
+"The Guild Battle cannot be started because the server is not online. ";
+
+"을두지를 통하여 입장 가능합니다.";
+"Uriel allowed to enter. ";
+
+"<파티> 리더만 변경할 수 있습니다.";
+"<Group> Only the group leader can change this. ";
+
+"<파티> 상태를 변경하려는 사람이 파티원이 아닙니다.";
+"<Group> The target is not a member of your group. ";
+
+"<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
+"<Group> You cannot kick out a player while you are in a dungeon. ";
+
+"<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
+"<Group> You cannot kick out a player while you are in a dungeon. ";
+
+"<파티> 파티에서 추방당하셨습니다.";
+"<Group> You have been out kicked of the group. ";
+
+"<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
+"<Group> You cannot leave a group while you are in a dungeon. ";
+
+"<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
+"<Group> You cannot kick out group members. ";
+
+"<길드> 해산한 후 %d일 이내에는 길드를 만들 수 없습니다.";
+"<Guild> After disbanding a guild, you cannot create a new one for %d days. ";
+
+"<길드> 탈퇴한 후 %d일 이내에는 길드를 만들 수 없습니다.";
+"<Guild> After leaving a guild, you cannot create a new one for %d days. ";
+
+"적합하지 않은 길드 이름 입니다.";
+"This guild name is invalid. ";
+
+"많은 참여 부탁드립니다.";
+"We request the participation of a lot of players. ";
+
+"<길드> [%s] 길드가 생성되었습니다.";
+"<Guild> [%s] guild has been created. ";
+
+"<길드> 길드 생성에 실패하였습니다.";
+"<Guild> Creation of the guild has failed. ";
+
+"<파티> 파티 기술은 파티장만 사용할 수 있습니다.";
+"<Group> Only the group leader can use group skills. ";
+
+"<파티> 소환하려는 대상을 찾을 수 없습니다.";
+"<Group> The target has not been found. ";
+
+"<길드> 잘못된 금액입니다.";
+"<Guild> That is not the correct amount of Yang. ";
+
+"<길드> 가지고 있는 돈이 부족합니다.";
+"<Guild> You do not have enough Yang. ";
+
+"<길드> 그러한 사람을 찾을 수 없습니다.";
+"<Guild> The person you were searching for cannot be found. ";
+
+"<길드> 상대방이 같은 길드가 아닙니다.";
+"<Guild> This person is not in the same guild. ";
+
+"<길드> 길드원을 강제 탈퇴 시킬 권한이 없습니다.";
+"<Guild> You do not have the authority to kick out guild members. ";
+
+"<길드> 길드원 %s 님을 강제 탈퇴 시켰습니다.";
+"<Guild> The guild member %s has been kicked out of the Guild. ";
+
+"OX이벤트가 닫히지 않았거나, 퀴즈 출제중입니다.(flag: %d)";
+"OX The Event has not ended yet. An error has occurred. (Flag: %d) ";
+
+"<길드> 길드원을 강제 탈퇴 시켰습니다.";
+"<Guild> You have kicked a guild member out. ";
+
+"<길드> 직위 이름을 변경할 권한이 없습니다.";
+"<Guild> You do not have the authority to change your rank name. ";
+
+"<길드> 길드장의 직위 이름은 변경할 수 없습니다.";
+"<Guild> The guild leader's rights cannot be changed. ";
+
+"<길드> 적합하지 않은 직위 이름 입니다.";
+"<Guild> This rank name is invalid. ";
+
+"<길드> 직위 권한을 변경할 권한이 없습니다.";
+"<Guild> You do not have the authority to change your position. ";
+
+"<길드> 길드장의 권한은 변경할 수 없습니다.";
+"<Guild> The rights of the guild leader cannot be changed. ";
+
+"<길드> %u의 경험치를 투자하였습니다.";
+"<Guild> %u experience points used. ";
+
+"<길드> 경험치 투자에 실패하였습니다.";
+"<Guild> Experience usage has failed. ";
+
+"<길드> 돈이 부족합니다.";
+"<Guild> Not enough Yang. ";
+
+"<길드> 용신력 회복에 실패하였습니다.";
+"<Guild> Dragon ghost was not restored. ";
+
+"잠시 후 OX 이벤트를 다시 시작하겠습니다.";
+"The OX Event will be restarted shortly. ";
+
+"<길드> 공지글을 작성할 권한이 없습니다.";
+"<Guild> You do not have the authority to make an announcement. ";
+
+"<길드> 직위를 변경할 권한이 없습니다.";
+"<Guild> You do not have the authority to change the position. ";
+
+"<길드> 길드장의 직위는 변경할 수 없습니다.";
+"<Guild> The guild leader's position cannot be changed. ";
+
+"<길드> 길드장으로 직위를 변경할 수 없습니다.";
+"<Guild> You cannot make yourself guild leader. ";
+
+"<길드> 장군을 지정할 권한이 없습니다.";
+"<Guild> You do not have the authority to choose the guild leader. ";
+
+"<길드> 더이상 장수를 지정할 수 없습니다.";
+"<Guild> You cannot choose any more guild leaders. ";
+
+"아이템을 건네줄 수 없습니다.";
+"You cannot trade this item. ";
+
+"불법 프로그램이 감지 되어 게임이 종료 됩니다.";
+"Illegal software has been detected. The game is being shut down. ";
+
+"소유 돈이 20억냥을 넘어 거래를 핼수가 없습니다.";
+"You have more than 2 Billion Yang with you. You cannot trade. ";
+
+"금액이 부족합니다.";
+"Invalid Yang. ";
+
+"현재 이벤트 참가자 분들은 마을로 이동 되겠습니다.";
+"The present event is limited to one area. ";
+
+"아이템 룰렛 시작.";
+"Start Item Roulette. ";
+
+"머니  룰렛 시작.";
+"Start Yang Roulette. ";
+
+"현재 온라인 상태 입니다. 귓말을 이용하세요.";
+"The player is online. Please use whisper to chat. ";
+
+"핸드폰 번호가 등록되어 있지 않습니다.";
+"The cell phone number is not registered. ";
+
+"문자 메세지 전송은 레벨 20부터 할 수 있습니다.";
+"You need to be at least on level 20 to be able to send text messages. ";
+
+"문자 메세지 전송에는 2000원이 필요 합니다.";
+"You need 2000 DT to send a text message. ";
+
+"문자 메세지를 전송 했습니다.";
+"Your text message has been sent. ";
+
+"%s 길드의 %s이 %d%% 증가했습니다!";
+"%s of the Guild %s raised up to %d%% ! ";
+
+"%s 길드의 %s이 정상으로 돌아왔습니다.";
+"%s of the Guild %s normal again. ";
+
+"%s:%s_WAS_SET_TO%d%%";
+"%s: %s has increased by %d%%! ";
+
+"OX 이벤트를 마치겟습니다.";
+"OX Event is being closed. ";
+
+"%s:_%s_IS_NORMAL_AGAIN";
+"%s 's %s normal again. ";
+
+"곡괭이 수련도가 최대(%d)가 되었습니다.";
+"Your mining points have reached their maximum. (%d) ";
+
+"곡괭이가 최대 수련도에 도달하였습니다.";
+"Your mining points have reached their maximum level. ";
+
+"나무꾼를 통해 다음 레벨의 곡괭이로 업그레이드 할 수 있습니다.";
+"You can get lumberjack Deokbae to upgrade your Pickax. ";
+
+"곡괭이의 수련도가 증가하였습니다! (%d/%d)";
+"Your Mining Points have increased! (%d/%d) ";
+
+"곡괭이를 들고 있지 않아서 캘 수 없습니다.";
+"You cannot mine without a Pick. ";
+
+"더이상 캐낼 수 없습니다.";
+"Nothing to mine here. ";
+
+"채광에 성공하였습니다.";
+"The mining has been successful. ";
+
+"채광에 실패하였습니다.";
+"The mining has failed. ";
+
+"<메신져> %s 님을 친구로 추가하였습니다.";
+"<Friends> You have added %s as a friend. ";
+
+"잠시 후 마을로 이동되겠습니다.";
+"The player will be teleported into the city shortly. ";
+
+"<메신져> %s 님을 메신저에서 삭제하였습니다.";
+"<Friends> You have deleted %s from the list. ";
+
+"서버에 치명적인 오류가 발생하여 자동으로 재부팅됩니다.";
+"A critical server error has occurred. The server will restart automatically. ";
+
+"10초후 자동으로 접속이 종료되며,";
+"You will be disconnected automatically in 10 seconds. ";
+
+"5분 후에 정상적으로 접속하실수 있습니다.";
+"You can connect again after 5 minutes. ";
+
+"(%s) 길드가 생성되었습니다. [임시]";
+"(%s) guild has been created. [Temporary] ";
+
+"현재 전쟁중인 길드 입니다";
+"This guild is at war. ";
+
+"%s: 존재하지 않는 길드 입니다.";
+"%s: This guild does not exist. ";
+
+"그런 이름 또는 번호의 길드가 없습니다.";
+"A guild with this name or number does not exist. ";
+
+"존재하지 않는 건물입니다.";
+"The building does not exist. ";
+
+"같이 지을 수 없는 종류의 건물이 지어져 있습니다.";
+"This type of building can only be erected once. ";
+
+"OX이벤트 맵을 먼저 닫아 주세요.(Flag: %d)";
+"Close the OX event card first. (Flag: %d) ";
+
+"건설에 필요한 건물이 지어져 있지 않습니다.";
+"The Main Building has to be erected first. ";
+
+"건물 비용 정보 이상으로 건설 작업에 실패했습니다.";
+"Building failed because of incorrect pricing. ";
+
+"건설 비용이 부족합니다.";
+"You do not have enough Yang to erect this building. ";
+
+"자재가 부족하여 건설할 수 없습니다.";
+"You do not have enough resources to build a building. ";
+
+"건물을 지을 수 없는 위치입니다.";
+"You cannot erect a building at this place. ";
+
+"존재하지 않는 캐릭터 입니다.";
+"This character does not exist. ";
+
+"대련 강제 종료 실패";
+"Duel has not been successfully canceled. ";
+
+"대련 강제 종료 성공";
+"Duel canceled successfully. ";
+
+"대련이 성공적으로 시작 되었습니다.";
+"The duel has been successfully started. ";
+
+"대련 시작에 문제가 있습니다.";
+"There is a problem with initiating the duel. ";
+
+"문제를 출제하지 못했습니다.";
+"No errors occurred. ";
+
+"대련자가 없습니다.";
+"There are no combatants. ";
+
+"남은 스탯 포인트가 없습니다.";
+"No status points left. ";
+
+"남은 스탯 포인트가 적습니다.";
+"Remaining status points are too low. ";
+
+"값을 잘못 입력하였습니다.";
+"You entered an incorrect value. ";
+
+"명령어의 서브 커맨드가 잘못 되었습니다.";
+"Suborder or the Order is incorrect. ";
+
+"플레이어 %d 와 플레이어  %d를 파혼시킵니다..";
+"Broken contract between player %d and player %d. ";
+
+"룻렛을 돌립니다. 금액 %d";
+"Turn the Roulette for %d Yang. ";
+
+"아이템로그가 syslog 에 남았습니다";
+"The Item log placed into the syslog. ";
+
+"각제국 진행 정보";
+"Information for the Kingdoms ";
+
+"선택 맵 정보 성지 %d 통로 %d %d %d";
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d; ";
+
+"문제를 출제하였습니다.";
+"An error has occurred. ";
+
+"%s killcount %d mobkillcount %d bosskillcount %d 성지 진입수 %d";
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d ";
+
+"나의 삼거리 진행정보";
+"Information about the status of the kingdom battle ";
+
+"퀘스트를 로드하는 중입니다. 잠시만 기다려 주십시오.";
+"Your request is loading. Please wait. ";
+
+"다른거래창이 열린상태에서는 창고를 열수가 없습니다.";
+"You cannot open a Storeroom if another trade window is open. ";
+
+"<창고> 창고 비밀번호가 변경되었습니다.";
+"<Storeroom> Storeroom password has been changed. ";
+
+"<창고> 기존 비밀번호가 틀렸습니다.";
+"<Storeroom> You have entered the wrong password. ";
+
+"결재기간이 %d분 후 만료 됩니다.";
+"Your playing time is going to run out in %d minutes. ";
+
+"정상적으로 투표를하였습니다.";
+"Regularly voted. ";
+
+"이미투표를 했음";
+"Already voted. ";
+
+"%s 님은 정상적으로 출마를 하였습니다.";
+"%s player already in the vote. ";
+
+"이미 선전포고 중인 길드입니다.";
+"You have declared war on this guild. ";
+
+"OX이벤트가 열려 있지 않거나 문제 출제중입니다.(Flag: %d)";
+"OX Event is over. No errors occurred. (Flag: %d) ";
+
+"출마를 할수가 없습니다";
+"Cannot run for office. ";
+
+"현재 %s 국고에는 %u 의 돈이 있습니다";
+"%s still has %u Yang available. ";
+
+"현재 %s 국고에는 %d 의 돈이 있습니다";
+"%s still has %d Yang available. ";
+
+"국고에 돈이 부족하거나 돈을 가져올수 없는 상황입니다";
+"You do not have enough Yang. ";
+
+"%s 군주 후보에서 삭제하였습니다";
+"%s is deleted as an Emperor Candidate. ";
+
+"%s 는 군주 후보가 아닙니다.";
+"%s is not a candidate for the emperor elections. ";
+
+"%s 군주로 입명 했습니다.";
+"%s has been nominated as emperor. ";
+
+"%s 는 군주로 입명할수 없습니다 .";
+"%s cannot be nominated as emperor. ";
+
+"%s 군주르 제거 하였습니다..";
+"The %s Emperor gets driven out. ";
+
+"%s 군주를 제거 할수 없습니다.";
+"The %s Emperor cannot be driven out. ";
+
+"더 이상 OX이벤트 참가자를 받지 않습니다.";
+"OX Event is not accepting any more participants. ";
+
+"신수국";
+"Shinsoo Kingdom ";
+
+"천조국";
+"Chunjo Kingdom ";
+
+"진노국";
+"Jinno Kingdom ";
+
+"낚시대의 수련도가 증가하였습니다! (%d/%d)";
+"Your fishing points have increased! (%d/%d) ";
+
+"낚시대가 최대 수련도에 도달하였습니다.";
+"You have reached the maximum number of fishing points. ";
+
+"어부를 통해 다음 레벨의 낚시대로 업그레이드 할 수 있습니다.";
+"Go to the Fisherman and get your Fishing Pole upgraded! ";
+
+"고기가 미끼만 빼먹고 잽싸게 도망칩니다.";
+"You lost your bait to the fish. ";
+
+"고기가 잡혔습니다! (%s)";
+"You have caught a fish! (%s) ";
+
+"이번에 잡은 물고기의 길이는 %.2fcm";
+"The length of the captured fish is %.2fcm. ";
+
+"낚시이벤트월척붕어";
+"Fishing Event 'Great Zander' ";
+
+"OX이벤트의 나머지 인원을 기록하였습니다.";
+"OX The other event participants are being noted down. ";
+
+"낚시이벤트잉어";
+"Fishing Event 'Carp' ";
+
+"%s : %d 마리";
+"%s: %d ";
+
+"%d 종류 %d 마리 낚음";
+"You have caught %d of %d . ";
+
+"고기가 흔적도 없이 사라집니다.";
+"The fish vanished in the depths of the water. ";
+
+"배 속에서 조개가 나왔습니다.";
+"There is a Shell inside the Fish. ";
+
+"배 속에서 지렁이가 나왔습니다.";
+"There is a Worm inside the Fish. ";
+
+"%s를 구웠습니다.";
+"You are roasting %s over the fire. ";
+
+"20억 냥을 초과하여 상점을 열수가 없습니다";
+"You can't trade because you are carrying more than 2 million Yang. ";
+
+"비속어나 은어가 포함된 상점 이름으로 상점을 열 수 없습니다.";
+"You can't give your shop an invalid name. ";
+
+"유료화 아이템은 개인상점에서 판매할 수 없습니다.";
+"You can't sell Item-Shop items in a private shop. ";
+
+"OX이벤트의 나머지 인원 기록을 실패했습니다.";
+"OX The other event participants have not been noted down. ";
+
+"채광을 중단하였습니다.";
+"Mining is finished. ";
+
+"곡괭이를 장착하세요.";
+"You need a Pickax in order to extract ore! ";
+
+"낚시대를 장착 하세요.";
+"Please choose a Fishing Pole. ";
+
+"미끼를 끼고 던져 주세요.";
+"Place the Bait on the Hook first. ";
+
+"낚시대가 아닌 물건으로 낚시를 할 수 없습니다!";
+"You can't go fishing without a fishing pole! ";
+
+"파티장이 접속 상태가 아니라서 요청을 할 수 없습니다.";
+"<Group> You cannot make a request because the group leader is not online. ";
+
+"<파티> 다른 제국과 파티를 이룰 수 없습니다.";
+"<Group> You cannot form a group with players from another kingdom. ";
+
+"<파티> 던전 안에서는 파티 초대를 할 수 없습니다.";
+"<Group> You cannot invite players while you are in a dungeon. ";
+
+"<파티> 관전 모드에선 파티 초대를 할 수 없습니다.";
+"<Group> You cannot invite a player while you are in observer mode. ";
+
+"<파티> -30 ~ +30 레벨 이내의 상대방만 초대할 수 있습니다.";
+"<Group> Only players with a level difference of -30 to +30 can be invited. ";
+
+"현재 남은 참가자수 : %d";
+"Number of other participants : %d ";
+
+"<파티> 파티내 최고 레벨 보다 30레벨이 낮아 초대할 수 없습니다.";
+"<Group> You cannot invite this player, as their level is too low. ";
+
+"<파티> 파티내 최저 레벨 보다 30레벨이 높아 초대할 수 없습니다.";
+"<Group> You cannot invite this player, as their level is too high. ";
+
+"<파티> 더 이상 파티원을 초대할 수 없습니다.";
+"<Group> You cannot invite any more players into your group. ";
+
+"%s 님에게 파티가입 신청을 했습니다.";
+"You want to join %s's group. ";
+
+"상대방이 파티에 속해있지 않습니다.";
+"This player is not in this group. ";
+
+"<파티> 파티의 인원제한이 초과하여 파티에 참가할 수 없습니다.";
+"<Group> You cannot join this group because it is already full. ";
+
+"<파티> 파티원을 초대할 수 있는 권한이 없습니다.";
+"<Group> You do not have the right to invite someone. ";
+
+"<파티> %s 님이 파티 거부 상태입니다.";
+"<Group> %s has declined your group invitation. ";
+
+"<파티> 이미 %s님은 파티에 속해 있습니다.";
+"<Group> %s is already in the group. ";
+
+"<파티> 던전 안에서는 파티 초대에 응할 수 없습니다.";
+"<Group> You cannot accept an invitation into a dungeon. ";
+
+"OX이벤트를 강제 종료 시킵니다.";
+"OX Event is finishing. ";
+
+"<파티> 파티 초대에 응할 수 없습니다.";
+"<Group> You cannot accept the invitation. ";
+
+"<파티> %s님이 파티 초대를 거절하셨습니다.";
+"<Group> %s has declined your invitation. ";
+
+"<파티> %s님이 파티에 참가하셨습니다.";
+"<Group> %s has joined your group. ";
+
+"<파티> %s님의 파티에 참가하셨습니다.";
+"<Group> %s has joined your Group. ";
+
+"다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
+"You can't use a private shop now. ";
+
+"상대방이 다른 거래를 하고 있는 중입니다.";
+"This player is already trading with another player. ";
+
+"메틴2인증번호: %s";
+"Metin2 Confirmation Number: %s ";
+
+"인증번호가 틀렸습니다. 다시 시도하세요.";
+"Your Confirmation Number is not correct. Please try again. ";
+
+"핸드폰 번호가 등록 되었습니다.";
+"The mobile phone number is registered. ";
+
+"상대방이 있는 곳으로 워프할 수 없습니다.";
+"You cannot teleport to the player. ";
+
+"OX 상품을 지급하였습니다. ID: %d 수량: %d";
+"OX The prize has been awarded. ID: %d Quantity: %d ";
+
+"상대방이 온라인 상태가 아닙니다.";
+"This player is not online. ";
+
+"상대방이 %d 채널에 있습니다. (현재 채널 %d)";
+"The player is playing on channel %d. (You are on channel %d.) ";
+
+"창고를 연후 %d초 이내에는 다른곳으로 이동할수 없습니다.";
+"After opening the Storeroom, you cannot go anywhere else for %d seconds. ";
+
+"거래창,창고 등을 연 상태에서는 다른곳으로 이동,종료 할수 없습니다";
+"You cannot go elsewhere for a period of time after the trade. ";
+
+"거래 후 %d초 이내에는 다른지역으로 이동 할 수 없습니다.";
+"After trading you cannot go elsewhere for %d seconds. ";
+
+"대련 상대가 사라져 대련을 종료합니다.";
+"The duel has finished, because your combatant vanished. ";
+
+"물약 제한이 없습니다.";
+"There is no limit for Potions. ";
+
+"물약을 %d 개 까지 사용 가능합니다.";
+"You can use up to %d potions. ";
+
+"10초뒤 대련이 시작됩니다.";
+"The fight will start in 10 seconds. ";
+
+"대련이 시작되었습니다.";
+"The duel has begun. ";
+
+"참";
+"TRUE ";
+
+"대련장 문제로 인하여 대련을 종료합니다.";
+"The duel is being finished because there is a problem in the duel arena. ";
+
+"대련 시간 초과로 대련을 중단합니다.";
+"The duel has finished because of a timeout. ";
+
+"10초뒤 마을로 이동합니다.";
+"In 10 seconds you will be teleported into the city. ";
+
+"대련자 문제로 인하여 대련을 중단합니다.";
+"The duel has been stopped because there is a problem in the arena. ";
+
+"상대방 캐릭터의 문제로 인하여 대련을 종료합니다.";
+"Your combatant has got some problems. The duel is being canceled. ";
+
+"대련자 문제로 인하여 대련을 종료합니다.";
+"The duel is being canceled as there is a problem with the combatant. ";
+
+"%s 님이 대련에서 승리하였습니다.";
+"%s has won the duel. ";
+
+"%s 님이 승리하였습니다.";
+"%s has won. ";
+
+"10초뒤 마을로 되돌아갑니다.";
+"You will be teleported into the city in 10 seconds. ";
+
+"10초뒤 다음 판을 시작합니다.";
+"The next round will begin in 10 seconds. ";
+
+"거짓";
+"FALSE ";
+
+"상대방 캐릭터가 접속을 종료하여 대련을 중지합니다.";
+"The combatants have been separated. The duel has been stopped. ";
+
+"아이템 드롭률  %d%% 추가 이벤트 중입니다.";
+"The quota of the Item Drop is at the moment plus %d%% ";
+
+"골드 드롭률 %d%% 추가 이벤트 중입니다.";
+"The quota of the Yang Drop is at the moment plus %d%% ";
+
+"대박골드 드롭률 %d%% 추가 이벤트 중입니다.";
+"The quota of the Yang Drop is at the moment plus %d%% ";
+
+"경험치 %d%% 추가 획득 이벤트 중입니다.";
+"The experience bonus is currently an additional %d%%. ";
+
+"클라이언트 버전이 틀려 로그아웃 됩니다. 정상적으로 패치 후 접속하세요.";
+"You do not have the correct client version. Please install the normal patch. ";
+
+"다른 거래창이 열린상태에서는 상점거래를 할수 가 없습니다.";
+"You cannot trade in the shop if another trade window is open. ";
+
+"상점과의 거리가 너무 멀어 물건을 살 수 없습니다.";
+"You are too far away from the shop to buy something. ";
+
+"상점과의 거리가 너무 멀어 물건을 팔 수 없습니다.";
+"You are too far away from the shop to sell something. ";
+
+"20억냥이 초과하여 물품을 팔수 없습니다.";
+"You are carrying more than 2 Billion Yang, so you cannot trade. ";
+
+"총 퀴즈 수: %d";
+"Total number of the Quiz: %d ";
+
+"판매금액의 %d %% 가 세금으로 나가게됩니다";
+"This sale will be taxed %d%%. ";
+
+"변신 상태에서는 말에 탈 수 없습니다.";
+"You cannot ride a Horse while you are transformed. ";
+
+"예복을 입은 상태에서 말을 탈 수 없습니다.";
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo. ";
+
+"말을 소유하고 있지 않습니다.";
+"You do not have a Horse. ";
+
+"말이 죽어있는 상태 입니다.";
+"Your Horse is dead. ";
+
+"말의 스테미너가 부족하여 말을 탈 수 없습니다.";
+"Your Horse's endurance is too low. ";
+
+"말 소환에 실패하였습니다.";
+"Calling the Horse has failed. ";
+
+"님의 말";
+"'s Horse ";
+
+"결혼식이 종료됩니다.";
+"The wedding is finishing soon. ";
+
+"자동으로 나가게됩니다.";
+"Will be left automatically. ";
+
+"이미 전쟁이 끝났습니다.";
+"The war is already over. ";
+
+"10초뒤 판정하겠습니다.";
+"The result will follow in 10 seconds. ";
+
+"관전 상태에서는 교환을 할 수 없습니다.";
+"You cannot trade while observing. ";
+
+"다른 거래창이 열려있을경우 거래를 할수 없습니다.";
+"If the trade window is open, you cannot trade with others. ";
+
+"상대방이 다른 거래중이라 거래를 할수 없습니다.";
+"The other person is already trading, so you cannot trade right now. ";
+
+"상대방이 교환 거부 상태입니다.";
+"The other person has canceled the trade. ";
+
+"돈이 부족하거나 아이템이 제자리에 없습니다.";
+"Not enough Yang or not enough space in the inventory. ";
+
+"상대방의 돈이 부족하거나 아이템이 제자리에 없습니다.";
+"The other person does not have enough Yang or does not have any space left in their inventory. ";
+
+"상대방의 소지품에 빈 공간이 없습니다.";
+"The other person has no space left in their inventory. ";
+
+"%s 님과의 교환이 성사 되었습니다.";
+"The trade with %s has been successful. ";
+
+"용신의 가호로 경험치가 떨어지지 않았습니다.";
+"You did not lose any Experience because of the Blessing of the Dragon God. ";
+
+"현재 스코어 신수국:%d 천조국:%d 진노국:%d";
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d ";
+
+"정답은";
+"The correct answer is: ";
+
+"죽은 정보 %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d ";
+
+"성지의 마왕: 너희";
+"The devil of the hallowed place ";
+
+"녀석들은 이곳 성지에 있을 자격을 잃었다. 모두 성지에서 물러나거라~~[ENTER][ENTER] 10초 후에 모두 마을로 이동하게 됩니다.";
+"You do not have the right to be here. Go away! You will sent back to your village in 10 seconds. ";
+
+"삼거리 전투에서 %s 국가가 가장먼저 탈락을 하였습니다";
+"The %s Kingdom was defeated and drops out of the Kingdom Battle. ";
+
+"삼거리 몹 리젠";
+"Number of Monsters in the Kingdom Battle: ";
+
+". 너희가 성지의 수호자를 잡게 된다면 너희는 성지의 주인이 된다.[ENTER][ENTER] ";
+"If you defeat the Guard of the Holy Place, you will become the owner of it. ";
+
+"용신의 보호로 아이템이 떨어지지 않았습니다.";
+"You did not drop any Item(s) as you are protected by the Dragon God. ";
+
+"관통 추가 데미지 %d";
+"Additional Stabbing Weapon Damage %d ";
+
+"%s 블럭! (%d%%)";
+"%s block! (%d%%) ";
+
+"%s 회피! (%d%%)";
+"%s avoid! (%d%%) ";
+
+"O 입니다";
+"Yes (O) ";
+
+"%s[%d]가 공격 위치: %d %d";
+"%s[%d]'s Attack Position: %d %d ";
+
+"명령어를 모두 입력하세요.";
+"Please enter the Order in full length. ";
+
+"탄 상태에서는 할 수 없습니다.";
+"You cannot do this while sitting on a Horse. ";
+
+"쓰러진 상태에서는 할 수 없습니다.";
+"You cannot do that while you are lying on the ground. ";
+
+"꿈속에서 어떻게요?";
+"In my Dreams? What? ";
+
+"먼저 일어 나세요.";
+"Get up first. ";
+
+"그런 명령어는 없습니다";
+"This command does not exist. ";
+
+"<파티> 파티가 해산 되었습니다.";
+"<Group> This group has been disbanded. ";
+
+"<파티> 대상을 소환할 수 없습니다.";
+"<Group> You cannot call the target. ";
+
+"<파티> 파티원을 현재 위치로 소환할 수 없습니다.";
+"<Group> You cannot call group members over to your current position. ";
+
+"X 입니다";
+"No (X) ";
+
+"파티의 협동력이 높아져 지금부터 추가 경험치 보너스를 받습니다.";
+"Your group works together well and has received an experience bonus. ";
+
+"길드장";
+"Leader ";
+
+"길드원";
+"Member ";
+
+"<길드> 제공하고자 하는 경험치가 남은 경험치보다 많습니다.";
+"<Guild> Provided Experience is larger then left Experience. ";
+
+"<길드> 삭제할 수 없는 글입니다.";
+"<Guild> This message cannot be deleted. ";
+
+"<길드> 용신력이 부족합니다. (%d, %d)";
+"<Guild> Not enough Dragon Ghost. (%d, %d) ";
+
+"<길드> 쿨타임이 끝나지 않아 길드 스킬을 사용할 수 없습니다.";
+"<Guild> You cannot use the guild skills yet. ";
+
+"<길드> %d 스킬을 사용함 (%d, %d) to %u";
+"<Guild> %d skill has been applied (%d, %d) to %u. ";
+
+"<길드> 상대가 %d 채널에 있습니다. (현재 채널 %d)";
+"<Guild> This player is on channel %d. (Current channel: %d) ";
+
+"<길드> 상대가 온라인 상태가 아닙니다.";
+"<Guild> This player is not online. ";
+
+"5초 뒤 틀리신 분들을 바깥으로 이동 시키겠습니다.";
+"After 5 sec. all who gave a wrong answer are going to be removed. ";
+
+"<길드> 길드 스킬은 길드전 중에만 사용할 수 있습니다.";
+"<Guild> This guild skill can only be used during war. ";
+
+"<길드> %u의 용신력을 회복하였습니다.";
+"<Guild> %u Dragon ghost points have been restored. ";
+
+"<길드> 길드 금고에선 길드장만 출금할 수 있습니다.";
+"<Guild> Only the guild leader can withdraw Yang. ";
+
+"<길드> 상대방이 길드 초대 거부 상태입니다.";
+"<Guild> The player has declined the guild invitation. ";
+
+"<길드> 길드원을 초대할 권한이 없습니다.";
+"<Guild> You do not have the authority to invite someone to join the guild. ";
+
+"<길드> 다른 제국 사람을 길드에 초대할 수 없습니다.";
+"<Guild> You cannot invite players from another kingdom into the guild. ";
+
+"<길드> 탈퇴한 후 %d일이 지나지 않은 사람은 길드에 초대할 수 없습니다.";
+"<Guild> This player can be invited again after %d days. ";
+
+"<길드> 길드를 해산한 지 %d일이 지나지 않은 사람은 길드에 초대할 수 없습니다.";
+"<Guild> After the rearrangement you can invite members again after %d days. ";
+
+"<길드> 상대방이 이미 다른 길드에 속해있습니다.";
+"<Guild> This person is already a member of another Guild. ";
+
+"<길드> 최대 길드원 수를 초과했습니다.";
+"<Guild> The maximum guild capacity has been reached. ";
+
+"다음 문제 준비해주세요.";
+"Ready for the next question? ";
+
+"수련할 수 없는 스킬입니다.";
+"You cannot train this skill. ";
+
+"그랜드 마스터 수련을 할 수 없는 스킬입니다.";
+"You cannot train this skill up to Grand Master level. ";
+
+"퍼펙트 마스터된 스킬입니다. 더 이상 수련 할 수 없습니다.";
+"You already are a Master of this skill. You cannot train this skill any further. ";
+
+"이 스킬은 아직 그랜드 마스터 수련을 할 경지에 이르지 않았습니다.";
+"Your Skill is not high enough to become a Grand Master. ";
+
+"크윽, 기가 역류하고 있어! 이거 설마 주화입마인가!? 젠장!";
+"That did not work. Damn! ";
+
+"수련이 실패로 끝났습니다. 다시 도전해주시기 바랍니다.";
+"Training has failed. Please try again later. ";
+
+"몸에서 뭔가 힘이 터져 나오는 기분이야!";
+"My body is full of energy! ";
+
+"뜨거운 무엇이 계속 용솟음치고 있어! 이건, 이것은!";
+"The training seems to be working already... ";
+
+"더 높은 경지의 수련을 성공적으로 끝내셨습니다.";
+"You successfully finished your training with the book. ";
+
+"경험치가 부족하여 책을 읽을 수 없습니다.";
+"You cannot read this due to your lack of experience. ";
+
+"문제 입니다.";
+"Question. ";
+
+"이 스킬은 책으로 더이상 수련할 수 없습니다.";
+"You cannot train this skill with a Book. ";
+
+"이 스킬은 아직 책으로 수련할 경지에 이르지 않았습니다.";
+"This skill's level is not high enough to be trained with a Book. ";
+
+"어느정도 이 기술에 대해 이해가 되었지만 조금 부족한듯 한데..";
+"I'm making progress, but I still haven't understood everything. ";
+
+"드디어 끝이 보이는 건가...  이 기술은 이해하기가 너무 힘들어..";
+"These instructions are difficult to understand. I have to carry on studying. ";
+
+"열심히 하는 배움을 가지는 것만이 기술을 배울수 있는 유일한 길이다..";
+"I understand this chapter. But I've got to carry on working hard. ";
+
+"책으로 더 높은 경지의 수련을 성공적으로 끝내셨습니다.";
+"You have successfully finished your training with the Book. ";
+
+"귀환에 실패하였습니다.";
+"Teleportation has failed. ";
+
+"말이 없습니다. 마굿간 경비병을 찾아가세요.";
+"No Horse here. Ask the Stable Boy. ";
+
+"말 소환 아이템을 사용하세요.";
+"Please use an item to call a Horse. ";
+
+"%s SP소모: %d";
+"%s FP-Consumption: %d ";
+
+"맞으면 O, 틀리면 X로 이동해주세요";
+"If it's correct, then go to O. If it's wrong, go to X. ";
+
+"몸 속이 뜨겁군. 하지만 아주 편안해. 이대로 기를 안정시키자.";
+"I am burning inside, but it is calming down my body. My Chi has to stabilise. ";
+
+"그래, 천천히. 좀더 천천히, 그러나 막힘 없이 빠르게!";
+"A little slow, but steady... Without stopping! ";
+
+"그래, 이 느낌이야. 체내에 기가 아주 충만해.";
+"Yes, that feels great. My body is full of Chi. ";
+
+"다 읽었다! 이제 비급에 적혀있는 대로 전신에 기를 돌리기만 하면,";
+"I have read it! Now the Chi will spread through my body. ";
+
+"그것으로 수련은 끝난 거야!";
+"The training is completed. ";
+
+"이제 책의 마지막 장이야! 수련의 끝이 눈에 보이고 있어!";
+"I am on the last page of the book. The training is nearly finished! ";
+
+"얼마 안 남았어! 조금만 더!";
+"Nearly finished! Just a little bit more to go! ";
+
+"좋았어! 조금만 더 읽으면 끝이다!";
+"Eureka! I have nearly finished reading it! ";
+
+"책장도 이제 얼마 남지 않았군.";
+"Only a few more pages and then I'll have read everything. ";
+
+"뭔가 몸 안에 힘이 생기는 기분인 걸.";
+"I feel refreshed. ";
+
+"정답입니다!";
+"Correct! ";
+
+"이제 좀 슬슬 가닥이 잡히는 것 같은데.";
+"Now I understand it! ";
+
+"좋아, 이 기세로 계속 나간다!";
+"Okay I have to stay concentrated! ";
+
+"아니 어떻게 된 게 종일 읽어도 머리에 안 들어오냐.";
+"I keep reading the same line over and over again. ";
+
+"공부하기 싫어지네.";
+"I do not want to learn any more. ";
+
+"생각만큼 읽기가 쉽지가 않군. 이해도 어렵고 내용도 난해해.";
+"It is a lot more complicated and more difficult to understand than I thought. ";
+
+"이래서야 공부가 안된다구.";
+"It's hard for me to concentrate. I should take a break. ";
+
+"운영자 제제로 채팅이 금지 되었습니다.";
+"Your chat has been blocked by a GM. ";
+
+"채팅 금지가 풀렸습니다.";
+"Your chat block has been lifted. ";
+
+"이미 제조창이 열려있습니다.";
+"The Build window is already open. ";
+
+"다른 거래중(창고,교환,상점)에는 사용할 수 없습니다.";
+"You cannot build something while another trade/storeroom window is open. ";
+
+"더 이상 개량할 수 없습니다.";
+"No further improvements possible. ";
+
+"제조창이 열려있지 않습니다";
+"The build window is not open. ";
+
+"제조 재료가 부족합니다";
+"You do not have the right material. ";
+
+"<길드> 잠시후에 이용해주십시오";
+"<Guild> Please try again later. ";
+
+"%d 권을 더 읽어야 수련을 완료 할 수 있습니다.";
+"You have to read %d more skill books to improve this skill. ";
+
+"<길드> 잠시후에 이용해주십시오.";
+"<Guild> Please try again later. ";
+
+"성에서만 사용할 수 있는 기능입니다.";
+"You are only able to use this function while you are at the castle. ";
+
+"TEST : 황금두꺼비가 국고로 환원되었습니다.";
+"TEST: The Gold Bar has been paid back to your kingdom's safe. ";
+
+"TEST : 현재 국고 : %d";
+"TEST: In your kingdom's safe there are: %d ";
+
+"TEST : 황금두꺼비를 국고로 환원할 수 없습니다.";
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe. ";
+
+"<길드> 래더 점수가 %d 점이 되었습니다";
+"<Guild> The guild has reached %d points. ";
+
+"이 아이템은 개량할 수 없습니다.";
+"This item cannot be improved. ";
+
+"무료 개량 기회는 20 이하의 무기만 가능합니다";
+"The free weapon improvements can only be used on weapons up to level 20. ";
+
+"군직이 맞지않아 이 아이템을 사용할 수 없습니다.";
+"You cannot use this item because you do not fulfill all the requirements. ";
+
+"성별이 맞지않아 이 아이템을 사용할 수 없습니다.";
+"You are not able to use that item because you do not have the right gender. ";
+
+"사용법: transfer <name>";
+"Use: transfer <name> ";
+
+"군주만이 사용 가능한 기능입니다";
+"This function can only be used by the emperor. ";
+
+"다른 제국 유저는 소환할 수 없습니다.";
+"You cannot recruit players from another kingdom. ";
+
+"%s 님은 %d 채널에 접속 중 입니다. (현재 채널: %d)";
+"The player %s is on channel %d at the moment. (Your channel: %d) ";
+
+"%s 님을 소환하였습니다.";
+"You have recruited %s players. ";
+
+"입력하신 이름을 가진 사용자가 없습니다.";
+"There is no user with this name. ";
+
+"자신을 소환할 수 없습니다.";
+"You cannot recruit yourself. ";
+
+"개량된 후 아이템의 레벨 제한보다 레벨이 낮습니다.";
+"Your level is too low to use this item. ";
+
+"창고,거래창등이 열린 상태에서는 개량을 할수가 없습니다";
+"You cannot upgrade something while the shop or trading window is open. ";
+
+"%s의 군주가 %s 님으로 교체되었습니다.";
+"The emperor of %s has changed to %s. ";
+
+"%s에서 봉화를 둘러싸고 전투가 진행중입니다.";
+"There are %s wars to inflame the bonfires. ";
+
+"%s이 수성에 성공했습니다.";
+"%s has successfully defended. ";
+
+"지금부터 %s은 30분간 봉화를 파괴하여 보상을 획득 할 수 있습니다.";
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire. ";
+
+"30분이 경과했습니다.. 봉화가 사라집니다.";
+"30 minutes are over. The bonfires have disappeared. ";
+
+"%s에 전쟁의 시작을 알리는 봉화가 나타났습니다.";
+"A bonfire was inflamed at %s to warn because of a battle. ";
+
+"%s이 봉화를 파괴했습니다.";
+"%s has destroyed the bonfire. ";
+
+"%s이 수성에 실패하여 전쟁에 패배하였습니다..";
+"%s lost the war as they have not been able to defend the castle. ";
+
+"%s이 모든 봉화를 파괴하였습니다.";
+"%s has destroyed all the bonfires. ";
+
+"개량을 하기 위한 돈이 부족합니다.";
+"Not enough Yang for an upgrade. ";
+
+"갑옷을 벗어야 개인 상점을 열 수 있습니다.";
+"You can only open the shop if you take off your armor. ";
+
+"말을 탄 상태에서 예복을 입을 수 없습니다.";
+"You cannot use it while riding a Horse. ";
+
+"%s이 필요합니다.";
+"For this action you need: %s ";
+
+"%d 시간 %d 분 %d 초 동안 채팅금지 상태입니다";
+"%d hours %d minutes %d seconds left on your chat block ";
+
+"%d 시간 %d 초 동안 채팅금지 상태입니다";
+"%d hours %d seconds left on your chat block ";
+
+"%d 분 %d 초 동안 채팅금지 상태입니다";
+"%d minutes %d seconds left on your chat block ";
+
+"돈 대박이 나올 확률";
+"Yang Drop Rate ";
+
+"빼낼 영석이 없습니다";
+"There is no stone available for removal. ";
+
+"아직 사용할 수 없습니다.";
+"Cannot be used yet. ";
+
+"테스트 서버 시간제한 통과";
+"The time limit on the test server has been exceeded. ";
+
+"개량을 하기 위한 재료가 부족합니다.";
+"Not the right material for an upgrade. ";
+
+"선악치를 더 이상 올릴 수 없습니다.";
+"The rank points cannot be increased further. ";
+
+"전제국";
+"All kingdoms ";
+
+"아이템이 나올 확률";
+"Item drop rate in percent ";
+
+"돈이 나올 확률";
+"Yang drop rate in percent ";
+
+"돈 대박이 나올 확률";
+"Percentage of Yang Tenners dropped ";
+
+"경험치 배율";
+"Experience percentage ";
+
+"변신중에는 책을 읽을수 없습니다.";
+"You cannot read a book while you are transformed. ";
+
+"%d 초 동안 채팅금지 상태입니다";
+"%d seconds left on your chat block ";
+
+"말을 탄 상태에서 감정표현을 할 수 없습니다.";
+"You cannot express emotions while riding a horse. ";
+
+"말을 탄 상대와 감정표현을 할 수 없습니다.";
+"You cannot use emotions with a player who is riding on a Horse. ";
+
+"이 개량서로 더 이상 개량할 수 없습니다.";
+"The Scroll of War does not work on items with +4 or above. ";
+
+"%s님이 주사위를 굴려 %d가 나왔습니다. (%d-%d)";
+"%s rolled dice. He/she got %d (%d-%d). ";
+
+"당신이 주사위를 굴려 %d가 나왔습니다. (%d-%d)";
+"You rolled dice. You got %d (%d-%d). ";
+
+"<길드> 상대방 길드의 길드장이 접속중이 아닙니다.";
+"<Guild> The enemy's guild leader is offline. ";
+
+"쓰러진 상태에서는 말에 탈 수 없습니다.";
+"You cannot get on the horse while you are lying on the ground. ";
+
+"<길드> 현재 길드가 전쟁 중 입니다.";
+"<Guild> This guild is taking part in a battle at the moment. ";
+
+"낚시를 할 수 있는 곳이 아닙니다";
+"You cannot fish here. ";
+
+"<길드> 길드가 이미 최고 레벨입니다.";
+"<Guild> Your guild has already reached the maximum level. ";
+
+"둔갑할 수 없는 상태입니다.";
+"You cannot transform while you are riding. ";
+
+"이미 탈것을 이용중입니다.";
+"You're already riding. Get off first. ";
+
+"상대방이 친구 추가를 받을 수 없는 상태입니다.";
+"You cannot add the person standing opposite you to your friends. ";
+
+"이 개량서로 개량할 수 없습니다.";
+"You cannot upgrade items with this Scroll. ";
+
+"떨어진 아이템은 %d분 후 사라집니다.";
+"The item that dropped will disappear after %d minutes ";
+
+"<길드> 상대방이 초대 신청을 받을 수 없는 상태입니다.";
+"<Guild> The person standing opposite you cannot receive the invitation. ";
+
+"착용 중인 아이템은 판매할 수 없습니다.";
+"You cannot sell equipped items. ";
+
+"장비중인 아이템은 개인상점에서 판매할 수 없습니다.";
+"Equipped items cannot be sold in the private shop. ";
+
+"<창고> 창고로 옮길 수 없는 아이템 입니다.";
+"<Storeroom> You cannot move this item into your storeroom. ";
+
+"아직 골드를 버릴 수 없습니다.";
+"You cannot throw the Gold away yet. ";
+
+"인벤토리가 꽉 차서 내릴 수 없습니다.";
+"Your inventory is full. Item cannot be picked up. ";
+
+"적용 레벨보다 높아 사용이 불가능합니다.";
+"The level of your item is too high. ";
+
+"무기와 갑옷에만 사용 가능합니다.";
+"Can only be used on weapons and armor. ";
+
+"충전할 수 없습니다.";
+"You cannot recharge this Dragon Stone. ";
+
+"사귀 타워 완료 보상은 한번까지 사용가능합니다.";
+"You can only be rewarded once for the Demon Tower Quest. ";
+
+"용혼석 추출에 성공하였습니다.";
+"Dragon Stone has been removed. ";
+
+"강화창을 연 상태에서는 아이템을 옮길 수 없습니다.";
+"You cannot move the item within the refinement window. ";
+
+"제조에 실패하였습니다.";
+"The improvement of your item failed. ";
+
+"감지기를 작용하였으나 감지되는 영석이 없습니다.";
+"There is currently no Metin Stone on this map. ";
+
+"용심 추출에 성공하였습니다.";
+"Dragon Stone remaining duration has been extracted. ";
+
+"용심 추출에 실패하였습니다.";
+"Remaining duration extraction failed. ";
+
+"용혼석 추출에 성공하였습니다.";
+"Dragon Stone has been removed. ";
+
+"용혼석 추출에 실패하여 %s를 얻었습니다.";
+"Removal of Dragon Stone failed. But you have received the following: %s ";
+
+"용혼석 추출에 실패하였습니다.";
+"Removal of Dragon Stone failed. ";
+
+"등급 개량에 필요한 재료가 아닙니다.";
+"This item is not required for improving the clarity level. ";
+
+"이 아이템은 이 방식으로는 개량할 수 없습니다.";
+"This item cannot be advanced this way. ";
+
+"개량을 하기 위한 돈이 부족합니다.";
+"You do not have enough Yang. ";
+
+"단계 개량에 성공했습니다.";
+"Improvement of the clarity level successful. ";
+
+"등급 개량에 실패했습니다.";
+"Refinement up one class failed. ";
+
+"단계 개량에 필요한 재료가 아닙니다.";
+"This item is not required for refinement. ";
+
+"단계 개량할 수 없는 용혼석입니다.";
+"This Dragon Stone cannot be used for refinement. ";
+
+"개량을 하기 위한 돈이 부족합니다.";
+"You do not have enough Yang. ";
+
+"등급 개량에 성공했습니다.";
+"Refinement up one class was successful. ";
+
+"단계 개량에 실패했습니다.";
+"Improvement of the clarity level failed. ";
+
+"강화에 필요한 재료가 아닙니다.";
+"You do not own the materials required to strengthen the Dragon Stone. ";
+
+"강화할 수 없는 용혼석입니다.";
+"This Dragon Stone cannot be used for strengthening. ";
+
+"같은 개량서를 합칠 수는 없습니다.";
+"You cannot combine identical Advancement Scrolls. ";
+
+"개량을 하기 위한 돈이 부족합니다.";
+"You do not have enough Yang. ";
+
+"강화에 성공했습니다.";
+"Strengthening was successful. ";
+
+"강화에 실패했습니다.";
+"Strengthening failed. ";
+
+"용혼석 상자가 활성화되지 않았습니다.";
+"The Dragon Stone is not activated. ";
+
+"이미 같은 종류의 용혼석을 착용하고 있습니다.";
+"You are already carrying a Dragon Stone of this type. ";
+
+"착용 중인 용혼석은 추출할 수 없습니다.";
+"The Dragon Stone cannot be removed. ";
+
+"이미 장비를 착용하고 있습니다.";
+"You have already equipped this kind of Dragon Stone. ";
+
+"%d초 만큼 충전되었습니다.";
+"%d seconds have been added. ";
+
+"먼저 용혼석 퀘스트를 완료하셔야 합니다.";
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy. ";
+
+"축복의 서와 현철을 합칠 수 있습니다.";
+"You can combine the Blessing Scroll with the Magic Iron Ore. ";
+
+"%d 냥을 투자하셨습니다.";
+"You have invested %d Yang. ";
+
+"빼낼 수 있는 메틴석이 없습니다.";
+"There is no Stone available to take out. ";
+
+"기억해 둘 수 없는 위치 입니다.";
+"You cannot store this location. ";
+
+"소지품에 빈 공간이 없습니다.";
+"There isn't enough space in your inventory. ";
+
+"기억된 위치가 타제국에 속해 있어서 귀환할 수 없습니다.";
+"You cannot teleport to a safe position in a foreign Kingdom. ";
+
+"남은 생명력 양이 모자라 사용할 수 없습니다.";
+"You don't have enough HP. ";
+
+"남은 정신력 양이 모자라 사용할 수 없습니다.";
+"You don't have enough Spell Points (SP) to use this. ";
+
+"%d 초후 목적지로 이동됩니다.";
+"You'll reach your destination in %d seconds. ";
+
+"아이템의 레벨 제한보다 레벨이 낮습니다.";
+"Your level is too low to use this item. ";
+
+"월병,종자 사용후 5초동안 사용할수 없습니다.";
+"You can only use a Moon Cake every 5 seconds. ";
+
+"대련 중에는 이용할 수 없는 물품입니다.";
+"You cannot use this item in a duel. ";
+
+"%d 냥을 획득하셨습니다.";
+"You have won %d Yang. ";
+
+"모닥불을 피울 수 없는 지점입니다.";
+"You cannot build a campfire here. ";
+
+"물 속에 모닥불을 피울 수 없습니다.";
+"You cannot build a campfire under water. ";
+
+"열쇠로 잠겨 있어서 열리지 않는것 같다. 열쇠를 구해보자.";
+"Closed. You should look for the key. ";
+
+"열쇠로 여는 물건이 아닌것 같다.";
+"This item cannot be opened with a key. ";
+
+"열쇠는 맞으나 아이템 주는 부분 구현이 안되었습니다.";
+"That's the right key. ";
+
+"돈 %d 냥을 획득했습니다.";
+"You have received %d Yang. ";
+
+"상자에서 부터 신비한 빛이 나옵니다.";
+"A mysterious light comes out of the box. ";
+
+"%d의 경험치를 획득했습니다.";
+"You have received %d experience points. ";
+
+"상자에서 몬스터가 나타났습니다!";
+"A monster has come out of the box! ";
+
+"상자에서 나온 빨간 연기를 들이마시자 움직이는 속도가 느려졌습니다!";
+"If you inhale the red smoke coming out of the box, your speed will increase! ";
+
+"YOU_CANNOT_PICKUP_SO_FAST";
+"You cannot pickup so fast.";
+
+"TRANSMUTATION_WINDOW_IS_ALREADY_OPEN";
+"<Transmutation> The window is already open.";
+
+"TRANSMUTATION_WINDOW_IS_NOT_OPEN";
+"<Transmutation> The window is not opened.";
+
+"CANNOT_TRANSMUTED_EQUIPPED_ITEMS";
+"<Transmutation> You cannot transmute equipped items.";
+
+"THIS_ITEM_CANNOT_BE_TRANSMUTED";
+"<Transmutation> This item cannot be transmuted.";
+
+"CANNOT_TRANSMUTE_SOULBOUND_ITEMS";
+"<Transmutation> You cannot transmute soulbound items.";
+
+"CANNOT_TRANSMUTE_LOCKED_ITEMS";
+"<Transmutation> You cannot transmute locked items.";
+
+"YOU_CANT_ADD_ITEMS_WHICH_ARE_TRANSMUTED_YET";
+"<Transmutation> You cannot add items which are transmuted yet.";
+
+"YOU_CANNOT_ADD_THIS_ITEM";
+"<Transmutation> You cannot add this item.";
+
+"FIRST_ADD_THE_ITEM_YOU_WANT_TO_TRANSMUTE";
+"<Transmutation> First you need to add the item you want to transmute.";
+
+"NOT_ENOUGH_GOLD_FOR_TRANSMUTE";
+"<Transmutation> You don't have enough Yang.";
+
+"CANT_REMOVE_TRANSMUTE_BECAUSE_ITEM_BINDED";
+"<Transmutation> You cannot remove transmute because this item is soulbound.";
+
+"CANT_REMOVE_TRANSMUTE_BECAUSE_ITEM_LOCKED";
+"<Transmutation> You cannot remove transmute because this item is locked.";
+

@@ -1,0 +1,3 @@
+REFINE_FAILURE_DEL_ITEM	The refinement failed. The item was destroyed.
+REFINE_FAILURE_GRADE_DOWN	The refinement failed. The item grade was reduced.
+REFINE_FAILURE_KEEP_GRADE	The refinement failed. Fortunately, the item remained unharmed.

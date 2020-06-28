@@ -1,0 +1,16 @@
+//1.1) Search for:
+enum EMatrixCard
+{
+	MATRIX_CODE_MAX_LEN		= 192,
+	MATRIX_ANSWER_MAX_LEN	= 8,
+};
+//1.2) Add after:
+#ifdef ENABLE_REFINE_MSG_ADD
+enum ERefineFailType
+{
+	REFINE_FAIL_GRADE_DOWN,
+	REFINE_FAIL_DEL_ITEM,
+	REFINE_FAIL_KEEP_GRADE,
+	REFINE_FAIL_MAX,
+};
+#endif

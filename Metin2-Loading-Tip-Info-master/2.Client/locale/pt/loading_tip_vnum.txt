@@ -1,0 +1,120 @@
+1	Usando um Pergaminho da Bênção poderás proteger um item da destruição caso um melhoramento falhe.
+10	Prepara-te para excitantes duelos PvP a partir do nível 15!
+100	Prepara-te para enfrentares os monstros da Defesa do Navio com resistência a gelo.
+101	Inicia a Defesa do Navio com a Roda do Leme.
+102	Protege o mastro a qualquer custo para evitares um naufrágio.
+103	A Prole de Hidra deixa cair vários tipos de itens úteis para combate.
+104	O Mercador de Gaya no Porto no novo continente proporciona uma maior probabilidade de criar Gaya do que qualquer outro lugar no mundo.
+105	Trava rapidamente os ataques aquáticos da Prole de Hidra para evitares uma catástrofe marítima.
+106	Após uma épica viagem pelo mar, um novo continente aguarda-te!
+107	Hey, tu aí! Sim, tu! A Equipa do Metin2 manda-te <3! x)
+108	Se completares a missão diária Mundo de Ilusões, é garantido que receberás um Tomo do Despertar.
+109	Se completares com sucesso a missão Fenda Temporal, tens uma certa probabilidade de receberes um Tomo do Despertar.
+11	Fala com o Pescador para descobrires mais sobre pesca e obteres alguns equipamentos para iniciantes. Boas pescas!
+110	Se completares com sucesso a missão Fenda Temporal 10 vezes, é garantido que receberás um Tomo do Despertar.
+111	Os monstros na masmorra do Despertar são mais fortes que os da Fenda Temporal.
+112	O boss na masmorra do Despertar guarda um cofre de boss do Despertar.
+113	Lascas de Pedra do Dragão+ podem ser pilhadas nas masmorras de Fenda Temporal e do Despertar.
+114	Os monstros nas masmorras de Fenda Temporal não deixam cair espólios.
+115	No Domínio Elemental vivem muitos espíritos da natureza diferentes.
+116	Com os materiais certos, é possível aplicar efeitos de conjunto a equipamentos para desbloquear bónus de conjunto.
+117	Consegues chegar ao Planalto das Forças Antigas usando o Anel da Força Antiga.
+118	Há muitos espíritos da natureza poderosos no mundo do Metin2.
+119	As forças da natureza selvagens no Planalto das Forças Antigas podem roubar a tua VD.
+12	Podes transportar um máximo de 1.999.999.999 Yang.
+120	Podes usar uma Medalha da Força Antiga para te protegeres da Maldição Elemental.
+13	Podes transportar um máximo de 999 Won.
+14	Cuidado com o que usas para alimentares o teu pet. Assim que for comido, não voltarás a ver o item novamente.
+15	Não podes usar quaisquer habilidades durante uma transformação.
+16	Bónus que recebes como recompensa pelas missões do Biólogo Chaegirab são permamentes.
+17	Personagens até nível 30 (inclusive) podem reinicializar as suas habilidades na Idosa.
+18	Personagens que se queiram casar não podem ter uma diferença de mais de 15 níveis.
+19	Os itens ganham mais efeitos reluzentes quanto mais refinados estiverem.
+2	Estás a postos para te casar? Então fala com a Idosa.
+20	Quando destróis uma Pedra Metin, prepara-te para uma batalha dura!
+21	Protege os teus itens de qualquer tentativa de roubo com o Pergaminho do Vínculo.
+22	Inflige mais dano nos macacos da Caverna dos Macacos com o bónus "Forte contra Animais".
+23	Não percas o fio à meada! Os monstros na Caverna dos Macacos voltam a aparecer muito rapidamente.
+24	Parece-te familiar? A Caverna dos Macacos irá dar-te alguns momentos de déjà-vu.
+25	Terás de navegar pela Caverna dos Macacos sem o teu mini-mapa.
+26	Sofres de aracnofobia? Então tem cuidado com as aranhas assustadoramente gigantes do Metin2!
+27	Podes chegar rápida e facilmente à Caverna das Aranhas com o Anel do Transporte.
+28	Mantém os teus olhos atentos à procura da Rainha Aranha. O seu veneno é extremamente perigoso!
+29	Precisas de uma Passagem para entrares na Caverna das Aranhas 2.
+3	O Teleportador pode transportar-te rapidamente para outras áreas a partir do nível 10.
+30	Abre o Ninho de Procriação da Aranha Baronesa com a Chave do Aracnídeo.
+31	São poucos os aventureiros que regressam da Torre Demoníaca para contar a história!
+32	Podes obter muita EXP e itens como recompensas por te aventurares na Torre Demoníaca.
+33	Deixa o lendário Ferreiro do 6º Andar da Torre Demoníaca afiar a tua lâmina!
+34	Prepara-te para enfrentares os monstros da Torre Demoníaca com resistência a trevas.
+35	Prepara-te para enfrentares os monstros das Catacumbas do Demónio com resistência a trevas.
+36	Os portões das Catacumbas do Demónio só estarão abertos se tiveres conquistado previamente a Torre Demoníaca.
+37	Terás de navegar pelas Catacumbas do Demónio sem o teu mini-mapa.
+38	Protege os teus aliados nas Catacumbas do Demónio.
+39	Cuidado com os animais de estimação do lorde demónio Azrael, os Cães Infernais.
+4	Fala com os Guardas da Cidade para descobrires mais sobre o sistema de guilds.
+40	Todos os membros do grupo precisam de uma Cabeça Encolhida para chegarem ao segundo nível das Catacumbas do Demónio.
+41	A Gruta das Almas está repleta de criaturas aterrorizantes.
+42	Precisarás de uma Pedra de Sangue para entrares na Gruta das Almas.
+43	A Gruta das Almas está cheia de criaturas aterrorizantes e horrores indescritíveis. E épicos espólios!
+44	O cruel deus Beran-Setaou aguarda-te no Templo do Dragão, o terceiro nível da Gruta das Almas.
+45	Beran-Setaou reúne o seu poder com as Pedras Metin. Destrói-as para derrotares este deus caído.
+46	Prepara-te para enfrentares as criaturas na Gruta das Almas com resistência a gelo e relâmpagos.
+47	Só podes entrar no Templo do Dragão na Gruta das Almas num grupo.
+48	Tens 1 hora para derrotares Beran-Setaou.
+49	Lava reluzente escorre pelo Forte do Dragão Vermelho!
+5	Clica em "B" junto do teu mini-mapa para descobrires mais sobre a Zona de Combate e como entrar.
+50	Assim que dominares 6 zonas no Forte do Dragão Vermelho irás enfrentar o Razador!
+51	Pergaminhos de teletransporte não funcionam no Forte do Dragão Vermelho.
+52	Prepara-te para enfrentares os monstros no Forte do Dragão Vermelho com resistência a fogo.
+53	O teu grupo tem 1 hora para conquistar o Forte do Dragão Vermelho.
+54	Precisas de um Ninja e um Xamã no grupo para poderes conquistar a Torre de Vigia de Nemere.
+55	Prepara-te para enfrentares os monstros na Torre de Vigia de Nemere com resistência a gelo.
+56	A Torre de Vigia de Nemere tem 9 níveis e uma sala de boss.
+57	Não podes invocar montadas na Torre de Vigia de Nemere.
+58	Tens o que é preciso para conquistares a Torre de Vigia de Nemere em 1 hora?
+59	Conseguirás salvar os guerreiros perdidos da Torre de Vigia de Nemere?
+6	Não te esqueças de mudar a tua palavra-passe do armazém regularmente. Mais vale prevenir do que remediar!
+60	O Guardião En-Tai aparece em localizações aleatórias no Templo dos Ochao. Ataca-o antes que desapareça.
+61	Tens 3 minutos para derrotares um Guardião En-Tai e abrires o portal para a Floresta Encantada.
+62	Prepara-te para enfrentares os monstros da Floresta Encantada com resistência a vento.
+63	Jotun Thrym tem um poderoso exército do seu lado.
+64	Só podes entrar em Erebus com a Pedra das Dríades.
+65	Jotun Thrym surgirá assim que tiveres derrotado Bagjanamu.
+66	Podes repetir a missão "Mata o Soberano En-Tai" para a Pedra das Dríades.
+67	A Rainha Dragão Meley não pode ser atacada directamente. Em vez disso, ela sofre dano das estátuas de dragão.
+68	Prepara-te para enfrentares as criaturas do Covil de Meley com resistência a fogo.
+69	Obtém o Anel Fogo do Dragão no Covil de Meley para destruíres as estátuas de dragão.
+7	O Baek-Go ajuda-te a criares poderosas poções.
+70	A tua guild precisa de pontos de posição de guild suficientes para entrar no Covil de Meley.
+71	A tua classificação no Covil é determinada pela rapidez da tua vitória e número de participantes.
+72	No Cofre da Rainha Meley poderás encontrar o Ovo do Dragão Vermelho e o pet Mini Meley!
+73	A tua guild deve ter pelo menos 4 membros para conquistar com sucesso o Covil de Meley (Guild).
+74	Podes encontrar materiais para elmos PvP no Covil de Meley (Grupo) e elmos PvE no Covil de Meley (Guild).
+75	O Templo do Zodíaco tem 12 masmorras diferentes com 12 guardiões.
+76	Os vários Templos do Zodíaco estão disponíveis em diferentes dias.
+77	Cada Templo do Zodíaco possui um certo elemento que fortalece o seu guardião.
+78	Prepara-te para o combate no Templo de Zi com resistência a trevas.
+79	Prepara-te para o combate no Templo de Chou com resistência a terra.
+8	Toca a relinchar! A partir de nível 25 poderás iniciar a missão de cavalo para receberes um cavalo iniciante do Rapaz do Estábulo.
+80	Prepara-te para o combate no Templo de Yin com resistência a fogo.
+81	Prepara-te para o combate no Templo de Mao com resistência a vento.
+82	Prepara-te para o combate no Templo de Chen com resistência a relâmpagos.
+83	Prepara-te para o combate no Templo de Si com resistência a gelo.
+84	Prepara-te para o combate no Templo de Wu com resistência a gelo.
+85	Prepara-te para o combate no Templo de Wei com resistência a relâmpagos.
+86	Prepara-te para o combate no Templo de Shen com resistência a terra.
+87	Prepara-te para o combate no Templo de You com resistência a vento.
+88	Prepara-te para o combate no Templo de Xu com resistência a trevas.
+89	Prepara-te para o combate no Templo de Hai com resistência a fogo.
+9	Muda os teus atalhos seleccionando "Teclado" nas opções do jogo.
+90	O talismã elemental correspondente irá tornar a tua conquista do respectivo Templo do Zodíaco mais fácil.
+91	Carrega 12 Animasferas para conseguires entrar no Templo do Zodíaco.
+92	O Prisma Ressuscitador irá ressuscitar-te no Templo do Zodíaco.
+93	Os talismãs elementais podem ser refinados até +200.
+94	Podes comprar Insígnias do Guardião no Mercador do Zodíaco no 40º nível do Templo do Zodíaco.
+95	Também podes ressuscitar colegas de equipa com o Prisma Ressuscitador.
+96	Podes entrar a sós no Templo do Zodíaco, mas irás obter mais recompensas num grupo.
+97	Cada nível do Templo do Zodíaco tem um tempo limite de 10 minutos.
+98	Estás a postos para entrar numa viagem de aventura?
+99	Tens 25 minutos para defenderes o navio dos ataques da Hidra.

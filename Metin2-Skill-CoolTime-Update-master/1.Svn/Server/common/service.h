@@ -1,0 +1,1 @@
+#define SKILL_COOLTIME_UPDATE

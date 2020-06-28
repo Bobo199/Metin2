@@ -1,0 +1,120 @@
+1	El Pergamino bendición reduce el riesgo de que un objeto se destruya si la mejora falla.
+10	¡Sumérgete en explosivos duelos JcJ a partir del nivel 15!
+100	Haz uso de la Resistencia a hielo contra las criaturas en Defensa de la nave.
+101	Comienza la Defensa de la nave llevando el timón.
+102	Pase lo que pase, protege el mástil con la vela principal para evitar un naufragio.
+103	La Cría de hidra deja caer en batalla todo tipo de objetos útiles.
+104	El Comerciante de Gaya del puerto del nuevo continente dispone de una posibilidad mayor de éxito al fabricar Gaya.
+105	Interrumpe tan pronto como puedas los ataques acuáticos de la Cría de hidra para evitar el peligro en alta mar.
+106	¡Un nuevo continente te espera tras el emocionante viaje en barco!
+107	Eh, tú. ¡Sí, tú! El equipo de Metin2 te <3.
+108	Al completar la misión diaria "Mundo de las ilusiones" recibirás un Manual del impulso con una probabilidad del 100 %.
+109	Hay una cierta probabilidad de que recibas un Manual del impulso al completar la misión de espaciotiempo.
+11	¡Buena pesca! El pescador te enseña a pescar y te proporciona el equipamiento de iniciación necesario.
+110	Si completas la misión del espaciotiempo 10 veces recibirás un Manual del impulso con una probabilidad del 100 %.
+111	Los monstruos de la mazmorra del impulso son más fuertes que los monstruos de la del espaciotiempo.
+112	El monstruo jefe de la mazmorra del impulso tiene escondido un baúl de jefe del impulso.
+113	En las mazmorras del espaciotiempo e impulso se pueden conseguir Fragmentos piedra dragón+.
+114	Los monstruos de la mazmorra del espaciotiempo no dejan botín.
+115	En el Mundo Elemental viven muchos espíritus naturales diferentes.
+116	Añade efectos de set de set a tu equipamiento utilizando los materiales adecuados para conseguir bonificaciones de set.
+117	El Anillo elemental te permitirá viajar a la Meseta de los Elementos.
+118	En el mundo de Metin2 hay muchos espíritus naturales muy poderosos.
+119	En la Meseta de los Elementos hay poderes naturales indómitos que absorberán tus HP.
+12	1 999 999 999 Yang es el máximo que puedes llevar contigo.
+120	Utiliza una Orden elemental para protegerte de la maldición elemental.
+13	999 Won es el máximo que puedes llevar contigo.
+14	Ten cuidado con lo que le das de comer a tu mascota. Una vez hayan engullido el objeto, no podrás recuperarlo.
+15	No puedes utilizar habilidades mientras estás transformado.
+16	Las bonificaciones obtenidas como recompensa en la misión del biólogo Chaegirab son permanentes.
+17	Los personajes hasta el nivel 30 pueden pedirle a la anciana que restablezca sus habilidades.
+18	La diferencia de nivel entre los cónyuges de una boda no puede ser superior a 15.
+19	El efecto visual de un objeto reluce más cuanto mayor sea su refinamiento.
+2	¿Listo para el matrimonio? Acude a la anciana.
+20	Si golpeas una Piedra Metin, ¡prepárate para una dura batalla!
+21	Utiliza el Pergamino de unión para proteger tus objetos de un posible robo.
+22	La bonificación "Fuerza contra animales" inflige más daños a los monos en la Mazmorra de Monos.
+23	Ten cuidado: en la Mazmorra de Monos, los monstruos se reproducen muy rápido.
+24	¿He estado aquí antes? La Mazmorra de Monos te hará vivir un déjà vu.
+25	Tendrás que apañarte sin Minimapa en la Mazmorra de Monos.
+26	¿Aracnofobia? ¡Entre los insectos de Metin2 hay arañas gigantescas!
+27	El Anillo de teletransporte te lleva rápida y cómodamente a la Mazmorra de Arañas.
+28	Ten cuidado con la Reina Araña. ¡Su veneno es extremadamente peligroso!
+29	Necesitas un Tique de entrada para acceder a la Mazmorra de Arañas 2.
+3	A partir del nivel 10, el Teletransportador te llevará a otras áreas en un abrir y cerrar de ojos.
+30	Necesitas la Llave Arácnida para acceder al cubil de la Baronesa Araña.
+31	¡Muy pocos aventureros regresan con vida de la Torre Demoníaca!
+32	En la Torre Demoníaca podrás hacerte con cantidades generosas de EXP y objetos como recompensa.
+33	¡Lleva tu espada al legendario herrero del 6.º piso de la Torre Demoníaca para que la afile!
+34	Haz uso de la Resistencia contra la oscuridad contra las criaturas en la Torre Demoníaca.
+35	Haz uso de la Resistencia contra la oscuridad contra las criaturas en la Catacumba del Diablo.
+36	Las puertas de la Catacumba del Diablo no se abrirán hasta que hayas conquistado la Torre Demoníaca.
+37	Tendrás que apañarte sin Minimapa en la Catacumba del Diablo.
+38	Accede con tu grupo a la Catacumba del Diablo y cuidad los unos de los otros.
+39	Azrael, señor de los demonios, tiene a perros infernales mordedores como mascotas.
+4	El guardián de la aldea te proporcionará información sobre el sistema de gremios.
+40	Para acceder al 2.º nivel de la Catacumba del Diablo, todos los miembros del grupo tendrán que disponer de una Cabeza reducida.
+41	La Gruta del Exilio está repleta de criaturas espantosas.
+42	Necesitas una Piedra de sangre para acceder a la Gruta del Exilio.
+43	En la Gruta del Exilio no solo te aguardan horrores y espantos, sino también valiosas recompensas.
+44	El cruel dios Beran-Setaou te espera en el Templo del Dragón, en el nivel 3.º de la Gruta.
+45	Beran-Setaou obtiene su fuerza de las Piedras Metin. Destrúyelas para vencer al dios caído.
+46	Haz uso de Resistencia a hielo y relámpago contra las criaturas en la Gruta del Exilio.
+47	Solo podrás acceder al Templo del Dragón en la Gruta del Exilio si vas en grupo.
+48	Dispondréis de 1 hora para derrotar a Beran-Setaou.
+49	¡Ríos de lava brillante fluyen a través de la Fortaleza del Dragón Rojo!
+5	Si haces clic en el Minimapa sobre "B", obtendrás información sobre la zona de combate y los accesos.
+50	¡Si dominas las 6 zonas de la Fortaleza del Dragón Rojo, te encontrarás al Arrador!
+51	Los pergaminos de teletransporte no funcionan en la Fortaleza del Dragón Rojo.
+52	Haz uso de la Resistencia a fuego contra las criaturas en la Fortaleza del Dragón Rojo.
+53	Queda 1 hora para que tu grupo pueda conquistar la Fortaleza del Dragón Rojo.
+54	Para tomar la Torre de vigilancia de Nemere, tiene que haber al menos un Ninja y un Chamán en el grupo.
+55	Haz uso de la Resistencia a hielo contra las criaturas en la Torre de vigilancia de Nemere.
+56	La Torre de vigilancia de Nemere dispone de 9 niveles y de la sala del monstruo jefe.
+57	No podrás llamar a tu montura mientras estés en la Torre de vigilancia de Nemere.
+58	¿Seréis capaces de conquistar la Torre de vigilancia de Nemere en 1 hora?
+59	¿Podrás rescatar a los guerreros desaparecidos en la Torre de vigilancia de Nemere?
+6	No te olvides de cambiar regularmente la contraseña del almacén. ¡La seguridad es lo primero!
+60	El Guardián En-Tai aparece en lugares aleatorios del Templo de los Ochao. Atácale antes de que se esfume de nuevo.
+61	Dispones de 3 minutos para derrotar al Guardián En-Tai y abrir el portal al Bosque Encantado.
+62	Haz uso de la Resistencia al viento contra las criaturas en el Bosque Encantado.
+63	Jotun Thrym cuenta con el apoyo de un poderoso ejército.
+64	Para acceder al Érebo se necesita la Piedra de la dríada.
+65	Jotun Thrym aparecerá en pantalla en cuanto derrotes a Bagjanamu.
+66	Puedes repetir la misión "Vence al Señor" para obtener la Piedra de la dríada.
+67	No puedes atacar directamente a la Reina dragona Meley. Solo puedes provocarle daños a través de las Estatuas de dragón.
+68	Haz uso de la Resistencia a fuego contra las criaturas en el Refugio de Meley.
+69	Hazte con el Anillo ígneo de dragón en el Refugio de Meley para poder destruir las Estatuas de dragón.
+7	Baek-Go te ayuda a elaborar poderosas pociones.
+70	Tu gremio necesita un volumen determinado de puntos de rango del gremio para acceder al Refugio de Meley.
+71	La clasificación del Refugio se basa en la rapidez que demuestres en la conquista de la mazmorra y en el número de participantes.
+72	¡El Baúl de la reina Meley contiene un Huevo de dragón rojo con una pequeña Meley como mascota!
+73	Tu gremio necesita estar compuesto por un mínimo de 4 miembros para superar con éxito el Refugio de Meley (Gremio).
+74	En el Refugio de Meley (Grupo) hay materiales para cascos para JcJ y en el Refugio de Meley (Gremio), para cascos para JcE.
+75	El Templo del Zodíaco se compone de 12 mazmorras distintas con 12 guardianes.
+76	Cada Templo del Zodíaco abre sus puertas en días distintos.
+77	El guardián de cada Templo del Zodíaco dispone de un poder reforzado por un elemento único.
+78	Prepárate para la batalla en el Templo del Zi con la Resistencia contra la oscuridad.
+79	Prepárate para la batalla en el Templo del Chou con la Resistencia a tierra.
+8	¡Arre! A partir del nivel 25 puedes acudir al Chico del establo y comenzar una misión de caballo para obtener un caballo de principiante.
+80	Prepárate para la batalla en el Templo del Yin con la Resistencia a fuego.
+81	Prepárate para la batalla en el Templo del Mao con la Resistencia al viento.
+82	Prepárate para la batalla en el Templo del Chen con la Resistencia a relámpago.
+83	Prepárate para la batalla en el Templo del Si con la Resistencia a hielo.
+84	Prepárate para la batalla en el Templo del Wu con la Resistencia a hielo.
+85	Prepárate para la batalla en el Templo del Wei con la Resistencia a relámpago.
+86	Prepárate para la batalla en el Templo del Shen con la Resistencia a tierra.
+87	Prepárate para la batalla en el Templo del Yu con la Resistencia al viento.
+88	Prepárate para la batalla en el Templo del Xu con la Resistencia contra la oscuridad.
+89	Prepárate para la batalla en el Templo del Hai con la Resistencia a fuego.
+9	Puedes modificar los atajos en el campo "Teclado" dentro de las Opciones del juego
+90	Podrás conquistar con mayor facilidad un Templo del Zodíaco si haces uso del Talismán elemental correspondiente.
+91	Carga 12 Esferas ánima para obtener acceso al Templo del Zodíaco.
+92	El Prisma del despertar te devuelve a la vida en el Templo del Zodíaco.
+93	Los Talismanes elementales pueden refinarse hasta +200.
+94	En el nivel 40 del Templo del Zodíaco podrás comprarle al Comerciante del zodíaco todas las Insignias de guardián.
+95	Puedes utilizar el Prisma del despertar para resucitar a otros jugadores.
+96	Puedes acceder en solitario al Templo del Zodíaco, pero obtendrás más recompensas si vas en grupo.
+97	Existe un límite temporal de 10 minutos en cada nivel del Templo del Zodíaco.
+98	¿Estás listo para un viaje repleto de aventuras?
+99	Dispones de 25 minutos para proteger tu barco frente a los ataques de la Hidra.

@@ -1,0 +1,120 @@
+1	By using a Blessing Scroll, you can protect an item from being destroyed in case an improvement fails.
+10	Get ready for exciting PvP duels from level 15!
+100	Steel yourself against the Ship Defence monsters with ice resistance.
+101	Start the Ship Defence with the Ship's Wheel.
+102	Protect the mast with the mainsail at all costs to avoid being shipwrecked.
+103	Hydra's Spawn drops all manner of useful items in combat.
+104	The Gaya Merchant at the Harbour on the new continent offers a better chance to craft Gaya than anywhere else in the old world.
+105	Stop the Hydra's Spawn water attacks quickly to avoid a catastrophe at sea.
+106	After an epic sea voyage, a new continent awaits!
+107	Hey, you there! Yes, you! The Metin2 Team <3 you! x)
+108	If you complete the World of Illusions daily quest, you're guaranteed to receive a Redux Tome.
+109	If you successfully complete the Time Rift quest, you have a certain chance of receiving a Redux Tome.
+11	Talk to the Fisherman to learn about fishing and get some gear to start you off. Good fishing!
+110	If you successfully complete the Time Rift quest 10 times, you're guaranteed to receive a Redux Tome.
+111	The monsters in the Redux dungeon are stronger than those in the Time Rift dungeon.
+112	The boss in the Redux dungeon is guarding a Redux boss chest.
+113	Dragon Stone Shards+ can be looted in the Time Rift and Redux dungeons.
+114	Monsters in Time Rift dungeons don't drop loot.
+115	Many different nature spirits inhabit the Elemental Realm.
+116	Using the right materials, you can apply set effects to your equipment to unlock set bonuses.
+117	You can reach the secret Plateau of Primal Forces using the Primal Force Ring.
+118	There are many powerful nature spirits in the world of Metin2.
+119	The untamed natural forces on the Plateau of Primal Forces will steal your HP.
+12	You can carry a maximum of 1,999,999,999 Yang.
+120	You can use a Medal of Primal Force to protect yourself from the Elemental Curse.
+13	You can carry a maximum of 999 Won.
+14	Pay attention to what you feed your pet. Once eaten, you'll never get the item back.
+15	You cannot use any skills while you are transformed.
+16	Bonuses you receive as a reward for the biologist Chaegirab's quests are permanent.
+17	Characters up to and including level 30 can have their skills reset by the Old Lady.
+18	Characters getting married cannot be more than 15 levels apart.
+19	Items get sparklier effects the more refined they are.
+2	Are you ready to get married? Then talk to the Old Lady.
+20	When you destroy a Metin stone, get ready for a tough battle!
+21	Protect your items from theft with the Scroll of Binding.
+22	Inflict more damage on the monkeys in the Monkey Dungeon with the 'strong against animals' bonus.
+23	Keep on your toes! The monsters in the Monkey Dungeon respawn very quickly.
+24	Seem familiar? The Monkey Dungeon will guarantee you a few déjà-vu moments.
+25	You'll need to navigate the Monkey Dungeon without your minimap.
+26	Do you suffer from arachnophobia? Then watch out for Metin2's freakishly big spiders!
+27	You can reach the Spider Dungeon quickly and easily with the Teleportation Ring.
+28	Keep your eyes peeled for the Queen Spider. Her poison is extremely dangerous!
+29	You need a Passage Ticket to enter Spider Dungeon 2.
+3	The Teleporter can quickly transport you to other areas from level 10.
+30	Open the Spider Baroness' Breeding Lair with the Arachnids Key.
+31	Few are the adventurers who return from the Demon Tower to tell the tale!
+32	You can earn lots of EXP and items in reward for venturing into the Demon Tower.
+33	Have the legendary blacksmith on the 6th floor of the Demon Tower sharpen your blade!
+34	Steel yourself against the monsters in the Demon Tower with darkness resistance.
+35	Steel yourself against the monsters in the Devil's Catacomb with darkness resistance.
+36	The gates of the Devil's Catacomb are only open if you have previously conquered the Demon Tower.
+37	You'll need to navigate the Devil's Catacomb without your minimap.
+38	Look out for your allies in the Devil's Catacomb.
+39	Watch out for demon lord Azrael's pet Hell Hounds.
+4	Talk to the village Guardians to learn about the guild system.
+40	All party members require a Shrunken Head to reach the second level of the Devil's Catacomb.
+41	The Grotto of Exile is teeming with terrifying creatures.
+42	You need a Blood Stone to enter the Grotto of Exile.
+43	The Grotto of Exile is brimming with terrifying creatures and unspeakable horrors. And epic loot!
+44	The cruel god Beran-Setaou awaits you in the Dragon's Temple, the third level of the Grotto of Exile.
+45	Beran-Setaou draws his power from the Metin stones; destroy them to defeat this fallen god.
+46	Steel yourself against the creatures in the Grotto of Exile with ice and lightning resistance.
+47	You can only enter the Dragon's Temple in the Grotto of Exile in a group.
+48	You have 1 hour to defeat Beran-Setaou.
+49	Glowing lava flows through the Red Dragon Fortress!
+5	Click on the 'B' next to your minimap to learn about the Combat Zone and how to enter.
+50	Once you master 6 zones in the Red Dragon Fortress, you'll confront Razador!
+51	Teleportation scrolls do not work in the Red Dragon Fortress.
+52	Steel yourself against the monsters in the Red Dragon Fortress with fire resistance.
+53	Your group has 1 hour to conquer the Red Dragon Fortress.
+54	You need a ninja and a shaman in the group in order to conquer Nemere's Watchtower.
+55	Steel yourself against the monsters in Nemere's Watchtower with ice resistance.
+56	Nemere's Watchtower has 9 levels and a boss room.
+57	You cannot summon mounts in Nemere's Watchtower.
+58	Do you have what it takes to conquer Nemere's Watchtower in 1 hour?
+59	Can you rescue the missing warriors from Nemere's Watchtower?
+6	Don't forget to change your storage password regularly. Better safe than sorry!
+60	The En-Tai Guardian spawns at random locations in the Temple of the Ochao. Attack him before he disappears.
+61	You have 3 minutes to defeat an En-Tai Guardian and open the portal to the Enchanted Forest.
+62	Steel yourself against the monsters in the Enchanted Forest with wind resistance.
+63	Jotun Thrym has a strong army at his side.
+64	You can only enter Erebus with the Stone of the Dryads.
+65	Jotun Thrym will appear as soon as you've defeated Bagjanamu.
+66	You can repeat the 'Kill the En-Tai Sovereign' quest for the Stone of the Dryads.
+67	Dragon Queen Meley cannot be attacked directly. Instead, she takes damage from the dragon statues.
+68	Steel yourself against the creatures in Meley's Lair with fire resistance.
+69	Grab the Dragonfire Ring in Meley's Lair to destroy the dragon statues.
+7	Baek-Go helps you to brew powerful potions.
+70	Your guild needs sufficient guild rank points to enter Meley's Lair.
+71	Your ranking in the lair is determined by the speed of your victory and the number of participants.
+72	In Queen Meley's Chest you can find the Red Dragon Egg and the Mini Meley pet!
+73	Your guild should have at least 4 members to successfully conquer Meley's Lair (guild).
+74	You can find materials for PvP helmets in Meley's Lair (group) and PvE helmets in Meley's Lair (guild).
+75	The Zodiac Temple has 12 different dungeons with 12 guardians.
+76	The various Zodiac Temples are available on different days.
+77	Each Zodiac Temple possesses a certain element which strengthens its guardian.
+78	Steel yourself for combat in the Temple of Zi with darkness resistance.
+79	Steel yourself for combat in the Temple of Chou with earth resistance.
+8	Giddy up! From level 25 you can start the horse quest for a beginner's horse from the Stable Boy.
+80	Steel yourself for combat in the Temple of Yin with fire resistance.
+81	Steel yourself for combat in the Temple of Mao with wind resistance.
+82	Steel yourself for combat in the Temple of Chen with lightning resistance.
+83	Steel yourself for combat in the Temple of Si with ice resistance.
+84	Steel yourself for combat in the Temple of Wu with ice resistance.
+85	Steel yourself for combat in the Temple of Wei with lightning resistance.
+86	Steel yourself for combat in the Temple of Shen with earth resistance.
+87	Steel yourself for combat in the Temple of You with wind resistance.
+88	Steel yourself for combat in the Temple of Xu with darkness resistance.
+89	Steel yourself for combat in the Temple of Hai with fire resistance.
+9	Change your shortcuts by selecting 'Keyboard' from the game options.
+90	The matching elemental talisman will make your conquest of the relevant Zodiac Temple easier.
+91	Charge up 12 Animaspheres to gain entry to the Zodiac Temple.
+92	The Prism of Revival resurrects you in the Zodiac Temple.
+93	Elemental talismans can be refined up to +200.
+94	You can purchase Guardian Insignias from the Zodiac Merchant on the 40th level of the Zodiac Temple.
+95	You can also resurrect teammates with the Prism of Revival.
+96	You can enter the Zodiac Temple alone, but you'll earn more rewards in a group.
+97	Each level of the Zodiac Temple has a 10-minute time limit.
+98	Are you ready to undertake an adventurous journey?
+99	You have 25 minutes to defend the ship against the Hydra's attacks.

@@ -1,0 +1,1 @@
+#define __SHOP_ITEM_AVERAGE__

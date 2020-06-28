@@ -1,0 +1,120 @@
+1	Použitím Požehnaného pergamenu ochráníš pøedmìt pøed znièením, pokud jeho vylepšení selže.
+10	Pøiprav se na vzrušující PvP souboje od úrovnì 15!
+100	Posil se Odolností proti ledu proti pøíšerám z Obrany lodi.
+101	Obranu lodi spustíš pomocí kormidelního kola.
+102	Ochraò stìžeò s hlavní plachtou za každou cenu, jinak ztroskotáš.
+103	Z Hydøího zplozence padají v boji všelijaké užiteèné pøedmìty.
+104	Gaya obchodník v pøístavu nového kontinentu nabízí lepší šanci na výrobu Gaya než kdekoliv jinde na svìtì.
+105	Rychle zastav útoky Hydøího zplozence, abys zabránil námoøní katastrofì.
+106	Po epické plavbì tì èeká nový kontinent!
+107	Hej, ty tam! Ano, ty! Tým Metin2 <3 you! x)
+108	Pokud dokonèíš denní úkol Náhorní plošiny iluzí, máš zaruèen zisk Svitku oživení.
+109	Pokud dokonèíš úkol Èasová trhlina, máš šanci na zisk Svitku oživení.
+11	Promluv si s rybáøem, aby ses nauèil rybaøit a získal jsi nìjakou výbavu pro zaèátek. A berou!
+110	Pokud dokonèíš úkol Èasová trhlina 10x, máš zaruèen zisk Svitku oživení.
+111	Pøíšery v Bludišti oživení jsou silnìjší než ty v Èasové trhlinì.
+112	Boss v Bludišti oživení stráží Truhlu bosse Oživení.
+113	Støepy Draèího kamene+ lze získat v Èasové trhlinì a v Bludišti oživení.
+114	Z pøíšer v Èasové trhlinì nepadají pøedmìty.
+115	Øíši elementálù obývá mnoho rùzných pøírodních duchù.
+116	Pøi používání správných materiálù mùžeš na výbavu aplikovat sadu efektù a odemknout tak sady bonusù.
+117	Na Náhorní plošinu Prvotních sil se dostaneš pomocí Prstenu prvotních sil.
+118	Ve svìtì Metin2 existuje spousta mocných pøírodních duchù.
+119	Nezkrotné pøírodní síly na Náhorní plošinì Prvotních sil ti ukradnou ZB.
+12	Mùžeš pøenášet maximálnì 1 999 999 999 Yangù.
+120	Mùžeš použít Medaili Prvotních sil, aby ses ochránil pøed Kletbou elementálu.
+13	Mùžeš pøenášet maximálnì 999 Wonù.
+14	Dobøe si prohlédni, èím krmíš svého Mazlíka. Jakmile to sežere, už to nedostaneš zpìt.
+15	Nemùžeš používat schopnosti, když jsi v promìnì!
+16	Bonusy, které obdržíš jako odmìnu za úkoly biologa Chaegiraba, jsou permanentní.
+17	Postava až do úrovnì 30 vèetnì mùže své schopnosti zresetovat u Staøenky.
+18	Rozdíl mezi postavami, které chtìjí mít svatbu, nesmí být více než 15 úrovní.
+19	Èím více je pøedmìt zušlechtìný, tím více se tøpytí.
+2	Jsi pøipraven na manželství? Tak si promluv se Staøenkou.
+20	Po znièení kamene Metin se pøiprav na tuhý boj!
+21	Se Svitkem pøipoutání ochráníš své pøedmìty pøed zlodìji.
+22	S bonusem ‚silný proti zvíøatùm‘ zpùsobíš v Opièím bludišti opicím mnohem vìtší poškození.
+23	Zùstaò na nohou! Pøíšery se v Opièím bludišti obnovují velmi rychle.
+24	Pøijde ti to povìdomé? Opièí bludištì ti pøivodí nìkolik déj-vu momentù.
+25	Opièím bludištìm se musíš pohybovat bez mini mapy.
+26	Máš arachnofobií? Tak si dávej pozor na dìsivé velké pavouky na Metin2!
+27	Pavouèího bludištì dosáhneš rychle pomocí Teleportaèního prstenu.
+28	Mìj oèi na otevøené a hledej Pavouèí královnu! Její jed je extrémnì nebezpeèný!
+29	Pro vstup do Pavouèího bludištì 2 potøebuješ Propustku.
+3	Od úrovnì 11 tì mùže Teleportér snadno a rychle pøenést do jiné oblasti.
+30	Doupì Pavouèí baronky otevøeš pomocí Pavouèího klíèe.
+31	Z Vìže démonù se vrátilo jen velmi málo dobrodruhù, kteøí by mohli vyprávìt pøíbìhy!
+32	Ve Vìži démonù mùžeš získat spoustu BZK a pøedmìtù.
+33	Nech si u legendárního kováøe na 6. patøe Vìže démonù naostøit zbraò!
+34	Proti pøíšerám ve Vìži démonù dobøe funguje Odpor proti temnotì.
+35	Proti pøíšerám v Ïáblovì katakombì dobøe funguje Odpor proti temnotì.
+36	Brány do Ïáblovy katakomby se otevøou jen v pøípadì, že jsi pøedtím zdolal Vìž démonù.
+37	Ïáblovou katakombou se musíš pohybovat bez mini mapy.
+38	V Ïáblovì katakombì si hledej spojence.
+39	Dávej si pozor na pekelné mazlíky Azraela.
+4	O systému cechù se dozvíš od Strážce návsi.
+40	Pro vstup do druhého patra Ïáblovy katakomby musí mít všichni èlenové skupiny u sebe Vysušenou hlavu.
+41	Jeskynì vyhnanství se jenom hemží dìsivými tvory.
+42	Pro vstup do Jeskynì vyhnanství potøebuješ Krvavý kámen.
+43	Jeskynì vyhnanství se jenom hemží dìsivými tvory a nevyslovitelnými hrùzami. A epickou koøistí!
+44	Krutý bùh Beran-Setaou tì oèekává v Draèím chrámu, tøetí úrovni Jeskynì vyhnanství.
+45	Beran-Setaou získává svou sílu z kamenù Metin; zniè je a poraz padlého boha.
+46	Do Jeskyni vyhnanství se posil odolností proti ledu a bleskùm.
+47	Do Draèího chrámu v Jeskyni vyhnanství mùžeš vstoupit pouze pokud jsi èlenem skupiny.
+48	Máš 1 hodinu na zabití Beran-Setaou.
+49	Pevností èerveného draka protéká žhnoucí láva!
+5	Klikni na 'B‘ vedle mini mapy, aby ses dozvìdìl více o Bitevní zónì a jak se do ní dostat.
+50	Jakmile ovládneš 6 oblastí v Pevnosti èerveného draka, budeš se muset postavit Razadorovi!
+51	V Pevnosti èerveného draka nefunguje teleportaèní svitek.
+52	Proti pøíšerám v Pevnosti èerveného draka dobøe funguje odolnost proti ohni.
+53	Tvá skupina má 1 hodinu na ovládnutí Pevnosti èerveného draka.
+54	Pro ovládnutí Nemerovy strážní vìže potøebuješ mít ve skupinì ninju a šamana.
+55	Do Nemerovy strážní vìže se vybav odolností proti ledu.
+56	Nemerova strážní vìž má 9 úrovní a místnost bosse.
+57	V Nemerovì strážní vìži si nemùžeš pøivolat jezdecké zvíøe.
+58	Máš co je tøeba, abys ovládl Nemerovu strážní vìž do 1 hodiny?
+59	Dokážeš zachránit chybìjícího váleèníka z Nemerovy strážní vìže?
+6	Nezapomeò si pravidelnì mìnit heslo do Skladištì. Bezpeènost pøedevším!
+60	Strážce En-Tai se v Chrámu Ochao objevuje na náhodných místech. Zaútoè na nìj než zmizí.
+61	Máš 3 minuty na zabití Strážce En-Tai a otevøení portálu do Zakletého lesa.
+62	Proti pøíšerám v Zakletém lese dobøe funguje odolnost proti vìtru.
+63	Jotun Thrym má po svém boku silnou armádu.
+64	Do Ereba mùžeš vstoupit pouze s Kamenem Dryád.
+65	Jotun Thrym se objeví jakmile porazíš Bagjanamu.
+66	Úkol 'Zabij Vládce En-Tai' mùžeš opakovat pro zisk Kamene Dryád.
+67	Draèí královnu Meley nelze atakovat pøímo. Její poškození pochází z draèích soch.
+68	Proti pøíšerám v Doupìti Meley dobøe funguje odolnost proti ohni.
+69	V Doupìti Meley popadni Prsten draèího ohnì a zniè draèí sochy.
+7	Baek-Go ti pomùže vyrobit silné lektvary.
+70	Pro vstup do Doupìte Meley potøebuje tvùj cech dostatek bodù hodnosti.
+71	Hodnocení v doupìti se odvíjí od rychlosti dokonèení a poètu úèastníkù.
+72	V Truhle královny Meley najdeš Vejce Èerveného draka a mazlíka Mini Meley!
+73	Tvùj cech musí mít alespoò 4 èleny, aby šlo úspìšnì ovládnout cechovní Doupì Meley.
+74	Pro PvP pøilbice najdeš materiál ve skupinovém Doupìti Meley a pro PvE pøilbice v cechovním Doupìti Meley.
+75	Chrám Zvìrokruhu má 12 rùzných bludiš s 12 rùznými strážci.
+76	Rùzné dny jsou dostupné rùzné Chrámy Zvìrokruhu.
+77	Každý Chrám Zvìrokruhu ovládá jiný element, který posile jeho strážce.
+78	Pro boj v Chrámu Zi se posilni odolností proti temnotì.
+79	Pro boj v Chrámu Chou se posilni odolností proti Zemi.
+8	Do sedla! Od 25. úrovnì mùžeš zaèít plnit jezdecký úkol u Pacholka.
+80	Pro boj v Chrámu Yin se posilni odolností proti ohni.
+81	Pro boj v Chrámu Mao se posilni odolností proti vìtru.
+82	Pro boj v Chrámu Chen se posilni odolností proti blesku.
+83	Pro boj v Chrámu Si se posilni odolností proti ledu.
+84	Pro boj v Chrámu Wu se posilni odolností proti ledu.
+85	Pro boj v Chrámu Wei se posilni odolností proti blesku.
+86	Pro boj v Chrámu Shen se posilni odolností proti Zemi.
+87	Pro boj v Chrámu You se posilni odolností proti vìtru.
+88	Pro boj v Chrámu Xu se posilni odolností proti temnotì.
+89	Pro boj v Chrámu Hai se posilni odolností proti ohni.
+9	Klávesové zkratky si mùžeš zmìnit volbou 'Klávesnice' v nastavení herních možností.
+90	Odpovídající talisman elementu ti ulehèí život v Chrámu Zvìrokruhu.
+91	Nabij 12 Animaspher pro získání vstupu do Chrámu Zvìrokruhu.
+92	Hranol oživení tì v Chrámu Zvìrokruhu oživí.
+93	Talisman elementu lze zušlechtit až do +200.
+94	Insignie strážce získáš od Obchodníka Zvìrokruhu na 40. úrovni Chrámu Zvìrokruhu.
+95	Pomocí Hranolu oživení mùžeš oživit své pøátele.
+96	Do Chrámu Zvìrokruhu mùžeš vstoupit sám, ale vìtší odmìny získáš ve skupinì.
+97	Každá úroveò Chrámu Zvìrokruhu má èasový limit 10 minut.
+98	Jsi pøipraven vydat se na cestu?
+99	Máš 25 minut na obranu lodi proti útokùm Hydry.

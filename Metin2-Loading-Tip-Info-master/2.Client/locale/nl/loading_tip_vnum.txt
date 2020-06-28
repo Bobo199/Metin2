@@ -1,0 +1,120 @@
+1	Door gebruik te maken van een Zegenings Geschrift kun je een item beschermen tegen vernietiging wanneer een verbetering mislukt.
+10	Maak je klaar voor spannende PvP-duels vanaf level 15!
+100	Wapen jezelf tegen Schip Verdediging-monsters met ijsweerstand.
+101	Start de Schip Verdediging met het Scheepsroer.
+102	Bescherm de mast met het grootzeil koste wat het kost om schipbreuk te voorkomen.
+103	Hydra's Gebroed laat allerlei bruikbare items achter tijdens het gevecht.
+104	De Gaya Handelaar in de Haven van het nieuwe continent biedt je een betere kans om Gaya te smeden dan waar ook ter wereld.
+105	Stop de wateraanvallen van Hydra's Gebroed snel om een catastrofe op zee te vermijden.
+106	Na een epische tocht op zee wacht een nieuw continent!
+107	Hey, jij daar! Ja, jij! Het Metin2 Team <3 van jou! x)
+108	Als je de Wereld der Illusies-quest weet te voltooien ontvang je gegarandeerd een Redux Boekdeel.
+109	Als je de Tijdsscheur-quest succesvol weet af te ronden maak je kans op het ontvangen van een Redux Boekdeel.
+11	Praat met de Visser om meer te leren over visserij en om uitrusting te ontvangen om je op weg te helpen. Goede vangst!
+110	Als je de Tijdsscheur-quest 10x succesvol weet af te ronden ontvang je gegarandeerd een Redux Boekdeel.
+111	De monsters in de Redux-kerker zijn sterker dan de monsters in de Tijdsscheur-kerker.
+112	De baas in de Redux-kerker bewaakt een Redux-bazenkist.
+113	Drakensteen Scherven+ kun je buitmaken in de Tijdsscheur- en Redux-kerkers.
+114	Monsters in Tijdsscheur-kerkers laten geen buit achter.
+115	Vele verschillende natuurgeesten bewonen het Elementale Rijk.
+116	Door gebruik te maken van de juiste materialen, kun je seteffecten toepassen op je uitrusting om setbonussen te ontgrendelen.
+117	Je kunt het Plateau der Oerkrachten bereiken met de Oerkracht Ring.
+118	Er zijn vele krachtige natuurgeesten in de wereld van Metin2.
+119	De ongetemde natuurlijke krachten op het Plateau der Oerkrachten zullen je LP stelen.
+12	Je kunt maximaal 1.999.999.999 Yang bij je dragen.
+120	Je kunt een Medaille van Oerkracht gebruiken om jezelf te beschermen tegen de Elementale Vloek.
+13	Je kunt maximaal 999 Won bij je dragen.
+14	Let goed op wat je allemaal voert aan je huisdier. Eenmaal opgegeten zie je het item nooit meer terug.
+15	Je kunt geen vaardigheden gebruiken wanneer je getransformeerd bent.
+16	Bonussen die je ontvangt als beloning voor de quests van de bioloog Chaegirab zijn permanent.
+17	Karakters tot en met level 30 kunnen hun vaardigheden laten resetten bij het Oude Dametje.
+18	Karakters die gaan trouwen kunnen niet meer dan 15 levels van elkaar verschillen.
+19	Items krijgen steeds glinsterendere effecten naar gelang ze meer verbeterd zijn.
+2	Ben je klaar om te gaan trouwen? Praat dan met het Oude Dametje.
+20	Maak je op voor een pittig gevecht als je besluit een Metin Steen te vernietigen!
+21	Bescherm je items tegen diefstal met het Geschrift der Verbinding.
+22	Breng meer schade toe aan de apen in de Apen Kerker met de 'sterk tegen dieren'-bonus.
+23	Blijf scherp! De monsters in de Apen Kerker verschijnen erg snel opnieuw.
+24	Komt je dat bekend voor? De Apen Kerker garandeert je alvast meerdere déjà-vu's.
+25	Je zult zonder je minimap moeten navigeren in de Apen Kerker.
+26	Lijdt jij aan enorm aan spinnenvrees? Kijk dan maar goed uit voor Metin2's bizar grote spinnen!
+27	Je kunt de Spinnenkerker snel bereiken door de Teleportatie Ring in te zetten.
+28	Houdt je ogen goed open voor de Spinnenkoningin. Haar gif is extreem gevaarlijk!
+29	Je hebt een Vrijbiljet nodig om Spinnenkerker 2 binnen te kunnen gaan.
+3	De Teleporter kan je vanaf level 10 snel transporteren naar andere gebieden.
+30	Open de broedgrot van de Spinnenbarones met de Spinachtige Sleutel.
+31	Er zijn maar weinig avonturiers die terugkeren van de Demonen Toren om hun verhalen verder te vertellen!
+32	Je kunt heel veel ERV en items verdienen door af te reizen naar de Demonen Toren.
+33	Laat de legendarische smid op de 6e verdieping van de Demonen Toren jouw zwaard eens scherpen!
+34	Bescherm jezelf tegen de monsters in de Demonen Toren met duisternisweerstand.
+35	Bescherm jezelf tegen de monsters in de Duivelse Catacomben met duisternisweerstand.
+36	De poorten naar de Duivelse Catacomben zijn alleen geopend als je de Demonen Toren hebt weten doorstaan.
+37	Je zult zonder je minimap moeten navigeren in de Duivelse Catacomben.
+38	Let goed op je bondgenoten in de Duivelse Catacomben.
+39	Kijk uit voor de Hellehonden van demonenheer Azrael.
+4	Praat met de wachters van het dorp om meer te leren over het gildesysteem.
+40	Alle groepsleden hebben een Gekrompen Hoofd nodig om het tweede niveau van de Duivelse Catacomben te bereiken.
+41	De Grot der Verbanning puilt uit met angstaanjagende wezens.
+42	Je hebt een Bloedsteen nodig om de Grot der Verbanning binnen te kunnen gaan.
+43	De Grot der Verbanning loopt over van de angstaanjagende wezens en onuitsprekelijke gruwelijkheden. En epische buit!
+44	De wrede god Beran-Setaou wacht je op in de Draken Tempel, het derde niveau van de Grot der Verbanning.
+45	Beran-Setaou haalt zijn macht rechtstreeks uit de Metin Stenen; vernietig ze om deze gevallen godheid te verslaan.
+46	Bescherm jezelf tegen wezens in de Grot der Verbanning met weerstanden tegen ijs en bliksem.
+47	Je kunt de Draken Tempel in de Grot der Verbanning alleen betreden als je in een groep zit.
+48	Je hebt één uur om Beran-Setaou te verslaan.
+49	Gloeiende lavastromen vloeien door het Rode Draken Fort!
+5	Klik op de 'B' naast je minimap om meer te leren over de Strijd Zone en hoe je kunt deelnemen.
+50	Zodra je zes zones meester weet te worden zul je Razador moeten confronteren!
+51	Teleportatiegeschriften werken niet in het Rode Draken Fort.
+52	Bescherm jezelf tegen de monsters in de Rode Draken Fort met vuurweerstand.
+53	Je groep heeft één uur om het Rode Draken Fort te veroveren.
+54	Je moet een ninja en een sjamaan in je groep hebben om Nemere's Uitkijktoren te kunnen veroveren.
+55	Bescherm jezelf tegen de monsters in Nemere's Uitkijktoren met ijsweerstand.
+56	Nemere's Uitkijktoren heeft negen niveaus en een baasruimte.
+57	Je kunt geen rijdieren oproepen in Nemere's Uitkijktoren.
+58	Heb jij het in je om Nemere's Uitkijktoren in één uur te veroveren?
+59	Kun jij de vermiste krijgers redden uit Nemere's Uitkijktoren?
+6	Vergeet niet om je wachtwoord regelmatig te veranderen. Je kunt het maar beter te vaak dan te weinig doen!
+60	De En-Tai Wachter verschijnt op willekeurige locaties in de Tempel van de Ochao. Val hem aan voordat hij weer verdwijnt.
+61	Je hebt drie minuten om een En-Tai Wachter te verslaan en een portaal naar het Betoverde Woud te openen.
+62	Bescherm jezelf tegen de monsters in het Betoverde Woud met windweerstand.
+63	Jotun Thrym heeft een sterk leger aan zijn zijde.
+64	Je kunt Erebus enkel en alleen betreden met de Steen van de Dryaden.
+65	Jotun Thrym verschijnt zodra je Bagjanamu hebt verslagen.
+66	Je kunt de quest 'Dood de En-Tai Heerser' herhalen voor de Steen van de Dryaden.
+67	Draken Koningin Meley kan niet direct aangevallen worden. In plaats daarvan krijgt zij schade van de drakenbeelden.
+68	Bescherm jezelf tegen de wezens in Meley's Hol met vuurweerstand.
+69	Grijp de Drakenvuur Ring in Meley's Hol om de drakenbeelden te vernietigen.
+7	Baek-Go helpt je met het brouwen van krachtige brouwsels.
+70	Je gilde heeft voldoende gilderangpunten nodig om Meley's Hol binnen te kunnen gaan.
+71	Jouw rang in de het hol wordt bepaald door de snelheid van je overwinning en het aantal deelnemers.
+72	In Koningin Meley's Kist vind je het Rode Draken Ei en het huisdier Mini Meley!
+73	Je gilde moet minimaal vier leden hebben om Meley's Hol (gilde) met succes te veroveren.
+74	Je kunt materialen vinden voor PvP-helmen in Meley's Hol (groep) en PvE-helmen in Meley's Hol (gilde).
+75	De Zodiac Tempel heeft 12 verschillende kerkers met 12 wachters.
+76	De diverse Zodiac Tempels zijn op andere dagen beschikbaar.
+77	Elke Zodiac Tempel beschikt over een bepaald element dat zijn wachter van zijn kracht voorziet.
+78	Bescherm jezelf in de strijd binnen de Tempel van Zi met duisternisweerstand.
+79	Bescherm jezelf in de strijd binnen de Tempel van Chou met aardeweerstand.
+8	Opzadelen maar! Vanaf level 25 kun je de paardenquest starten voor een beginnerspaard bij de Staljongen.
+80	Bescherm jezelf in de strijd binnen de Tempel van Yin met vuurweerstand.
+81	Bescherm jezelf in de strijd binnen de Tempel van Mao met windweerstand.
+82	Bescherm jezelf in de strijd binnen de Tempel van Chen met bliksemweerstand.
+83	Bescherm jezelf in de strijd binnen de Tempel van Si met ijsweerstand.
+84	Bescherm jezelf in de strijd binnen de Tempel van Wu met ijsweerstand.
+85	Bescherm jezelf in de strijd binnen de Tempel van Wei met bliksemweerstand.
+86	Bescherm jezelf in de strijd binnen de Tempel van Shen met aardeweerstand.
+87	Bescherm jezelf in de strijd binnen de Tempel van You met windweerstand.
+88	Bescherm jezelf in de strijd binnen de Tempel van Xu met duisternisweerstand.
+89	Bescherm jezelf in de strijd binnen de Tempel van Hai met vuurweerstand.
+9	Verander je sneltoetsen door de optie 'Toetsenbord' te kiezen bij de spelopties.
+90	De bijbehorende elemententalisman zal je verovering van de relevante Zodiac Tempel gemakkelijker maken.
+91	Laad tot 12 Animaspheres op om toegang te krijgen tot de Zodiac Tempel.
+92	Het Prisma der Opwekking laat je wederkeren in de Zodiac Tempel als je sterft.
+93	Elementale talismans kunnen verbeterd worden tot +200.
+94	Je kunt Wachter Emblemen kopen bij de Zodiac Handelaar vanaf het 40ste niveau van de Zodiac Tempel.
+95	Je kunt ook teamgenoten opnieuw tot leven wekken met het Prisma der Opwekking.
+96	Je kunt de Zodiac Tempel in je eentje binnen gaan, maar je verdient meer beloningen als groep.
+97	Elk level van de Zodiac Tempel heeft een tijdslimiet van 10 minuten.
+98	Ben je klaar om een avontuurlijke tocht te gaan maken?
+99	Je hebt 25 minuten om het schip te verdedigen tegen de aanvallen van de Hydra.

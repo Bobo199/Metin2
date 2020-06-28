@@ -1,0 +1,120 @@
+1	Mit der Segensschriftrolle kannst du einen Gegenstand vor Zerstörung schützen, falls seine Verbesserung fehlschlägt.
+10	Stürze dich ab Level 15 in packende PvP-Duelle!
+100	Wappne dich mit Eiswiderstand gegen die Kreaturen der Schiffsverteidigung.
+101	Starte die Schiffsverteidigung mit dem Steuerrad.
+102	Beschütze unter allen Umständen den Mast mit dem Hauptsegel, um nicht Schiffbruch zu erleiden.
+103	Hydras Brut lässt im Kampf allerlei nützliche Gegenstände fallen.
+104	Beim Hafen-Gayahändler auf dem neuen Kontinent ist deine Erfolgschance, Gaya herzustellen, höher als in der alten Welt.
+105	Unterbrich die Wasserattacken von Hydras Brut besser frühzeitig, um nicht in Seenot zu geraten.
+106	Nach einer aufregenden Schiffsreise erwartet dich ein neuer Kontinent!
+107	Hey, du. Ja, du! Das Metin2-Team <3 dich.
+108	Wenn du die tägliche Quest "Welt der Illusionen" abschließt, erhältst du zu 100% ein Buch der Erweckung.
+109	Wenn du die Quest des Zeitrisses erfolgreich abschließt, erhältst du mit einer bestimmten Wahrscheinlichkeit ein Buch der Erweckung.
+11	Petri Heil! Der Fischer erklärt dir, wie du angelst und hat auch die passende Startausrüstung für dich bereit.
+110	Wenn du die Quest des Zeitrisses 10-mal erfolgreich abschließt, erhältst du zu 100% ein Buch der Erweckung.
+111	Die Monster des Erweckungsdungeons sind stärker als die Monster des Zeitrissdungeons.
+112	Das Bossmonster des Erweckungsdungeons hält eine Bosstruhe der Erweckung versteckt.
+113	In den Zeitriss- und Erweckungsdungeons können Drachensteinsplitter+ erbeutet werden.
+114	Die Monster der Zeitrissdungeons werfen keine Beute ab.
+115	In der Elementarwelt leben viele verschiedene Naturgeister.
+116	Du kannst deiner Ausrüstung mit den richtigen Materialien Set-Effekte hinzufügen, um Set-Boni zu erhalten.
+117	Mit dem Ring der Urgewalt kannst du das geheime Plateau der Urgewalten erreichen.
+118	Es gibt viele mächtige Naturgeister in der Welt von Metin2.
+119	Auf dem Plateau der Urgewalten rauben dir die ungezähmten Naturkräfte deine HP.
+12	Du kannst maximal 1.999.999.999 Yang mit dir tragen.
+120	Du kannst einen Orden der Urgewalt nutzen, um dich vor dem Elementarfluch zu schützen.
+13	Du kannst maximal 999 Won mit dir tragen.
+14	Pass auf, was du deinem Pet verfütterst. Denn einmal gefressen, lässt sich das Item nicht zurückholen.
+15	Solange du verwandelt bist, kannst du keine Fertigkeiten nutzen.
+16	Boni, die du als Belohnung bei Chaegirabs Biologenquest erhältst, sind permanent.
+17	Charaktere bis einschließlich Level 30 können ihre Skills von der alten Frau zurücksetzen lassen.
+18	Bei einer Hochzeit darf der Levelunterschied zwischen den Partnern nicht größer als 15 sein.
+19	Je höher die Veredelung eines Gegenstandes, desto mehr funkelt der visuelle Effekt.
+2	Du bist bereit für die Ehe? Dann wende dich an die alte Frau.
+20	Wenn du einen Metinstein schlägst, mach dich auf einen harten Kampf gefasst!
+21	Schütze deine Items mit dem Pergament der Bindung vor Diebstahl.
+22	Mit dem Bonus "Stark gegen Tiere" richtest du gegen die Affen im Affendungeon mehr Schaden an.
+23	Sei auf der Hut, denn die Monster in den Affendungeons spawnen sehr schnell nach.
+24	Hier war ich doch schon einmal? Im Affendungeon wird dich das Gefühl eines Déjà-vus beschleichen.
+25	In den Affendungeons musst du ohne Minimap auskommen.
+26	Arachnophobiker? Zu den Insekten in Metin2 zählen riesige Spinnen!
+27	Den Spinnendungeon erreichst du schnell und bequem mithilfe des Teleportationsrings.
+28	Sei auf der Hut vor der Königinnenspinne. Ihr Gift ist äußerst gefährlich!
+29	Um in den Spinnendungeon 2 zu einzutreten, benötigst du einen Passierschein.
+3	Der Teleporter bringt dich ab Level 10 ruckzuck in andere Gebiete.
+30	Die Bruthöhle der Spinnenbaroness öffnest du mit dem Arachnidenschlüssel.
+31	Nur wenige Abenteurer kehrten lebend aus dem Dämonenturm zurück!
+32	Im Dämonenturm kannst du besonders viel EXP und Items als Belohnung abstauben.
+33	Lass im 6. Stock deine Klinge vom legendären Dämonenturm-Schmied schärfen!
+34	Wappne dich mit Widerstand gegen Dunkelheit gegen die Kreaturen im Dämonenturm.
+35	Wappne dich mit Widerstand gegen Dunkelheit gegen die Kreaturen der Devil's Catacomb.
+36	Die Pforten zur Devil's Catacomb öffnen sich dir nur, wenn du zuvor den Dämonenturm erobert hast.
+37	In der Devil's Catacomb musst du ohne Minimap auskommen.
+38	Passt in der Devil's Catacomb als Gruppe aufeinander auf.
+39	Dämonenfürst Azrael hält sich bissige Höllenhunde als Haustiere.
+4	Informationen über das Gildensystem erhältst du von den Wächtern des Dorfplatzes.
+40	Um auf die 2. Ebene der Devil's Catacomb zu kommen, müssen alle Gruppenmitglieder einen Schrumpfkopf besitzen.
+41	In der Grotte der Verbannung wimmelt es nur so vor schrecklichen Kreaturen.
+42	Du brauchst einen Blutstein, um die Grotte der Verbannung zu betreten.
+43	Angst und Schrecken, aber auch wertvolle Schätze erwarten dich in der Grotte der Verbannung.
+44	Auf der 3. Ebene der Grotte wartet der grausame Gott Beran-Setaou im Drachenraum auf dich.
+45	Beran-Setaou zieht seine Kraft aus den Metinsteinen. Zerstöre sie, um den gefallenen Gott zu besiegen.
+46	Wappne dich mit Eis- und Blitzwiderstand gegen die Kreaturen in der Grotte der Verbannung.
+47	Den Drachenraum in der Grotte der Verbannung kannst du nur in einer Gruppe betreten.
+48	Ihr habt 1 Stunde Zeit, um Beran-Setaou zu besiegen.
+49	Glühende Lavaströme fließen durch die Rotdrachenfestung!
+5	Mit Klick auf das 'B' bei deiner Minimap erhältst du Informationen über die Kampfzone und ihre Eingänge.
+50	Hast du die 6 Zonen der Rotdrachenfestung gemeistert, triffst du auf Razador!
+51	In der Rotdrachenfestung funktionieren keine Schriftrollen zur Teleportation.
+52	Wappne dich mit Feuerwiderstand gegen die Kreaturen der Rotdrachenfestung.
+53	Deiner Gruppe bleibt 1 Stunde, um die Rotdrachenfestung zu erobern.
+54	Um Nemeres Warte einzunehmen, müssen mindestens ein Ninja und ein Schamane mit von der Partie sein.
+55	Wappne dich mit Eiswiderstand gegen die Kreaturen in Nemeres Warte.
+56	Nemeres Warte besteht aus 9 Ebenen und dem Bossraum.
+57	In Nemeres Warte kannst du kein Mount rufen.
+58	Schafft ihr es, Nemeres Warte in 1 Stunde zu erobern?
+59	Kannst du die vermissten Kämpfer aus Nemeres Warte retten?
+6	Bitte vergiss nicht, regelmäßig dein Lagerpasswort zu ändern. Sicher ist sicher!
+60	Der En-Tai-Wächter spawnt im Tempel der Ochao an zufälligen Orten. Greif ihn an, bevor er wieder verschwindet.
+61	Du hast 3 Minuten Zeit, den En-Tai-Wächter zu besiegen und das Portal zum Verwunschenen Wald zu öffnen.
+62	Wappne dich mit Windwiderstand gegen die Kreaturen im Verwunschenen Wald.
+63	Jotun Thrym hat eine starke Armee an seiner Seite.
+64	Nur mit dem Stein der Dryaden kann man den Erebos betreten.
+65	Sobald du Bagjanamu besiegt hast, erscheint Jotun Thrym auf der Bildfläche.
+66	Du kannst die Quest "Besiege den Herrscher" für den Stein der Dryaden wiederholen.
+67	Drachenkönigin Meley kann nicht direkt angegriffen werden. Schaden erhält sie durch die Drachenstatuen.
+68	Wappne dich mit Feuerwiderstand gegen die Kreaturen in Meleys Hort.
+69	Ergattere in Meleys Hort den Drachenfeuerring, um die Drachenstatuen zerstören zu können.
+7	Baek-go hilft dir dabei, mächtige Tränke zu brauen.
+70	Deine Gilde muss genug Gildenrangpunkte besitzen, um Meleys Hort betreten zu können.
+71	Eure Geschwindigkeit bei der Dungeon-Eroberung sowie die Anzahl der Teilnehmer entscheiden über das Ranking im Hort.
+72	In der Truhe der Königin Meley kannst du rote Drachenei mit der kleinen Meley als Pet finden!
+73	Um Meleys Hort (Gilde) erfolgreich zu bestehen, sollte deine Gilde mindestens 4 Mitglieder haben.
+74	In Meleys Hort (Gruppe) findest du Material für PvP-Helm und  in Meleys Hort (Gilde) für PvE-Helme.
+75	Der Zodiak-Tempel besteht aus 12 verschiedenen Dungeons mit 12 Wächtern.
+76	Die jeweiligen Zodiak-Tempel sind an unterschiedlichen Tagen erreichbar.
+77	Jeder Zodiak-Tempel besitzt ein eigenes Element, das seinen Wächter stärkt.
+78	Wappne dich im Tempel des Zi mit Widerstand gegen Dunkelheit für den Kampf.
+79	Wappne dich im Tempel des Chou mit Erdwiderstand für den Kampf.
+8	Hüa! Ab Level 25 kannst du vom Stallburschen die Pferdequest für ein Anfängerpferd starten.
+80	Wappne dich im Tempel des Yin mit Feuerwiderstand für den Kampf
+81	Wappne dich im Tempel der Mao mit Windwiderstand für den Kampf.
+82	Wappne dich im Tempel des Chen mit Blitzwiderstand für den Kampf.
+83	Wappne dich im Tempel der Si mit Eiswiderstand für den Kampf.
+84	Wappne dich im Tempel des Wu mit Eiswiderstand für den Kampf.
+85	Wappne dich im Tempel des Wei mit Blitzwiderstand für den Kampf.
+86	Wappne dich im Tempel des Shen mit Erdwiderstand für den Kampf.
+87	Wappne dich im Tempel des Yu mit Windwiderstand für den Kampf.
+88	Wappne dich im Tempel des Xu mit Widerstand gegen Dunkelheit für den Kampf.
+89	Wappne dich im Tempel des Hai mit Feuerwiderstand für den Kampf
+9	Ändere Kurzbefehle über das Wahlfeld "Tastatur" in deinen Spieloptionen.
+90	Der passende Elementtalisman erleichtert dir die Eroberung des jeweiligen Zodiak-Tempels.
+91	Lade 12 Animasphären auf, um den Zodiak-Tempel betreten zu können.
+92	Das Prisma des Erwachens erweckt dich im Zodiak-Tempel wieder zum Leben.
+93	Elementtalismane können bis +200 veredelt werden.
+94	Auf der 40. Ebene des Zodiak-Tempels kannst du beim Zodiakhändler alle Wächterinsigniern kaufen.
+95	Mit dem Prisma des Erwachens kannst du auch einen Mitspieler wieder zu neuem Leben verhelfen.
+96	Du kannst den Zodiak-Tempel alleine betreten, aber in einer Gruppe wirst du mehr Belohnungen abstauben.
+97	Jede Ebene des Zodiak-Tempels hat ein Zeitlimit von 10 Minuten.
+98	Bist du bereit, eine abenteuerliche Reise anzutreten?
+99	Du hast 25 Minuten Zeit, dein Schiff gegen den Angriff der Hydra zu verteidigen.

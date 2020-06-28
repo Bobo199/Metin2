@@ -1,0 +1,120 @@
+1	Qualora il miglioramento di un item non dovesse andare a buon fine, il Papiro consacrato ne previene la distruzione.
+10	A partire dal livello 15 ti aspettano duelli PvP mozzafiato!
+100	Sfrutta la Resistenza ghiaccio per affrontare le creature della Difesa nave.
+101	Avvia la Difesa nave con il timone!
+102	Difendi fino alla morte l'albero che regge la vela principale per evitare che la nave affondi.
+103	Durante i combattimenti, la Covata di Idra droppa un sacco di utilissimi oggetti.
+104	Nel Negozio di Gaya situato nel porto del nuovo continente hai una probabilità maggiore di riuscire a creare Gaya, rispetto a quella che avevi nel vecchio mondo.
+105	Interrompi tempestivamente gli attacchi marini della Covata di Idra, prima che sia troppo tardi.
+106	E dopo un bel viaggio in mare... ti aspetta un nuovo continente!
+107	Hey, tu! Sì, proprio tu! The Metin2 Team <3 you.
+108	Completando la missione giornaliera "Mondo delle illusioni" ottieni al 100% un Libro del risveglio.
+109	Completando la missione della Frattura temporale potresti ottenere un Libro del risveglio.
+11	Che la forza delle acque sia con te! Il pescatore ti insegna a pescare e ti fornisce l'equipaggiamento adatto per iniziare la tua nuova attività.
+110	Completando 10 volte la missione della Frattura temporale ottieni al 100% un Libro del risveglio.
+111	I mostri dei dungeon del Risveglio sono più forti di quelli dei dungeon della Frattura temporale.
+112	Il mostro boss dei dungeon del Risveglio ha nascosto un Baule del boss del Risveglio.
+113	Nei dungeon della Frattura temporale e del Risveglio si possono ottenere Schegge di pietra del drago+.
+114	I mostri dei dungeon della Frattura temporale non droppano alcun bottino.
+115	Il Mondo Elementale pullula di spiriti della natura.
+116	Con i materiali giusti, puoi aggiungere al tuo equipaggiamento effetti del set che permettono di ottenere bonus del set.
+117	L'Anello Forza elementale permette di raggiungere il misterioso Altopiano della Forza Elementale.
+118	Il mondo di Metin2 pullula di potenti spiriti della natura.
+119	Sull'Altopiano della Forza Elementale, gli indomabili spiriti della natura sottraggono HP.
+12	Puoi portare con te al massimo 1.999.999.999 Yang.
+120	Assolda un'Orda Forza elementale per proteggerti dalla Maledizione elementale.
+13	Puoi portare con te al massimo 999 Won.
+14	Pondera bene cosa dai da mangiare al tuo pet. Una volta ingerito l'item... sarà troppo tardi!
+15	Finché la trasformazione è attiva, non puoi usare alcuna abilità.
+16	I bonus ricevuti con la quest del biologo Chaegirab sono permanenti.
+17	I personaggi fino al livello 30 compreso possono chiedere alla Vecchietta di reimpostare le loro abilità.
+18	In caso di matrimonio, la differenza di livello tra i partner non deve essere superiore a 15.
+19	Maggiore è il grado di raffinamento di un oggetto, più questo luccica.
+2	Pensi che sia arrivato il momento giusto per sposarti? Allora vai dalla Vecchietta.
+20	Se colpisci una Roccia Metin... preparati a un combattimento all'ultimo sangue!
+21	Usa la Pergamena del legame per proteggere i tuoi item dai furti.
+22	Con il bonus "Forte contro gli animali" infliggerai danni ancora più ingenti alle scimmie presenti nel Sotterraneo delle Scimmie.
+23	I mostri del Sotterraneo delle Scimmie tornano in vita molto velocemente: non abbassare mai la guardia!
+24	Questo posto mi è familiare... Nel Sotterraneo delle Scimmie, avrai frequenti déjà-vus!
+25	Nel Sotterraneo delle Scimmie dovrai cavartela senza mappa.
+26	Hai l'aracnofobia? Tra gli insetti di Metin2 incontrerai anche ragni giganti!
+27	Usa l'Anello del teletrasporto per raggiungere il Sotterraneo dei Ragni in un battibaleno.
+28	Non sottovalutare la Regina Ragno: il suo veleno è mortale! Il suo veleno potrebbe essere fatale!
+29	Per accedere al Sotterraneo dei Ragni 2 ti serve un Biglietto del passaggio.
+3	A partire dal livello 10, il Teleporter ti permette di raggiungere altre zone in men che non si dica.
+30	Per aprire la Caverna Nido della Baronessa serve la Chiave degli aracnidi.
+31	Solo pochi avventurieri sono tornati vivi dalla Torre dei Demoni!
+32	Nella Torre dei Demoni puoi ottenere parecchia EXP e tantissimi item come ricompensa.
+33	Al 6° Piano troverai il fabbro della Torre dei Demoni. Fagli arrotare la tua Lama!
+34	Sfrutta la Resistenza all'oscurità per affrontare le creature della Torre dei Demoni.
+35	Sfrutta la Resistenza all'oscurità per affrontare le creature della Catacomba del Diavolo.
+36	Le porte della Catacomba del Diavolo si apriranno solo dopo aver conquistato la Torre dei Demoni.
+37	Nel Catacomba del Diavolo dovrai cavartela senza la mini-mappa.
+38	Nella Catacomba del Diavolo è richiesto un grande spirito di gruppo.
+39	I pet del Principe dei Demoni Azrael sono degli insidiosi Cani infernali.
+4	Puoi ottenere le informazioni relative al sistema della gilda dai Guardiani della piazza del villaggio.
+40	Per accedere al livello 2 della Catacomba del Diavolo ogni membro del gruppo deve essere in possesso di una Testa ristretta.
+41	La Grotta dell'Esilio pullula di terribili creature.
+42	Per accedere alla Grotta dell'Esilio ti serve un'Ematite.
+43	Nella Grotta dell'Esilio, ti attendono "Paura e terrore" e tantissimi tesori di gran valore.
+44	Al livello 3 della Grotta, nella Stanza del Drago, ti aspetta la spaventosa divinità Beran-Setaou.
+45	Beran-Setaou acquisisce il proprio potere dalle Rocce Metin. Distruggile per sconfiggerlo.
+46	Sfrutta la Resistenza lampo e la Resistenza al ghiaccio contro le creature della Grotta dell'Esilio.
+47	Alla Stanza del Drago, nella Grotta dell'Esilio, si può accedere solo in gruppo.
+48	Avete 1 ora di tempo per sconfiggere Beran-Setaou.
+49	Nella Fortezza del Drago Rosso scorrono dei Fiumi di lava incandescente.
+5	Fai clic su "B" nella mini-mappa per ottenere informazioni sulla Zona di Combattimento e i suoi ingressi.
+50	Dopo aver completato le 6 zone della Fortezza del Drago Rosso, incontrerai Razador.
+51	Nella Fortezza del Drago Rosso, i papiri per il teletrasporto non funzionano.
+52	Sfrutta la Resistenza fuoco per affrontare le creature della Fortezza del Drago Rosso.
+53	Al tuo gruppo resta 1 ora per conquistare la Fortezza del Drago Rosso.
+54	Per conquistare la Torre di Vedetta di Nemere, devono essere presenti almeno un ninja e uno shamano.
+55	Sfrutta la Resistenza ghiaccio per affrontare le creature della Torre di Vedetta di Nemere.
+56	La Torre di Vedetta di Nemere comprende 9 livelli e una stanza del boss.
+57	Nella Torre di Vedetta di Nemere non puoi usare cavalcature.
+58	Ce la farete a conquistare la Torre di Vedetta di Nemere in 1 ora?
+59	Riuscirai a salvare i guerrieri scomparsi nella Torre di Vedetta di Nemere?
+6	Non dimenticare di modificare regolarmente la password del magazzino. La sicurezza prima di tutto!
+60	Il Guardiano En-Tai compare nel Tempio degli Ochao in punti casuali. Attaccalo prima che scompaia.
+61	Hai 3 minuti di tempo per sconfiggere il Guardiano En-Tai e aprire il portale che conduce alla Foresta Incantata.
+62	Sfrutta la Resistenza vento per affrontare le creature della Foresta Incantata.
+63	Jotun Thrym ha una potente armata al suo fianco.
+64	Solo con la Pietra delle Driadi si può accedere a Erebos.
+65	Dopo aver sconfitto Bagjanamu comparirà Jotun Thrym.
+66	Puoi ripetere la missione "Sconfiggi il sovrano" per la Pietra delle Driadi.
+67	Meley, la Regina dei draghi, non si può attaccare in modo diretto. Subisce dei danni tramite le Statue del drago.
+68	Sfrutta la Resistenza fuoco per affrontare le creature del Rifugio di Meley.
+69	Nel Rifugio di Meley, recupera l'Anello Fuoco dei draghi per distruggere le Statue del drago.
+7	Baek-Go ti darà una mano per realizzare delle potenti pozioni.
+70	La tua gilda deve possedere abbastanza punti karma della gilda per accedere al Rifugio di Meley.
+71	Il posizionamento nella classifica del Rifugio dipende dalla velocità di conquista del dungeon e dal numero di partecipanti.
+72	Nel Baule della Regina Meley puoi trovare un Uovo di drago rosso con la piccola Meley, un pet di gran classe.
+73	Per superare con successo il Rifugio di Meley (gilda), la tua gilda dovrebbe essere costituita da almeno 4 membri.
+74	Nel Rifugio di Meley (gruppo) troverai del materiale per l'Elmo PvP, mentre nel Rifugio di Meley (gilda) potrai recuperare del materiale per gli Elmi PvE.
+75	Il Tempio dello Zodiaco comprende 12 differenti dungeon con 12 guardiani.
+76	A seconda dei giorni è possibile accedere a un determinato Tempio dello Zodiaco.
+77	Ogni Tempio dello Zodiaco è caratterizzato da un elemento preciso che rafforza il suo guardiano.
+78	Sfrutta la Resistenza all'oscurità per i combattimenti nel Tempio di Zi.
+79	Sfrutta la Resistenza terra per i combattimenti nel Tempio di Chou.
+8	Hyah! A partire dal livello 25, tramite lo Stalliere, puoi iniziare la missione per il cavallo. La missione ti permette di ottenere il Cavallo principianti.
+80	Sfrutta la Resistenza fuoco per i combattimenti nel Tempio di Yin.
+81	Sfrutta la Resistenza vento per i combattimenti nel Tempio di Mao.
+82	Sfrutta la Resistenza lampo per i combattimenti nel Tempio di Chen.
+83	Sfrutta la Resistenza ghiaccio per i combattimenti nel Tempio di Si.
+84	Sfrutta la Resistenza ghiaccio per i combattimenti nel Tempio di Wu.
+85	Sfrutta la Resistenza lampo per i combattimenti nel Tempio di Wei.
+86	Sfrutta la Resistenza terra per i combattimenti nel Tempio di Shen.
+87	Sfrutta la Resistenza vento per i combattimenti nel Tempio di Yu.
+88	Sfrutta la Resistenza all'oscurità per i combattimenti nel Tempio di Xu.
+89	Sfrutta la Resistenza fuoco per i combattimenti nel Tempio di Hai.
+9	Modifica le combinazioni di tasti alla voce "Tastiera" presente nelle Opzioni di gioco.
+90	Per conquistare più facilmente un Tempio dello Zodiaco è meglio servirsi del Talismano elementale ad esso adeguato.
+91	Ricarica 12 Sfere anima per accedere al Tempio dello Zodiaco.
+92	Il Prisma del risveglio ti riporta in vita nel Tempio dello Zodiaco.
+93	I Talismani elementali si possono raffinare. Essi possono raggiungere un valore di +200.
+94	Al livello 40 del Tempio dello Zodiaco puoi acquistare tutte le Insegne del guardiano dal Commerciante Zodiaco.
+95	Con il Prisma del risveglio puoi aiutare un compagno di gioco a tornare in vita.
+96	È possibile accedere da soli al Tempio dello Zodiaco, ma si ottengono più ricompense quando si gioca in gruppo.
+97	Ogni livello del Tempio dello Zodiaco ha un tempo limite di 10 minuti.
+98	Vuoi davvero affrontare questo avventuroso viaggio?
+99	Hai 25 minuti per difendere la nave dall'attacco dell'Idra.

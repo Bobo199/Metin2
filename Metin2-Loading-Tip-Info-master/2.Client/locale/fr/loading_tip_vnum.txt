@@ -1,0 +1,120 @@
+1	Si votre tentative d'amélioration échoue, utilisez le parchemin de bénédiction pour protéger l'objet de la destruction.
+10	Participez à de passionnants duels JcJ à partir du niveau 15 !
+100	Utilisez votre résistance glace pour vaincre les créatures de la Défense du navire.
+101	Démarrez la Défense du navire en utilisant le gouvernail.
+102	Protégez le mât de la grand-voile pour éviter le naufrage du bateau.
+103	Raflez des objets utiles en combattant la Couvée de l'hydre.
+104	Vous avez plus de chances d'obtenir des Gayas auprès du marchand de Gayas du port que dans l'ancien monde.
+105	Stoppez dès que possible les attaques marines de la Couvée de l'hydre pour éviter le naufrage.
+106	Après une traversée palpitante, vous découvrez enfin un nouveau continent !
+107	Hey, vous ! Oui, vous ! Votre équipe Metin2 vous <3 aime.
+108	En terminant la quête journalière « monde des illusions », vous recevez un livre de l'éveil de façon certaine.
+109	En terminant la quête spatiotemporelle, vous recevez un livre de l'éveil avec une certaine probabilité.
+11	Bonne pêche ! Le pêcheur vous initie aux secrets de la pêche et vous propose un équipement adapté pour débuter.
+110	En terminant la quête spatiotemporelle 10 fois, vous recevez un livre de l'éveil de façon certaine.
+111	Les monstres du donjon de l'éveil sont plus forts que les monstres du donjon spatiotemporel.
+112	Le boss du donjon de l'éveil cache un coffre de boss de l'éveil.
+113	Vous pouvez trouver des fragments de pierre-dragon+ dans le donjon de l'éveil et le donjon spatiotemporel.
+114	Aucun butin ne s'échappe des monstres du donjon spatiotemporel.
+115	Dans le Monde élémentaire se trouvent différents esprits de la nature.
+116	Vous pouvez ajouter des effets de lot à votre équipement avec les matériaux adéquats pour obtenir un bonus de lot.
+117	Avec l'anneau primal, vous pouvez atteindre sur le Plateau primal secret.
+118	De nombreux esprits de la nature puissants grouillent dans le monde Metin2.
+119	Sur le Plateau primal, les forces sauvages de la nature vous dérobent vos PV.
+12	Vous ne pouvez pas avoir plus de 1 999 999 999 Yangs sur vous.
+120	Vous pouvez utiliser un ordre primal pour vous protéger du sort élémentaire.
+13	Vous ne pouvez pas avoir plus de 999 Wons sur vous.
+14	Faites attention à ce que vous donnez à manger à votre familier. Une fois avalé, l'objet ne peut pas être récupéré.
+15	Vous ne pouvez pas utiliser de compétence en étant transformé.
+16	Les bonus obtenus grâce à la quête du biologiste Chaegirab sont permanents.
+17	Les personnages jusqu'au niveau 30 inclus peuvent faire réinitialiser leurs compétences auprès de la vieille dame.
+18	En cas de mariage, les deux partenaires ne doivent pas avoir plus de 15 niveaux de différence.
+19	Plus un objet est raffiné, plus il brille.
+2	Êtes-vous prêt à vous marier ? Alors adressez-vous à la vieille dame.
+20	SI vous frappez une pierre Metin, vous devrez vous battre avec fougue !
+21	Protégez vos objets du vol grâce au parchemin de lien.
+22	Utilisez le bonus « force contre les animaux » pour infliger des dégâts plus importants aux singes du Donjon des singes.
+23	Soyez sur vos gardes : les monstres du Donjon des singes apparaissent à la vitesse de l'éclair.
+24	Il me semble être déjà passé par ici... Il se pourrait que vous ayez une sensation de déjà-vu en explorant le Donjon des singes.
+25	Vous devrez vous débrouiller sans minicarte dans le Donjon des singes.
+26	Vous n'êtes pas arachnophobe ? Car vous risquez de tomber sur des araignées géantes dans Metin2 !
+27	Utilisez l'anneau de téléportation pour accéder facilement au Donjon des araignées.
+28	Faites très attention à la Reine araignée. Son venin est extrêmement dangereux.
+29	Pour accéder au Donjon des araignées 2, il vous faut un ticket.
+3	Accédez rapidement à d'autres zones en utilisant le téléporteur à partir du niveau 10.
+30	La clé des araignées permet d'accéder à la Caverne du nid de la baronne.
+31	Peu d'aventuriers sont revenus vivants de la Tour des démons !
+32	Raflez encore plus d'EXP et d'objets en explorant la Tour des démons.
+33	Retrouvez le légendaire forgeron de la Tour des démons au niveau 6 et demandez-lui d'affûter votre lame !
+34	Utilisez votre résistance à l'obscurité pour vaincre les créatures de la Tour des démons.
+35	Utilisez votre résistance à l'obscurité pour vaincre les créatures des Catacombes du diable.
+36	Vous devez d'abord conquérir la Tour des démons avant de pouvoir accéder aux Catacombes du diable.
+37	Vous devrez vous débrouiller sans minicarte dans les Catacombes du diable.
+38	Protégez-vous les uns les autres dans les Catacombes du diable.
+39	Azraël, le prince démoniaque, élève des chiens des Enfers hargneux.
+4	Pour obtenir des informations sur le système de guilde, rendez-vous auprès des gardiens de village.
+40	Pour accéder au niveau 2 des Catacombes du diable, tous les membres du groupe doivent posséder une tête réduite.
+41	La Grotte de l'exil fourmille de créatures effrayantes.
+42	Il vous faut une pierre de sang pour accéder à la Grotte de l'Exil.
+43	Dans la Grotte de l'Exil, vous connaîtrez la peur et la terreur, mais vous y trouverez également de précieux trésors.
+44	Rendez-vous au niveau 3 de la grotte pour affronter le cruel dieu Beran-Setaou dans le Temple du dragon.
+45	Beran-Setaou tire sa force des pierres Metin. Détruisez-les pour vaincre le dieu déchu.
+46	Utilisez votre résistance glace et foudre pour vaincre les créatures de la Grotte de l'exil.
+47	Seuls les groupes peuvent accéder au Temple du dragon dans la Grotte de l'Exil.
+48	Vous avez 1 heure pour vaincre Beran-Setaou.
+49	Des flots de lave incandescente traversent la Forteresse du dragon rouge.
+5	Cliquez sur « B » sur la minicarte pour obtenir plus d'informations concernant la Zone de combat et ses accès.
+50	Explorez avec succès les 6 zones de la Forteresse du dragon rouge pour rencontrer Razador !
+51	Vous ne pouvez pas utiliser les parchemins de téléportation dans la Forteresse du dragon rouge.
+52	Utilisez votre résistance feu pour vaincre les créatures de la Forteresse du dragon rouge.
+53	Votre groupe a 1 heure pour conquérir la Forteresse du dragon rouge.
+54	Pour conquérir l'Observatoire de Nemere, il faut au moins un Ninja et un Chamane.
+55	Utilisez votre résistance glace pour vaincre les créatures de l'Observatoire de Nemere.
+56	L'Observatoire de Nemere est composé de 9 niveaux et de la salle du boss.
+57	Vous ne pouvez pas invoquer de monture dans l'Observatoire de Nemere.
+58	Réussirez-vous à conquérir l'Observatoire de Nemere en 1 heure ?
+59	Réussirez-vous à sauver les combattants disparus de l'Observatoire de Nemere ?
+6	Pensez à modifier régulièrement votre mot de passe. On est jamais trop prudent !
+60	Le Gardien En-Tai apparaît de manière aléatoire dans différents endroits du Temple Ochao. Il peut disparaître à tout moment, alors dépêchez-vous de l'affronter !
+61	Vous avez 3 minutes pour vaincre le Gardien En-Tai et ouvrir le portail qui mène vers la Forêt enchantée.
+62	Utilisez votre résistance vent pour vaincre les créatures de la Forêt enchantée.
+63	Jotun Thrym dispose d'une armée puissante.
+64	Vous avez besoin de la Pierre des Dryades pour accéder à Érèbe.
+65	Une fois Bagjanamu vaincu, Jotun Thrym apparaît.
+66	Vous pouvez retenter la quête « Affrontez le seigneur » pour récupérer la Pierre des Dryades.
+67	Vous ne pouvez pas affronter directement Meley, reine des dragons. Utilisez les statues du dragon pour lui infliger des dégâts.
+68	Utilisez votre résistance feu pour vaincre les créatures du Repaire de Meley.
+69	Raflez l'anneau de feu du dragon dans le Repaire de Meley pour détruire les statues du dragon.
+7	Baek-Go vous aidera à concocter de puissantes potions.
+70	Votre guilde doit posséder suffisamment de points de rang de guilde pour accéder au Repaire de Meley.
+71	Le classement dans le repaire dépend de la vitesse à laquelle vous réussirez à conquérir le donjon ainsi que du nombre de participants.
+72	Ouvrez le coffre de la reine Meley pour récupérer l'œuf de dragon rouge et recevoir ainsi le petit familier Meley.
+73	Pour réussir le Repaire de Meley (guilde), votre guilde doit compter au moins 4 membres.
+74	Dans le Repaire de Meley (groupe), vous trouverez des matériaux pour fabriquer un casque JcJ. Dans le Repaire de Meley (guilde), vous trouverez des matériaux pour fabriquer des casques JcE.
+75	Le Temple du zodiaque est composé de 12 donjons gardés par 12 gardiens.
+76	L'accès aux différents Temples du zodiaque dépend de quel jour on est.
+77	Dans chaque Temple du zodiaque, le gardien dispose d'un élément particulier dont il tire sa force.
+78	Préparez-vous au combat dans le temple de Zi grâce à la résistance à l'obscurité.
+79	Préparez-vous au combat dans le temple de Chou grâce à la résistance terre.
+8	Hua ! À partir du niveau 25, vous pourrez accéder à la quête équestre en allant voir le palefrenier.
+80	Préparez-vous au combat dans le temple du Yin grâce à la résistance feu.
+81	Préparez-vous au combat dans le temple de Mao grâce à la résistance vent.
+82	Préparez-vous au combat dans le temple de Chen grâce à la résistance foudre.
+83	Préparez-vous au combat dans le temple de Si grâce à la résistance glace.
+84	Préparez-vous au combat dans le temple du Wu grâce à la résistance glace.
+85	Préparez-vous au combat dans le temple de Wei grâce à la résistance foudre.
+86	Préparez-vous au combat dans le temple de Shen grâce à la résistance terre.
+87	Préparez-vous au combat dans le temple de Yu grâce à la résistance vent.
+88	Préparez-vous au combat dans le temple de Xu grâce à la résistance à l'obscurité.
+89	Préparez-vous au combat dans le temple de Hai grâce à la résistance feu.
+9	Modifiez les raccourcis grâce au champ « clavier » dans vos options de jeu.
+90	Utilisez le talisman d'élément adapté pour conquérir plus facilement le Temple du zodiaque correspondant.
+91	Rechargez 12 animasphères pour accéder au Temple du zodiaque.
+92	Le prisme du réveil dans le Temple du zodiaque vous permet de revenir à la vie.
+93	Les talismans d'élément peuvent être raffinés jusqu'à +200.
+94	Accédez au niveau 40 du Temple du zodiaque pour acheter tous les insignes du gardien auprès du marchand du zodiaque.
+95	Le prisme du réveil vous permet également de ramener un compagnon à la vie.
+96	Vous pouvez accéder seul au Temple du zodiaque, mais les groupes récupèrent plus de récompenses.
+97	Chaque niveau du Temple du zodiaque doit être terminé en 10 minutes maximum.
+98	Êtes-vous prêt pour l'aventure ?
+99	Vous avez 25 minutes pour défendre votre bateau contre les attaques de l'hydre.

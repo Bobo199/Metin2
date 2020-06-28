@@ -1,0 +1,120 @@
+1	Folosind un Pergament Binecuvântat, poþi proteja un obiect de la distrugere în caz cã îmbunãtãþirea eºueazã.
+10	Pregãteºte-te pentru dueluri incitante de la nivelul 15!
+100	Pregãteºte-te împotriva monºtrilor cu rezistenþã la gheaþã în Apãrare Navã.
+101	Începe Apãrarea Navei cu Timona.
+102	Protejeazã catargul cu orice preþ pentru a evita un naufragiu.
+103	Creatura Hydra aruncã cu obiecte folositoare în luptã.
+104	Negustorul Gaya din Portul de pe noul continent oferã o ºansã mai bunã de a fabrica Gaya decât în oricare alt loc din lume.
+105	Opreºte rapid atacurile de apã ale Creaturii Hydra pentru a evita o catastrofã pe mare.
+106	Dupã o cãlãtorie epicã pe mare, te aºteaptã un nou continent!
+107	Hei, tu! Da, tu! Echipa Metin2 te <3! x)
+108	Dacã finalizezi misiunea zilnicã a Lumea Iluziilor, vei primi garantat un Volum Redux.
+109	Dacã finalizezi cu succes misiunea Ruptura Timpului, ai ºansa de a primi un Volum Redux.
+11	Vorbeºte cu pescarul pentru a învãþa despre pescuit ºi pentru a obþine echipament de start. Pescuit plãcut!
+110	Dacã finalizezi cu succes misiunea Ruptura Timpului în 10 minute, vei primi garantat un Volum Redux.
+111	Monstrii din temniþa Redux sunt mai puternici decât cei din temniþa Ruptura Timpului.
+112	ªeful din temniþa Redux pãzeºte un cufãr Redux.
+113	Ciob Piatrã Dragon+ poate fi luat din temniþele Ruptura Timpului ºi Redux.
+114	Monºtrii din temniþa Ruptura Timpului nu dropeazã bunuri.
+115	Multe spirite diferite ale naturii locuiesc pe Tãrâmul Elementelor.
+116	Folosind materialele potrivite, poþi aplica efecte de set echipamentului tãu pentru a debloca bonusurile de set.
+117	Puteþi ajunge pe Platoul secret al Forþelor Primare folosind Inelul Forþei Primare.
+118	Existã multe spirite puternice ale naturii în lumea Metin2.
+119	Forþele naturale sãlbatice de pe Platoul Forþelor Primare îþi vor fura PV.
+12	Poþi sã transporþi maximum 1,999,999,999 Yang.
+120	Poþi folosi Medalia Forþei Primare pentru a te proteja de Blestemului Elementelor.
+13	Poþi avea maximum de 999 Won.
+14	Acordã atenþie la hrana însoþitorului. Dupã ce l-a mâncat, nu vei mai putea recupera obiectul.
+15	Nu poþi folosi nicio abilitate cât timp eºti transformat.
+16	Bonusurile primite ca recompensã la misiunile bilogului Chaegirab sunt permanente.
+17	Abilitãþile caracterelor pânã la nivelul 30 inclusiv pot fi resetate de cãtre Femeia Bãtrânã.
+18	Caracterele care se cãsãtoresc nu pot avea mai mult de 15 nivele diferenþã.
+19	Obiectele dobândesc efecte sclipitoare cu cât sunt mai rafinate.
+2	Eºti gata sã te cãsãtoreºti? Atunci vorbeºte cu Femeia Bãtrânã.
+20	Când distrugi o piatrã Metin, pregãteºte-te de o bãtãlie aprigã!
+21	Protejeazã-þi obiectele împotriva furtului cu un Pergament Personalizat.
+22	Poþi face mai multe daune în Temniþa Maimuþei cu bonusul 'tare împotriva animalelor'.
+23	Fereºte-þi picioarele! Monºtrii din Temniþa Maimuþei reapar foarte repede.
+24	Îþi sunã cunoscut? Temniþa Maimuþei îþi va da cu siguranþã câteva momente de deja vu.
+25	Va trebui sã mergi prin Temniþa Maimuþei fãrã ajutorul hãrþii mini.
+26	Suferi de arahnofobie? Atunci fereºte-te de pãianjenii enormi din Metin2!
+27	Poþi ajunge rapid în Temniþa Pãianjenilor, folosind un Inel de Teleportare.
+28	Þine ochii deschiºi pentru Regina Pãianjenilor. Otrava acesteia este extrem de periculoasã.
+29	Ai nevoie de un Permis de Trecere pentru a intra în Temniþa Pãianjenilor 2.
+3	Teleporterul te poate transfera rapid în alt þinut de la nivelul 10.
+30	Deschide bârlogul Reginei Pãianjenilor cu Cheia Arahnidelor.
+31	Puþini sunt aventurierii care se întorc de la Turnul Demonilor pentru a spune povestea!
+32	Poþi câºtiga o mulþime de EXP ºi obiecte drept recompensã dacã te aventurezi în Turnul Demonilor.
+33	Fierarul legendar de la etajul 6 din Turnul Demonilor îþi va ascuþi lama!
+34	Pregãteºte-te împotriva monºtrilor din Turnul Demonilor cu rezistenþã la întuneric.
+35	Pregãteºte-te împotriva monºtrilor din Catacomba Diavolului cu rezistenþã la întuneric.
+36	Catacomba Diavolului se deschide numai dacã ai cucerit înainte Turnul Demonilor.
+37	Trebuie sã te deplasezi prin Catacomba Diavolului fãrã harta mini.
+38	Ai grijã de aliaþii tãi în Catacomba Diavolului.
+39	Fereºte-te de Câinii Iadului, însoþitorii lordului demon Azrael.
+4	Vorbeºte cu Gardianul oraºului pentru a învãþa despre sistemul breslelor.
+40	Toþi membrii grupului au nevoie de un Cap Mumificat pentru a ajunge la nivelul doi din Catacomba Diavolului.
+41	Grota Exilului geme de creaturi terifinte.
+42	Ai nevoie de Piatrã Însângeratã pentru a intra în Grota Exilului.
+43	Grota Exilului geme de creaturi terifinte ºi orori insuportabile. ªi pradã de bunuri epice!
+44	Crudul zeu Beran-Setaou te aºteaptã în Templul Dragonului, al treilea nivel din Grota Exilului.
+45	Beran-Setaou îºi ia puterea din pietrele Metin, distruge-le pentru a-l învinge pe terifiantul zeu.
+46	Pregãteºte-te împotriva creaturilor din Grota Exilului cu rezistenþã la gheaþã ºi fulger.
+47	Poþi intra în Templul Dragonului din Grota Exilului doar dacã te afli într-un grup.
+48	Ai la dispoziþie 1 orã pentru a-l învinge pe Beran-Setaou.
+49	Lavã strãlucitoare curge prin Fortãreaþa Dragonului Roºu!
+5	Apasã pe 'B' de lângã harta mini pentru a afla mai multe despre Zona de Rãzboi ºi cum sã intri.
+50	Dupã ce ai obþinut controlul celor 6 zone din Fortãreaþa Dragonului Roºu, îl vei confrunta pe Razador!
+51	Pergamentele de teleportare nu funcþioneazã în Fortãreaþa Dragonului Roºu.
+52	Pregãteºte-te împotriva monºtrilor din Fortãreaþa Dragonului Roºu cu rezistenþã la foc.
+53	Grupul tãu are 1 orã la dispoziþie sã cucereascã Fortãreaþa Dragonului Roºu.
+54	Ai nevoie în grup de un ninja ºi un ºaman pentru a cuceri Turnul lui Nemere.
+55	Pregãteºte-te împotriva monºtrilor din Turnul lui Nemere cu rezistenþã la gheaþã.
+56	Turnul lui Nemere are 9 nivele ºi o camerã cu ºef.
+57	Nu poþi chema mounþii în Turnul lui Nemere.
+58	ªtii ce înseamnã sã cucereºti Turnul lui Nemere într-o 1 orã?
+59	Poþi sã salvezi rãzboinicii dispãruþi din Turnul lui Nemere?
+6	Nu uita sã îþi schimbi parola depozitului cu regularitate. Mai bine sã previ decât sã tratezi!
+60	Gardianul En-Tai apare în locaþii aleatorii în Templul Ochao. Atacã-l înainte sã disparã.
+61	Ai 3 minute sã învingi un Gardian En-Tai ºi sã deschizi portalul din Pãdurea Fermecatã.
+62	Pregãteºte-te împotriva monºtrilor din Pãdurea Fermecatã cu rezistenþã la vânt.
+63	Jotun Thrym are o armatã puternicã de partea lui.
+64	Poþi intra în Erebus cu Piatra Driadelor.
+65	Jotun Thrym va apãrea imediat ce l-ai învins pe Bagjanamu.
+66	Poþi repeta misiunea 'Omoarã-l pe Suveranul En-Tai' pentru Piatra Driadelor.
+67	Meley Regina Dragon nu poate fi atacatã direct. Dar poate lua daune de la statuile dragon.
+68	Pregãteºte-te împotriva creaturilor din Adãpostul lui Meley cu rezistenþã la foc.
+69	Obþine un Inel Focul Dragonului în Adãpostul lui Meley pentru a distruge statuile dragon.
+7	Baek-Go te va ajuta sã bei licori puternice.
+70	Breasla ta are nevoie de suficiente puncte de rang pentru a intra în Adãpostul lui Meley.
+71	Rangul tãu din adãpost este determinat de viteza victoriei ºi a numãrului de participanþi.
+72	În Cufãr Regina Meley poþi sã gãseºti Ou Dragon Roºu ºi însoþitorul Meley Mic.
+73	Breasla ar trebui sã aibã cel puþin 4 membri pentru a cuceri cu succes Adãpostul lui Meley (breaslã).
+74	Poþi gãsi materiale pentru coifurile PvP în Adãpostul lui Meley (grup) ºi coifurile PvE în Adãpostul lui Meley (breaslã).
+75	Templul Zodiac are 12 temniþe diferite cu 12 gardieni.
+76	Diferite Temple Zodiac sunt disponibile în zile diferite.
+77	Fiecare Templu Zodiac are un element specific ce oferã putere gardianului sãu.
+78	Pregãteºte-te de luptã în Templul Zi cu rezistenþã la întuneric.
+79	Pregãteºte-te de luptã în Templul Chou cu rezistenþã la pãmânt.
+8	Pe cai! De la nivel 25 poþi începe misiunea pentru cal începãtor de la Grãjdar.
+80	Pregãteºte-te de luptã în Templul Yin cu rezistenþã la foc.
+81	Pregãteºte-te de luptã în Templul Mao cu rezistenþã la vânt.
+82	Pregãteºte-te de luptã în Templul Chen cu rezistenþã la fulger.
+83	Pregãteºte-te de luptã în Templul Si cu rezistenþã la gheaþã.
+84	Pregãteºte-te de luptã în Templul Wu cu rezistenþã la gheaþã.
+85	Pregãteºte-te de luptã în Templul Wei cu rezistenþã la fulger.
+86	Pregãteºte-te de luptã în Templul Shen cu rezistenþã la pãmânt.
+87	Pregãteºte-te de luptã în Templul You cu rezistenþã la vânt.
+88	Pregãteºte-te de luptã în Templul Xu cu rezistenþã la întuneric.
+89	Pregãteºte-te de luptã în Templul Hai cu rezistenþã la foc.
+9	Schimbã comenzile rapide selectând 'Tastaturã' din opþiunile de joc.
+90	Talismanul elementar potrivit te va ajuta sã cucereºti mai uºor Templul Zodiac relevant.
+91	Schimbã 12 Animasfere pentru o intrare în Templul Zodiac.
+92	Prisma Reînvierii te reînvie în Templul Zodiac.
+93	Talismanele elementare pot fi rafinate pânã la +200.
+94	Poþi achiziþiona Insigne Gardian de la Negustorul Zodiac ce se aflã la nivel 40 în Templul Zodiac.
+95	Poþi, de asemenea, reînvia coechipierii cu Prisma Reînvierii.
+96	Poþi intra singur în Templul Zodiac dar vei colecta mai multe recompense în grup.
+97	Fiecare nivel din Templul Zodiac are o duratã limitã de 10 minute.
+98	Eºti gata sã ai o aventurã de neuitat?
+99	Ai 25 de minute la dispoziþie sã aperi nava de atacurile Hydrei.

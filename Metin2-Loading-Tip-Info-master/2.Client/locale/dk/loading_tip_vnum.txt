@@ -1,0 +1,120 @@
+1	Ved at bruge et Velsignelses Dokument, kan du beskytte en genstand fra at blive ødelagt, i tilfælde af at en forbedring mislykkes.
+10	Gør dig klar til spændene PvP dueller fra level 15!
+100	Stål dig selv imod Skibs Forsvars monstre med is modstand.
+101	Start Skibs Forsvaret med Skibets Hjul.
+102	Beskyt masten med storsejl for enhver pris for at undgå at blive skibsbrudt.
+103	Hydras Yngel smider alle mulige brugbare genstande i kamp.
+104	Gaya Købmanden ved havnen på det nye kontinent, giver en bedre chance for at lave Gaya end andre steder i den gamle verden.
+105	Stands Hydras Yngels vand angreb hurtigt, for at undgå en katastrofe på havet.
+106	Efter en episk sørejse, venter der en ny kontinent!
+107	Hey, du der! Ja, dig! Metin2 Teamet <3 dig! x)
+108	Hvis du gennemfører en Verden af Illusioners daglige mission, er du garanteret i at modtage en Genoplivelses Bog.
+109	Hvis du gennemfører Tids Splittelses missionen med succes, har du en vis chance for at modtage en Genoplivelses Bog.
+11	Snak med Fiskeren for at lære om fiskeri og få noget udstyr til at starte med. God fiskeri!
+110	Hvis du gennemfører Tids Splittelses missionen med succes 10 gange, er du garanteret i at modtage en Genoplivelses Bog.
+111	Monstrene i Genoplivelses fangehullet er stærkere end dem i Tids Splittelses fangehullet.
+112	Bossen i Genoplivelses fangehullet bevogter en Genoplivelses boss kiste.
+113	Dragestens Skår+ kan blive plyndret i Tids Splittelses og Genoplivelses fangehullerne.
+114	Monstrene i Tids Splittelses fangehullet smider ikke nogen bytte.
+115	Mange forskellige natur ånder befinder sig i det Elementære Rige.
+116	Ved at bruge de rigtige materialer, kan du anvende sæt effekterne på dit udstyr for at låse op for sæt bonusserne.
+117	Du kan nå op til det hemmelige Primale Kræfters Højslette ved at bruge Primale Kræfters Ring.
+118	Der er mange kraftfulde natur ånder i Metin2s verden.
+119	De utæmmede naturkræfter på de Primale Kræfters Højslette vil stjæle din HP.
+12	Du kan højest bærer 1.999.999.999 Yang.
+120	Du kan bruge en Primale Kræfters Medalje til at beskytte dig selv imod den Elementære Forbandelse.
+13	Du kan højest bære 999 Won.
+14	Vær opmærksom på, hvad du fodrer dit kæledyr med. Når den er spist, får du aldrig genstanden tilbage.
+15	Du kan ikke bruge nogen færdigheder mens du bliver transformeret.
+16	Bonusser som du modtager som en belønning fra biologen Chaegirabs missioner er permanente.
+17	Karakterer op til og inklusivt level 30, kan få deres færdigheder nulstillet af den Gamle Dame.
+18	Karakterer som bliver gift, kan ikke være mere end 15 levels fra hinanden.
+19	Genstande får gnistre effekter, jo mere raffinerede de er.
+2	Er du klar til at blive gift? Så snak med den Gamle Dame.
+20	Når du ødelægger en Metin-sten, så gør dig klar til en hård kamp!
+21	Beskyt dine genstande fra tyveri med Bindings Dokumentet.
+22	Påfør mere skade på aberne i Abe-grotten, med 'stærk imod dyr' bonussen.
+23	Hold på tæerne! Monstrene i Abe-grotten kommer meget hurtigt.
+24	Virker det bekendt? Abe-grotten vil garantere dig et par déjà-vu øjeblikke.
+25	Du skal navigere i Abe-grotten uden dit minikort.
+26	Lider du af araknofobi? Så pas på Metin2s meget store edderkopper!
+27	Du kan nå til Edderkoppe Grotten hurtigt og nemt med Teleporterings Ringen.
+28	Vær på udkig efter Edderkoppe Dronningen. Hendes gift er ekstremt farlig!
+29	Du skal bruge et Passage Dokument for at komme ind i Edderkoppe Grotten 2.
+3	Teleporteren kan hurtigt transporterer dig til andre områder fra level 10.
+30	Åben Edderkoppe Baronessens Avl Hule med Spindlernes Nøgle.
+31	Få eventyrere vender tilbage fra Dæmon Tårnet for at fortælle historien!
+32	Du kan optjene en masse EXP og genstande i belønning for at vove dig ind i Dæmon Tårnet.
+33	Lad den legendariske smed på den 6. sal i Dæmon Tårnet skærpe din klinge!
+34	Stål dig selv imod monstrene i Dæmon Tårnet med mørkets modstand.
+35	Stål dig selv imod monstrene i Djævelens Katakombe med mørkets modstand.
+36	Porten til Djævelens Katakombe er kun åben, hvis du før har erobret Dæmon Tårnet.
+37	Du skal navigere i Djævelens Katakombe uden dit minikort.
+38	Find dine allierede i Djævelens Katakombe.
+39	Pas på dæmon herskerens Azraels kæledyrs Helvedes Hunde.
+4	Snak med landsby Vogterne for at lære om ordens systemet.
+40	Alle gruppe medlemmerne skal have en Skrumpe Hoved, for at nå op til det næste level i Djævelens Katakombe.
+41	Forbandelsens Grotte er fyldt med skræmmende væsner.
+42	Du skal bruge en Blodsten, for at komme ind i Forbandelsens Grotte.
+43	Forbandelsens Grotte er fyldt med skræmmende væsner og ubeskrivelige rædsler. Og episk bytte!
+44	Den grusomme gud Beran-Setaou venter dig i Dragens Tempel, den tredje level af Forbandelsens Grotte.
+45	Beran-Setaou får hans kræfter fra Metin-sten; ødelæg dem for at besejre denne faldne gud.
+46	Stål dig selv imod væsnerne i Forbandelsens Grotte med is og lynmodstand.
+47	Du kan kun komme ind i Dragens Tempel i Forbandelsens Grotte, i en gruppe.
+48	Du har 1 time til at besejre Beran-Setaou.
+49	Glødende lava flyder igennem den Røde Drages Fort!
+5	Klik på 'B' ved siden af dit minikort, for at lære om Kamp Zonen og hvordan du kommer derind.
+50	Når du har mestret 6 zoner i den Røde Drages Fort, kan du konfronter Razador!
+51	Teleporterings dokumenter virker ikke i den Røde Drages Fort.
+52	Stål dig selv imod monstrene i den Røde Drages Fort med ild modstand.
+53	Din gruppe har 1 time til at erobre den Røde Drages Fort.
+54	Du skal bruge en ninja og en shaman i gruppen, for at erobre Nemere's Vagttårn.
+55	Stål dig selv imod monstrene i Nemere's Vagttårn med is modstand.
+56	Nemere's Vagttårn har 9 levels og et boss rum.
+57	Du kan ikke tilkalde gangere i Nemere's Vagttårn.
+58	Har du hvad der skal til for at erobre Nemere's Vagttårn på 1 time?
+59	Kan du redde de forsvundne krigere fra Nemere's Vagttårn?
+6	Glem ikke at ændre dit lager kodeord ofte. Hellere være på den sikre side!
+60	En-Tai Vagten kommer frem på tilfældige lokationer i Ochao Templet. Angrib ham før han forsvinder.
+61	Du har 3 minutter til at besejre en En-Tai Vagt og åbne portalen til den Fortryllede Skov.
+62	Stål dig selv imod monstrene i den Fortryllede Skov med vind modstand.
+63	Jotun Thrym har en stærk hær ved sin side.
+64	Du kan kun komme ind i Erebus med Dryadernes Sten.
+65	Jotun Thrym vil komme frem så snart du har besejret Bagjanamu.
+66	Du kan gentage 'Dræb En-Tai Sovereign' missionen for at få Dryadernes Sten.
+67	Drage Dronningen Meley kan ikke angribes direkte. I stedet, tager hun skade fra drage statuerne.
+68	Stål dig selv imod væsnerne i Meleys Grotte med ild modstand.
+69	Få fat i Drageilds Ringen i Meleys Grotte, for at ødelægge drage statuetterne.
+7	Baek-Go hjælper dig med at brygge mægtige eliksirer.
+70	Din orden har brug for tilstrækkelige ordens rangpoint, for at komme ind i Meleys Grotte.
+71	Din rang i grotten er bestemt af sejrenes hastighed og antallet af deltagere.
+72	I Dronning Meleys Kiste kan du finde den Rødt Drage Æg og Mini Meley kæledyret!
+73	Din orden burde mindst have 4 medlemmer for at erobre Meleys Grotte (orden).
+74	Du kan finde materialer til PvP hjelme i Meleys Grotte (gruppe) og PvE hjelme i Meleys Grotte (orden).
+75	Zodiac Templet har 12 forskellige fangehuller med 12 vagter.
+76	De forskellige Zodiac Templer er tilgængelige på forskellige dage.
+77	Hver Zodiac Tempel besidder et bestemt element som styrker dens vagt.
+78	Stål dig selv til kamp i Zi Templet med mørkets modstand.
+79	Stål dig selv til kamp i Chou Templet med jordens modstand.
+8	Saddel op! Fra level 25 kan du starte heste missionen, for at få en begynder hest fra Stalddrengen.
+80	Stål dig selv til kamp i Yin Templet med ild modstand.
+81	Stål dig selv til kamp i Mao Templet med vind modstand.
+82	Stål dig selv til kamp i Chen Templet med lynmodstand.
+83	Stål dig selv til kamp i Si Templet med is modstand.
+84	Stål dig selv til kamp i Wu Templet med is modstand.
+85	Stål dig selv til kamp i Wei Templet med lynmodstand.
+86	Stål dig selv til kamp i Shen Templet med jordens modstand.
+87	Stål dig selv til kamp i You Templet med vind modstand.
+88	Stål dig selv til kamp i Xu Templet med mørkets modstand.
+89	Stål dig selv til kamp i Hai Templet med ild modstand.
+9	Ændre dine genveje ved at vælge 'Tastatur' fra spilindstillingerne.
+90	Det matchende elementale talisman, vil gøre din erobring af den relevante Zodiac Tempel nemmere.
+91	Oplad 12 Animasphere for at få adgang til Zodiac Templet.
+92	Genoplivelses Prismen genopliver dig i Zodiac Templet.
+93	Elementale talismaner kan blive raffineret op til +200.
+94	Du kan købe Vagt Emblemer hos Zodiac Købmanden på level 40 i Zodiac Templet.
+95	Du kan også genoplive holdkammerater med Genoplivelses Prismen.
+96	Du kan komme ind i Zodiac Templet alene, men du optjener flere belønninger i en gruppe.
+97	Hver level i Zodiac Templet har en 10-minutters tidsfrist.
+98	Er du klar til at tage en eventyrlig rejse?
+99	Du har 25 minutter til at forsvare skibet imod Hydras angreb.

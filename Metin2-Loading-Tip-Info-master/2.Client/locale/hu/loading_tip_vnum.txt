@@ -1,0 +1,120 @@
+1	Az Áldás tekercs használatával megvédhetsz egy tárgyat a megsemmisüléstõl arra az esetre, ha a fejlesztés sikertelen.
+10	Készülj fel az izgalmas PvP küzdelmekre a 15. szinttõl!
+100	Vértezd fel magad jég ellenállással a Hajó megvédése kihívás szörnyei ellen!
+101	A Hajó megvédése kihívást a hajó kormányánál indíthatod el.
+102	Védd meg bármi áron a fõvitorlát tartó árbócot, hogy megmentsd a hajót a pusztulástól!
+103	Hidra megidézettjei mindenféle hasznos tárgyat dobnak a harcban.
+104	A Kikötõben található Gaya kereskedõ az új kontinensen nagyobb eséllyel készít sikeresen Gayát, mint bárki más a régi világban.
+105	Gyorsan állítsd meg Hidra megidézettjeinek vízi támadását, hogy elkerülhesd a tengeri katasztrófát!
+106	A lélegzetelállító tengeri utazás után egy új kontinens vár!
+107	Hé, te ott! Igen, te! A Metin2 Csapat <3 téged! x)
+108	Ha teljesíted az Illúziók világa napi küldetést, garantáltan kapsz egy Megvilágosodás kódexet.
+109	Ha sikeresen teljesíted az Idõhasadék küldetést, némi eséllyel kaphatsz egy Megvilágosodás kódexet.
+11	Beszélj a Halásszal, hogy megtudj néhány dolgot a horgászatról, és beszerezd a kezdõ felszerelést! Jó horgászatot!
+110	Ha sikeresen teljesíted az Idõhasadék küldetést 10 alkalommal, garantáltan kapsz egy Megvilágosodás kódexet.
+111	A Megvilágosodás-kazamatákban található szörnyek erõsebbek, mint az Idõhasadék-kazamatákban.
+112	A Megvilágosodás-kazamatában a fõszörny egy Megvilágosodás fõszörny ládát õriz.
+113	A Sárkánykõ-szilánk+ az Idõhasadék- és Megvilágosodás-kazamatákban zsákmányolható.
+114	Az Idõhasadék-kazamatákban található szörnyek nem dobnak zsákmányt.
+115	Sok természeti erõ szelleme népesíti be az Elementálok birodalmát.
+116	A megfelelõ anyagok segítségével szett-hatásokat adhatsz felszerelésedhez, amikkel szett bónuszokat szerezhetsz.
+117	Az Elemi erõk gyûrûje használatával juthatsz el a titkos Elemi erõk fennsíkjára.
+118	Sok természeti erõ nagy hatalmú szelleme él a Metin2 világában.
+119	Az Elemi erõk fennsíkján található vad természeti erõk ellopják a TP-d.
+12	Egyszerre legfeljebb 1.999.999.999 Yang lehet nálad.
+120	Az Elementáris átok ellen az Elemi erõk medálja használatával védekezhetsz.
+13	Egyszerre legfeljebb 999 Won lehet nálad.
+14	Figyelj oda, mit etetsz meg a házikedvenceddel! Ha megette, többé nem kaphatod vissza a tárgyat.
+15	Nem használhatsz készségeket, amíg át vagy változva.
+16	Chaegirab biológus küldetéseiért végleges bónuszokat kapsz jutalomként.
+17	A 30. szintû és alatti karakterek nullázhatják a készségeiket az Öregasszonynál.
+18	A házasulandó karakterek között nem lehet 15 szintnél nagyobb különbség.
+19	Minél fejlettebbek a tárgyak, annál jobban csillognak.
+2	Készen állsz, hogy megházasodj? Beszélj az Öregasszonnyal!
+20	Kemény harcra készülj, amikor egy Metinkövet pusztítasz el!
+21	A Kötés tekercsével megvédheted tárgyaid a lopástól.
+22	A Majom kazamatában található majmoknak több sebzést vihetsz be az "Állatok elleni erõ" bónusszal.
+23	Mindig tartsd nyitva a szemed! A szörnyek a Majom kazamatában nagyon gyorsan újraélednek.
+24	Ismerõsnek tûnik? A Majom kazamata biztosan okoz majd néhány déj vu pillanatot.
+25	A Majom kazamatában a minitérképed nélkül kell tájékozódnod.
+26	Iszonyodsz a nyolclábúaktól? Ha igen, akkor csak óvatosan a Metin2 félelmetesen nagy pókjaival!
+27	A Pók kazamatába gyorsan és egyszerûen eljuthatsz a Teleport-gyûrû segítségével.
+28	Mindig tartsd a szemed a Pók-királynõn! A mérge nagyon veszélyes.
+29	Egy Belépési engedélyre van szükséged, hogy bejuthass a Pók kazamata 2-be.
+3	A Teleportos gyorsan eljuttathat más területekre 10. szinttõl.
+30	A Pók-kulcs segítségével juthatsz be a Pók-bárónõ fészkébe.
+31	Csak kevés kalandor tér vissza a Démon-toronyból, hogy elmesélje a történetét.
+32	A Démon-toronyban való kalandozással sok EXP-t és tárgyat szerezhetsz jutalomként.
+33	Élesítsd meg pengéd a Démon-torony 6. szintjén található legendás kováccsal!
+34	Vértezd fel magad sötétség ellenállással a Démon-torony szörnyei ellen!
+35	Vértezd fel magad sötétség ellenállással az Ördög Katakombájában nyüzsgõ szörnyek ellen!
+36	Az Ördög Katakombájának kapui csak azok számára nyitottak, akik korábban már meghódították a Démon-tornyot.
+37	Az Ördög Katakombájában a minitérképed nélkül kell tájékozódnod.
+38	Figyelj a társaidra az Ördög Katakombájában!
+39	Óvakodj Azrael, a démon nagyúr házikedvencként tartott pokolkutyáitól!
+4	Beszélj a falu Gondnokával, hogy többet megtudj a céh rendszerrõl!
+40	Minden csoporttagnak szüksége van egy Zsugorított fejre, hogy beléphessen az Ördög Katakombájának második szintjére.
+41	A Számûzött barlangja hemzseg a hátborzongató lényektõl.
+42	A Számûzött barlangjába való belépéshez szükséged van egy Vérkõre.
+43	A Számûzött Barlangja telis-tele van félelmetes lényekkel és leírhatatlan iszonyattal! És értékes zsákmánnyal.
+44	A Számûzött Barlangjának harmadik szintjén, a Sárkány Templomában vár rád Beran-Setaou, a kegyetlen isten.
+45	Beran-Setaou a Metinkövekbõl meríti az erejét; pusztítsd el õket, hogy legyõzhesd ezt a kitaszított istent!
+46	Vértezd fel magad jég- és villám ellenállással a Számûzött barlangjában élõ lények ellen!
+47	A Számûzött Barlangjában található Sárkány Templomába csak csoportban léphetsz be.
+48	1 óra áll rendelkezésedre Beran-Setaou legyõzéséhez.
+49	A Vörös sárkány-erõdön fortyogó láva folyik keresztül.
+5	Kattints a minitérképed melletti "B" gombra, hogy többet megtudhass a Harci övezetrõl és a belépésrõl!
+50	Ha bizonyítottál 6 zónában a Vörös sárkány-erõdben, szembe kerülsz Razadorral!
+51	A teleportáló tekercsek nem mûködnek a Vörös sárkány-erõdben.
+52	Vértezd fel magad tûz ellenállással a Vörös sárkány-erõd szörnyei ellen!
+53	A csoportodnak 1 órája van meghódítani a Vörös sárkány-erõdöt.
+54	Szükséged van egy nindzsára és egy sámánra a csoportodban Nemere õrtornyának meghódításához.
+55	Vértezd fel magad jég ellenállással a Nemere õrtornyában nyüzsgõ szörnyek ellen!
+56	Nemere õrtornyának 9 szintje van és egy terem a fõszörnynek.
+57	Nemere õrtornyában nem idézhetsz meg hátasokat.
+58	Megvan mindened, ami kell, hogy meghódítsd 1 óra alatt Nemere õrtornyát?
+59	Meg tudod menteni az eltûnt harcosokat Nemere õrtornyában?
+6	Ne felejtsd el rendszeresen megváltoztatni a raktár jelszavad! Jobb félni, mint megijedni.
+60	Az En-Tai õr véletlenszerû helyeken jelenik meg az Ochao templomában. Támadd meg, mielõtt eltûnik!
+61	3 perc áll rendelkezésedre, hogy legyõzz egy En-Tai õrt, és megnyisd az Elvarázsolt erdõbe vezetõ portált.
+62	Vértezd fel magad szél ellenállással az Elvarázsolt erdõ szörnyei ellen!
+63	Jotun Thrym oldalán egy erõs sereg harcol.
+64	Csak a Tündérek köve segítségével léphetsz be Erebosba.
+65	Jotun Thrym csak Bagjanamu legyõzése után fog megjelenni.
+66	Az "Öld meg az En-Tai uralkodót" küldetés ismételhetõ, hogy Tündérek kövét szerezhess.
+67	Meleyt, a Sárkánykirálynõt nem tudod megtámadni közvetlenül. Õ a sárkány-szobrok által szenved sérülést.
+68	Vértezd fel magad tûz ellenállással a lények ellen Meley barlangjában!
+69	Szerezd meg a Sárkánytûz-gyûrût Meley barlangjában a sárkány-szobrok elpusztításához!
+7	Baek-Go segít erõsítõ bájitalok elkészítésében.
+70	A céhednek elegendõ mennyiségû céh rangpontra van szüksége, hogy belépjetek Meley barlangjába.
+71	A helyezésed a barlangban függ attól, hogy milyen gyorsan nyertél és a résztvevõk számától.
+72	Meley királynõ ládájából megszerezheted a Vörös sárkánytojást és a Mini Meley házikedvencet!
+73	A céhednek legalább 4 tagra van szüksége, hogy sikeresen meghódítsátok Meley barlangját (céh).
+74	A Meley barlangja (csoport) PvP sisakokhoz, a Meley barlangja (céh) pedig PvE sisakokhoz rejt alapanyagokat.
+75	A Zodiákus templomban 12 különféle kazamata található 12 õrzõvel.
+76	A különféle Zodiákus templomok különbözõ napokon érhetõk el.
+77	Minden Zodiákus templomhoz tartozik egy elementáris erõ, ami az õrzõjét erõsíti.
+78	Vértezd fel magad sötétség ellenállással a harcra Zi templomában!
+79	Vértezd fel magad föld ellenállással a harcra Chou templomában!
+8	Nyeregbe fel! 25. szinttõl elkezdheted a lovas küldetést a Lovászinasnál a kezdõ ló megszerzéséhez.
+80	Vértezd fel magad tûz ellenállással a harcra Yin templomában!
+81	Vértezd fel magad szél ellenállással a harcra Mao templomában!
+82	Vértezd fel magad villám ellenállással a harcra Chen templomában!
+83	Vértezd fel magad jég ellenállással a harcra Si templomában!
+84	Vértezd fel magad jég ellenállással a harcra Wu templomában!
+85	Vértezd fel magad villám ellenállással a harcra Wei templomában!
+86	Vértezd fel magad föld ellenállással a harcra Shen templomában!
+87	Vértezd fel magad szél ellenállással a harcra You templomában!
+88	Vértezd fel magad sötétség ellenállással a harcra Xu templomában!
+89	Vértezd fel magad tûz ellenállással a harcra Hai templomában!
+9	A gyorsbillentyûid megváltoztathatod a játék opciókban található "Billentyûzet" kiválasztásával.
+90	A megfelelõ elementáris talizmánnal könnyebben meghódíthatsz egy adott Zodiákus templomot.
+91	12 Anima-gömbre van szükséged, hogy beléphess a Zodiákus templomba.
+92	A Felélesztõ prizmával újraéledhetsz a Zodiákus templomban.
+93	Az elementáris talizmánok +200-as szintig fejleszthetõk.
+94	A Zodiákus templom 40. szintjén találod a Zodiákus kereskedõt, akitõl Õrzõ jelvényeket vásárolhatsz.
+95	A Felélesztõ prizma segítségével csapattársakat is újraéleszthetsz.
+96	A Zodiákus templomba egyedül is beléphetsz, de csoportban több jutalmat kapsz.
+97	A Zodiákus templomban minden szinten 10 perc áll rendelkezésre.
+98	Készen állsz, hogy belevágj egy kalandos utazásba?
+99	25 perced van a hajó megvédésére Hidra támadása ellen.

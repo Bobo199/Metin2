@@ -1,0 +1,120 @@
+1	Geliþtirmesi baþarýsýz olan bir eþyanýn imhasýný kutsama kaðýdý ile engelleyebilirsin.
+10	Seviye 15'den itibaren heyecan verici PvP düellolarýna katýl!
+100	Buz direnci ile gemi savunmasý yaratýklarýna hazýr ol.
+101	Dümen ile gemi savunmasýný baþlat.
+102	Bir deniz kazasýný önlemek için her koþulda gemi direði ile ana yelkeni koru.
+103	Hidra'nýn yavrusu savaþta her türlü faydalý eþya düþürür.
+104	Yeni kýtanýn limanýndaki Gaya tüccarýyla Gaya üretme þansýn eski dünyadan daha yüksek.
+105	Batma tehlikesi yaþamamak için Hidra'nýn yavrusunun su saldýrýlarýný mümkün olduðu kadar erken durdur.
+106	Heyecan verici bir gemi yolculuðundan sonra seni yeni bir kýta bekliyor!
+107	Hey, sen! Evet, sen! Metin2 Ekibi seni çok <3.
+108	Günlük Görev "Yanýlsama Dünyasý"ný tamamlarsan, %100 bir Uyanýþ Kitabý alýrsýn.
+109	Zaman Çatlaðý görevini baþarýyla tamamlarsan, sabiti bir olasýlýkla bir Uyanýþ Kitabý alýrsýn.
+11	Rast gele! Balýkçý sana balýk tutmayý açýklar ve ayrýca sana uygun baþlangýç ekipmanýna sahiptir.
+110	Zaman Çatlaðý görevini 10 kez baþarýyla tamamlarsan, %100 bir Uyanýþ Kitabý alýrsýn.
+111	Uyanýþ zindaný canavarlarý, Zaman Çatlaðý zindaný canavarlarýndan daha güçlüdür.
+112	Uyanýþ zindanýnýn patron canavarýnda bir Uyanýþ patron sandýðý bulunur.
+113	Zaman Çatlaðý ve Uyanýþ zindanlarýnda ejderha taþý parçasý+ yaðmalanabilir.
+114	Zaman Çatlaðý zindanlarýnýn canavarlarýndan küçük ganimetler düþer.
+115	Elementer dünyasýnda birçok farklý doða ruhu yaþar.
+116	Set bonuslarý elde etmek için ekipmanýna uygun malzemelerle set etkileri ekleyebilirsin.
+117	Ýlkel Kuvvet Yüzüðü ile gizli Ýlkel Kuvvetler Platosu'na ulaþabilirsin.
+118	Metin2 dünyasýnda çok sayýda güçlü doða ruhu vardýr.
+119	Ýlkel Kuvvetler Platosu'nda evcilleþmemiþ doða güçleri HP'ni çalar.
+12	Yanýnda maksimum 1.999.999.999 Yang taþýyabilirsin.
+120	Elementer lanetinden korunmak için bir Ýlkel Kuvvet Klaný kullanabilirsin.
+13	Yanýnda maksimum 999 Won taþýyabilirsin.
+14	Petine ne yedirdiðine dikkat et. Bir kez yenildiðinde, eþya geri alýnamaz.
+15	Dönüþtürüldüðün sürece herhangi bir beceri kullanamazsýn.
+16	Chaegirab'ýn biyolog görevinden bir ödül olarak aldýðýn bonuslar kalýcý.
+17	Seviye 30 ve altýndaki karakterlerin becerileri yaþlý kadýn tarafýndan sýfýrlanabilir.
+18	Bir düðünde, partnerler arasýndaki seviye farký 15'i geçemez.
+19	Bir eþyanýn arýndýrmasý ne kadar yüksek olursa, görsel efekt o kadar fazla parlar.
+2	Evliliðe hazýr mýsýn? O halde yaþlý kadýna baþvur.
+20	Bir Metin taþý kýrarsan, zorlu bir savaþa hazýr ol!
+21	Eþyalarýný baðlama parþömeni ile hýrsýzlýða karþý koru.
+22	"Hayvanlara Karþý Güçlü" bonusu ile Maymun Zindaný'daki maymunlara daha fazla hasar verirsin.
+23	Dikkat et, çünkü Maymun Zindaný'ndaki canavarlar çok hýzlý yumurtlar.
+24	Burada daha önce bulundum galiba? Maymun Zindaný'nda sürekli dejà vus hissine kapýlacaksýn.
+25	Maymun Zindaný'nda mini haritan olmayacak.
+26	Araknofobi mi? Metin2 böcekleri arasýnda dev örümcekler de bulunur!
+27	Iþýnlanma halkasýný kullanýlarak Örümcek Zindaný'na hýzlý ve kolay bir þekilde ulaþabilirsin.
+28	Kraliçe Örümcek'e dikkat et. Zehiri çok tehlikelidir!
+29	Örümcek Zindaný 2'ye girmek için geçit biletine ihtiyacýn olacak.
+3	Iþýnlayýcý seni seviye 10'dan itibaren anýnda diðer bölgelere götürür.
+30	Örümcek Barones'in üreme maðarasýný Arachnida Anahtarý ile aç.
+31	Çok az maceracý Þeytan kulesinden canlý olarak geri döndü!
+32	Þeytan kulesinde ödül olarak çok sayýda EXP ve eþya toplayabilirsin.
+33	6. katta bulunan efsanevi Þeytan Kulesi demircisine býçaðýný bilet!
+34	Þeytan kulesindeki yaratýklara karþý karanlýða karþý dirençle silahlan.
+35	Þeytan Katakombu'ndaki yaratýklara karþý karanlýða karþý dirençle silahlan.
+36	Þeytan Katakombu'nun kapýlarý ancak öncesinde Þeytan Kulesi'ni fethedersen açýlýr.
+37	Þeytan Katakombu'nda mini haritan olmayacak.
+38	Þeytan Katakombu'nda birbirinize grup olarak kollayýn.
+39	Ýblis Lordu Azrail, evcil hayvan olarak ýsýrgan zebaniler besler.
+4	Köy meydanýndaki bekçilerden lonca sistemi hakkýnda bilgi edinebilirsin.
+40	Þeytan Katakombu'nun 2. seviyesine ulaþmak için, tüm grup üyelerinin bir Küçülen kafaya sahip olmalarý gerekir.
+41	Sürgün maðarasý korkunç yaratýklarla doludur.
+42	Sürgün maðarasýna girmek için bir kan taþýna ihtiyacýn var.
+43	Sürgün maðarasýnda seni korku ve dehþetin yaný sýra deðerli hazineler de bekliyor.
+44	Zalim tanrý Beran-Setaou, seni maðaranýn 3. katýndaki ejderha tapýnaðýnda bekliyor.
+45	Beran-Setaou gücünü Metin taþýndan alýr. Düþmüþ tanrýyý yenmek için onu imha et.
+46	Sürgün maðarasýndaki yaratýklara karþý buz ve yýldýrým direncini kuþan.
+47	Sürgün maðarasýndaki ejderha tapýnaðýna sadece bir grupla girebilirsin.
+48	Beran-Setaou'yu yenmek için 1 saatiniz var.
+49	Kýrmýzý ejderha kalesinde parlayan lavlar akar.
+5	Mini haritanda "B" seçeneðini týklayarak Savaþ Bölgesi ve giriþleri hakkýnda bilgi edinebilirsin.
+50	6 kýrmýzý ejderha kalesi bölgesini baþarýyla tamamladýktan sonra Razador'u vur!
+51	Kýrmýzý ejderha kalesinde ýþýnlanma parþömenleri çalýþmaz.
+52	Kýrmýzý ejderha kalesindeki yaratýklara karþý ateþe karþý dirençle silahlan.
+53	Kýrmýzý ejderha kalesini grubunla birlikte 1 saat içinde fethetmelisin.
+54	Nemere Gözlemevi'ni ele geçirmek için yanýnda en az bir Ninja ve bir Þaman olmalý.
+55	Nemere Gözlemevi'ndeki yaratýklara karþý buza karþý dirençle silahlan.
+56	Nemere Gözlemevi 9 kat ve bir de patron odasýndan oluþur.
+57	Nemere Gözlemevi'nde binek çaðýramazsýn.
+58	Nemere Gözlemevi'ni 1 saatte fethedebilir misiniz?
+59	Kayýp savaþçýlarý Nemere Gözlemevi'nden kurtarabilir misin?
+6	Lütfen kamp þifreni düzenli aralýklarla deðiþtirmeyi unutma. Dikkati elden býrakma!
+60	En-Tai Bekçisi, Ochao Tapýnaðý'nda rastgele bir yerde ortaya çýkar. Tekrar kaybolmadan ona saldýr.
+61	En-Tai Bekçisi'ni yenmek ve Efsunlu Orman portalýný açmak için 3 dakika süren var.
+62	Efsunlu Orman yaratýklarýna karþý rüzgara karþý dirençle silahlan.
+63	Jotun Thrym'in yanýnda güçlü bir ordusu var.
+64	Erebos sadece Orman Perisi Taþý ile fethedilebilir.
+65	Bagjanamu'yu yendiðin anda Jotun Thrym belirir.
+66	Orman Perisi için "Hükümdarý yen" görevini tekrarlayabilirsin.
+67	Ejderha Kraliçesi Meley'e doðrudan saldýramazsýn. Sadece ejderha heykellerinden hasar alýr.
+68	Meley'in ini yaratýklarýna karþý ateþe karþý dirençle silahlan.
+69	Ejderha heykellerini imhaetmek için Meley'in ininde ejderha ateþ yüzüðünü kap.
+7	Baek-go sana güçlü iksirler hazýrlamana yardým eder.
+70	Meley'in inine girebilmek için loncan yeterli lonca puanýna sahip olmalý.
+71	Zindaný fethetme hýzýnýz ve katýlýmcý sayýsý maðaradaki sýralamayý belirler.
+72	Kraliçe Meley'in sandýðýnda kýrmýzý ejderha yumurtasi ile küçük Meley petini bulabilirsin!
+73	Meley'in inini (Lonca) baþarýyala tamamlamak için loncanýn en az 4 üyesi olmalý.
+74	Meley'in ini (Grup) PvP kaský malzemesi, Meley'in ini (Lonca) PvE kaský malzemesi içerir.
+75	Zodyak Tapýnaðý, içinde 12 bekçi bulunan 12 farklý zindandan oluþur.
+76	Her bir Zodyak Tapýnaðý'na farklý bir günde ulaþabilirsin.
+77	Her Zodyak Tapýnaðý bekçisini güçlendiren, kendine has bir elemente sahiptir.
+78	Zi Tapýnaðý'nda karanlýða karþý direnç ile savaþa hazýrlan.
+79	Chou Tapýnaðý'nda toprak direnci ile savaþa hazýrlan.
+8	Hüa! Seviye 25'ten itibaren seyisin acemi at için at görevini baþlatabilirsin.
+80	Yin Tapýnaðý'nda ateþe karþý direnç ile savaþa hazýrlan.
+81	Mao Tapýnaðý'nda rüzgara karþý direnç ile savaþa hazýrlan.
+82	Chen Tapýnaðý'nda þimþeðe karþý direnç ile savaþa hazýrlan.
+83	Si Tapýnaðý'nda buza karþý direnç ile savaþa hazýrlan.
+84	Wu Tapýnaðý'nda buza karþý direnç ile savaþa hazýrlan.
+85	Wei Tapýnaðý'nda þimþeðe karþý direnç ile savaþa hazýrlan.
+86	Shen Tapýnaðý'nda topraða karþý direnç ile savaþa hazýrlan.
+87	Yu Tapýnaðý'nda rüzagara karþý direnç ile savaþa hazýrlan.
+88	Zu Tapýnaðý'nda karanlýða karþý direnç ile savaþa hazýrlan.
+89	Hai Tapýnaðý'nda ateþe karþý direnç ile savaþa hazýrlan.
+9	Oyun seçeneklerindeki "Klavye" alanýný kullanarak kýsayollarý deðiþtir.
+90	Uygun element týlsýmý, ilgili Zodyak Tapýnaðý'ný fethetmeni kolaylaþtýrýr.
+91	Zodyak Tapýnaðý'na girmek için 12 Animasfer doldur.
+92	Uyanýþ Prizmasý seni Zodyak Tapýnaðý'nda diriltir.
+93	Element týlsýmlarý +200'e kadar arýndýrýlabilir.
+94	Zodiak Tapýnaðý'nýn 40. seviyesinde Zodyak tüccarýndan bütün bekçi niþanlarýný satýn alabilirsin.
+95	Uyanýþ Prizmasý ile bir takým arkadaþýný da diriltebilirsin.
+96	Zodyak Tapýnaðý'na tek baþýna da girebilirsin, ancak grup halinde daha çok ödül alýrsýn.
+97	Zodyak Tapýnaðý'nýn her bir seviyesinde 10 dakikalýk bir zaman sýnýrý vardýr.
+98	Macera dolu bir yolculuða çýkmaya hazýr mýsýn?
+99	Gemini Hidra'nýn saldýrýsýna karþý savunmak için 25 dakikan var.

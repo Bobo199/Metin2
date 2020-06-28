@@ -1,0 +1,120 @@
+1	Zwój b³ogos³awieñstwa pozwala ochroniæ przedmiot przed zniszczeniem w razie nieudanego ulepszenia.
+10	Rzuæ siê w wir bezlitosnych pojedynków PvP od poziomu 15!
+100	Do walki ze stworzeniami z Obrony Statku uzbrój siê w odpornoœæ na lód.
+101	Zacznij Obronê Statku z ko³em sterowym.
+102	Za wszelk¹ cenê chroñ maszt z g³ównym ¿aglem, by unikn¹æ rozbicia siê statku.
+103	Z Wylêgu Hydry wypadaj¹ w walce u¿yteczne przedmioty.
+104	U portowego Handlarza Gaya na nowym kontynencie szansa na wyprodukowanie Gaya jest wiêksza ni¿ w Starym Œwiecie.
+105	Przerwij w porê ataki wodne Wylêgu Hydry, by nie znaleŸæ siê w opa³ach.
+106	Po ekscytuj¹cej podró¿y statkiem dotrzesz na nowy kontynent!
+107	Hej, Ty! Tak, Ty! Zespó³ Metin2 <3 Ciê.
+108	Po ukoñczeniu codziennej misji "Œwiat Iluzji", w 100% otrzymasz ksi¹¿kê Przebudzenia.
+109	Po pomyœlnym ukoñczeniu misji Szczelina Czasu, z pewnym prawdopodobieñstwem otrzymasz ksi¹¿kê Przebudzenia.
+11	Ahoj! Od rybaka nauczysz siê wêdkowaæ i otrzymasz odpowiednie wyposa¿enie startowe.
+110	Po 10-krotnym pomyœlnym ukoñczeniu misji Szczelina Czasu, w 100% otrzymasz ksi¹¿kê Przebudzenia.
+111	Potwory lochu Przebudzenia s¹ silniejsze od potworów Szczeliny Czasu.
+112	Boss lochu Przebudzenia ukrywa skrzyniê bossa Przebudzenia.
+113	W lochach Szczeliny Czasu i Przebudzenia mo¿na zdobyæ od³amki smoczych kamieni+.
+114	Potwory lochów Szczeliny Czasu nie upuszczaj¹ ³upów.
+115	Królestwo ¯ywio³ów zamieszkuje mnóstwo ró¿nych duchów natury.
+116	Mo¿esz dodaæ efekty zestawu do swojego wyposa¿enia z odpowiednimi materia³ami, by otrzymaæ bonusy zestawu.
+117	Z pomoc¹ pierœcienia si³y natury mo¿esz dotrzeæ do tajemnego P³askowy¿u Si³y Natury.
+118	Œwiat Metin2 zamieszkuje mnóstwo potê¿nych duchów natury.
+119	Na P³askowy¿u Si³y Natury te nieokie³zane ¿ywio³y kradn¹ ci twoje P¯.
+12	Mo¿esz nosiæ przy sobie maksymalnie 1 999 999 999 Yang.
+120	Mo¿esz u¿yæ medalu si³y natury, by chroniæ siê przed kl¹tw¹ ¿ywio³ów.
+13	Mo¿esz nosiæ przy sobie maksymalnie 999 Won.
+14	Uwa¿aj, czym karmisz swojego zwierzaka. Zjedzonego przez zwierzaka przedmiotu nie da siê odzyskaæ.
+15	Gdy jesteœ pod wp³ywem przemiany, nie mo¿esz korzystaæ z umiejêtnoœci.
+16	Bonusy otrzymane w ramach nagrody w misji biologa Chaegiraba s¹ sta³e.
+17	Postaci do 30 poziomu w³¹cznie mog¹ zresetowaæ swoje umiejêtnoœci u Starszej Pani.
+18	W przypadku œlubu ró¿nica miêdzy poziomami partnerów nie mo¿e przekraczaæ 15.
+19	Im bardziej uszlachetniony przedmiot, tym bardziej iskrz¹cy jest efekt wizualny.
+2	Czujesz, ¿e czas na ma³¿eñstwo? Zwróæ siê zatem do Starszej Pani.
+20	Gdy uderzysz kamieñ Metin, szykuj siê na ciê¿kie starcie!
+21	Chroñ swoje przedmioty przed kradzie¿¹ przy pomocy pergaminu wiêzi.
+22	Bonus "Si³a w walce ze zwierzêtami" sprawi, ¿e bêdziesz zadawaæ wiêcej obra¿eñ ma³pom w Lochu Ma³p.
+23	Miej siê na bacznoœci – potwory w Lochu Ma³p bardzo szybko siê odradzaj¹.
+24	To miejsce wygl¹da znajomo... W Lochu Ma³p doœwiadczysz déj vu.
+25	W Lochu Ma³p musisz obejœæ siê bez minimapy.
+26	Cierpisz na arachnofobiê? Wœród owadów w Metin2 wystêpuj¹ ogromne paj¹ki!
+27	Do Lochu Paj¹ków dotrzesz szybko i wygodnie przy pomocy pierœcienia teleportacji.
+28	Uwa¿aj na Królow¹ Paj¹ków. Jej jad jest wyj¹tkowo niebezpieczny!
+29	Wejœcie do Lochu Paj¹ków 2 wymaga przepustki.
+3	Od poziomu 10 przeniesiesz siê w mgnieniu oka do innego obszaru przy pomocy teleportera.
+30	Kryjówkê Baronówny Paj¹ków otworzysz pajêczym kluczem.
+31	Tylko nieliczni poszukiwacze przygód uchodz¹ z ¿yciem z Wie¿y Demonów!
+32	Jako nagrodê w Wie¿y Demonów mo¿esz zdobyæ wyj¹tkowo du¿o PD i przedmiotów.
+33	Na 6. piêtrze mo¿esz naostrzyæ sw¹ broñ u legendarnego kowala z Wie¿y Demonów!
+34	Do walki ze stworzeniami z Wie¿y Demonów uzbrój siê w odpornoœæ na mrok.
+35	Do walki ze stworzeniami z Diabelskich Katakumb uzbrój siê w odpornoœæ na mrok.
+36	Wrota do Diabelskie Katakumb otworz¹ siê tylko po wczeœniejszym podbiciu Wie¿y Demonów.
+37	W Diabelskich Katakumbach musisz obejœæ siê bez minimapy.
+38	W Diabelskich Katakumbach musicie pilnowaæ siê wzajemnie jako grupa.
+39	Ksi¹¿ê Demonów Azrael trzyma krwio¿ercze ogary piekielne jako zwierz¹tka domowe.
+4	Informacje o systemie gildii otrzymasz od stra¿ników wioski.
+40	Wejœcie na 2. poziom Diabelskich Katakumb wymaga, by wszyscy cz³onkowie grupy posiadali zasuszon¹ g³owê.
+41	W Grocie Wygnañców a¿ roi siê od przera¿aj¹cych stworów.
+42	Potrzebujesz Krwistego Kamienia, by wejœæ do Groty Wygnañców.
+43	W Grocie Wygnañców czeka strach i groza, ale te¿ cenne skarby.
+44	Na 3. poziomie groty, w Œwi¹tyni Smoka, czai siê przera¿aj¹cy bóg Beran-Setaou.
+45	Beran-Setaou czerpie sw¹ moc z kamieni Metin. Zniszcz je, by pokonaæ upad³ego boga.
+46	Do walki ze stworzeniami z Groty Wygnañców uzbrój siê w odpornoœæ na lód i b³yskawice.
+47	Do Œwi¹tyni Smoka w Grocie Wygnañców mo¿esz wejœæ tylko w grupie.
+48	Masz 1 godzinê na pokonanie Beran-Setaou.
+49	Twierdzê Czerwonego Smoka przecinaj¹ roz¿arzone strumienie p³ynnej lawy!
+5	Kliknij "B" na minimapie, by zobaczyæ informacje o Strefie Walki i wejœciach do niej.
+50	Je¿eli przejdziesz 6 stref Twierdzy Czerwonego Smoka, napotkasz Razadora!
+51	Teleportacja przy pomocy zwojów jest niemo¿liwa w Twierdzy Czerwonego Smoka.
+52	Do walki ze stworzeniami z Twierdzy Czerwonego Smoka uzbrój siê w odpornoœæ na ogieñ.
+53	Twojej grupie zosta³a 1 godzina na podbicie Twierdzy Czerwonego Smoka.
+54	Zajêcie Stra¿nicy Nemere wymaga, by do oddzia³u nale¿a³ przynajmniej jeden ninja i jeden szaman.
+55	Do walki ze stworzeniami ze Stra¿nicy Nemere uzbrój siê w odpornoœæ na lód.
+56	Stra¿nica Nemere sk³ada siê z 9 poziomów i pokoju bossa.
+57	W Stra¿nicy Nemere nie ma mo¿liwoœci przywo³ania wierzchowca.
+58	Czy zdo³acie podbiæ Stra¿nicê Nemere w 1 godzinê?
+59	Czy zdo³asz uratowaæ zaginionych wojowników ze Stra¿nicy Nemere?
+6	Pamiêtaj o regularnym zmienianiu has³a magazynu. Lepiej dmuchaæ na zimne!
+60	Stra¿nik En-Tai pojawia siê w losowych miejscach w Œwi¹tyni Ochao. Zaatakuj go, nim zniknie.
+61	Masz 3 minuty na pokonanie Stra¿nika En-Tai i otwarcie portalu do Zaklêtego Lasu.
+62	Do walki ze stworzeniami z Zaklêtego Lasu uzbrój siê w odpornoœæ na wiatr.
+63	Jotun Thrym ma u swego boku potê¿n¹ armiê.
+64	Do Erebu mo¿na wejœæ tylko z Kamieniem Driad.
+65	Gdy tylko pokonasz Bagjanamu, Jotun Thrym pojawi siê w polu widzenia.
+66	Mo¿esz powtórzyæ misjê "Pokonaj W³adcê" za Kamieñ Driad.
+67	Królowej Smoków Meley nie mo¿na zaatakowaæ bezpoœrednio. Otrzymuje ona obra¿enia za poœrednictwem Smoczych Statui.
+68	Do walki ze stworzeniami ze Schronienia Meley uzbrój siê w odpornoœæ na ogieñ.
+69	Zdob¹dŸ pierœcieñ smoczego ognia w Schronieniu Meley, by móc niszczyæ Smocze Statuy.
+7	Baek-Go s³u¿y wsparciem przy warzeniu potê¿nych mikstur.
+70	Twoja gildia musi mieæ wystarczaj¹co du¿o punktów rangi gildii, by móc wejœæ do Schronienia Meley.
+71	O rankingu w Schronieniu zdecyduje Wasz czas podbicia lochu i liczba uczestników.
+72	W Skrzyni Królowej Meley mo¿esz znaleŸæ czerwone jajo smoka z ma³¹ Meley w postaci zwierzaka!
+73	Aby skutecznie stawiæ czo³a Schronieniu Meley (dla gildii), gildia powinna mieæ co najmniej 4 cz³onków.
+74	W Schronieniu Meley (dla grup) znajdziesz materia³y na he³m PvP, a w Schronieniu Meley (dla gildii) – na he³my PvE.
+75	Œwi¹tynia Zodiaku obejmuje 12 ró¿nych lochów z 12 stra¿nikami.
+76	Do poszczególnych Œwi¹tyñ Zodiaku mo¿na dotrzeæ w ró¿ne dni.
+77	Do ka¿dej Œwi¹tyni Zodiaku przypisany jest ¿ywio³, który wzmacnia jej stra¿nika.
+78	Do walki w Œwi¹tyni Zi uzbrój siê w odpornoœæ na mrok.
+79	Do walki w Œwi¹tyni Chou uzbrój siê w odpornoœæ na ziemiê.
+8	Wiœta! Od poziomu 25. mo¿esz zacz¹æ u stajennego misjê konn¹ na koniu dla pocz¹tkuj¹cych.
+80	Do walki w Œwi¹tyni Yin uzbrój siê w odpornoœæ na ogieñ.
+81	Do walki w Œwi¹tyni Mao uzbrój siê w odpornoœæ na wiatr.
+82	Do walki w Œwi¹tyni Chen uzbrój siê w odpornoœæ na b³yskawice.
+83	Do walki w Œwi¹tyni Si uzbrój siê w odpornoœæ na lód.
+84	Do walki w Œwi¹tyni Wu uzbrój siê w odpornoœæ na lód.
+85	Do walki w Œwi¹tyni Wei uzbrój siê w odpornoœæ na b³yskawice.
+86	Do walki w Œwi¹tyni Shen uzbrój siê w odpornoœæ na ziemiê.
+87	Do walki w Œwi¹tyni Yu uzbrój siê w odpornoœæ na wiatr.
+88	Do walki w Œwi¹tyni Xu uzbrój siê w odpornoœæ na mrok.
+89	Do walki w Œwi¹tyni Hin uzbrój siê w odpornoœæ na ogieñ.
+9	Zmieniaj skróty przy pomocy ustawieñ klawiatury w opcjach gry.
+90	Talizman ¿ywio³u dopasowany do danej Œwi¹tyni Zodiaku u³atwia jej podbicie.
+91	Na³aduj 12 Animosfer, aby móc wejœæ do Œwi¹tyni Zodiaku.
+92	Przy pomocy Pryzmatu O¿ywienia przywrócisz siê do ¿ycia w Œwi¹tynia Zodiaku.
+93	Talizmany ¿ywio³u mo¿na uszlachetniæ do +200.
+94	Na 40. poziomie Œwi¹tyni Zodiaku mo¿esz kupiæ wszystkie insygnia stra¿ników od Handlarza Zodiaku.
+95	Przy pomocy pryzmatu o¿ywienia mo¿esz przywróciæ do ¿ycia tak¿e innego gracza.
+96	Mo¿esz wejœæ do Œwi¹tyni Zodiaku w pojedynkê, ale wybieraj¹c siê tam w grupie zgarniesz wiêcej nagród.
+97	Ka¿dy poziom Œwi¹tyni Zodiaku ma limit czasu wynosz¹cy 10 minut.
+98	Piszesz siê na tak¹ podró¿ pe³n¹ przygód?
+99	Masz 25 minut, by obroniæ swój statek przed atakiem Hydry.

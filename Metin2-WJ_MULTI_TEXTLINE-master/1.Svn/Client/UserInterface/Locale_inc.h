@@ -1,0 +1,1 @@
+#define WJ_MULTI_TEXTLINE

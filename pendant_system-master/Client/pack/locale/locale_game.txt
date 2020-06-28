@@ -1,0 +1,19 @@
+// Add anywhere, please, change for you language, this is spanish
+
+TOOLTIP_APPLY_ATTBONUS_ELEC	Fuerza contra Electrico +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FIRE	Fuerza contra Fuego +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ICE	Fuerza contra Hielo +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WIND	Fuerza contra Viento +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_EARTH	Fuerza contra Tierra +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DARK	Fuerza contra Oscuridad +%d%%	SA
+TOOLTIP_APPLY_RESIST_HUMAN	Resistencia contra Medio Humanos +%d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD_REDUCTION	Fractura de Espada +%d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND_REDUCTION	Fractura de Arma Dos Manos +%d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER_REDUCTION	Fractura de Daga +%d%%	SA
+TOOLTIP_APPLY_RESIST_BELL_REDUCTION	Fractura de Campana +%d%%	SA
+TOOLTIP_APPLY_RESIST_FAN_REDUCTION	Fractura de Fan +%d%%	SA
+TOOLTIP_APPLY_RESIST_BOW_REDUCTION	Fractura de Flecha +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ZODIAC	Fuerza c. Monstruos de Zodiaco +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DESERT	Fuerza c. Monstruos de Desierto +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_INSECT	Fuerza c. Monstruos Insecto +%d%%	SA
+TOOLTIP_APPLY_RESIST_CLAW_REDUCTION	Fractura de Garra +%d%%	SA

@@ -1,0 +1,6 @@
+// Search: 
+93	패룡폭	4	1	1	0	HP	-(70+3*lv+(22*iq+13*mwep+100)*ar*k)	50+160*k
+
+//Replace all line with:
+
+93	패룡폭	4	1	1	0	HP	-(70+3*lv+(22*iq+13*mwep+100)*ar*k)	50+160*k			20			ATTACK,SPLASH,ATTACK_FIRE_CONT		NONE	lv+5*iq*k	iq*0.2*k		0	0	MAGIC	15	1	2500	500

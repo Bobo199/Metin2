@@ -1,0 +1,5 @@
+// Add
+
+#define ELEMENT_NEW_BONUSES
+#define ELEMENT_TARGET
+#define ITEM_TALISMAN_EQUIPMENT

@@ -1,0 +1,9 @@
+// Search
+
+93	SHAMAN	
+
+// And add after ATTACK_SKILL
+
+
+|NEED_TARGET
+

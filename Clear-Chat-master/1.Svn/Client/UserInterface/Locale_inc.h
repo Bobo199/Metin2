@@ -1,0 +1,1 @@
+#define CLEAR_CHAT

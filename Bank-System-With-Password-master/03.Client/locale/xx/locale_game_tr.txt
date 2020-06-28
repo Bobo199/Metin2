@@ -1,0 +1,4 @@
+NEED_PRICE_BANK	Fiyat girmeniz gerekli.
+BANK_TARGET_NAME	Hedef ismi
+BANK__SELL_PRICE	[Tutar]
+COINS_BANK	Ep

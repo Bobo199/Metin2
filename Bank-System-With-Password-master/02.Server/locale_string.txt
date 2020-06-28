@@ -1,0 +1,89 @@
+"Banka acik degil.";
+"Banka açık değil.";
+
+"Banka sifresi %s olarak degistirildi.";
+"Banka şifreniz %s olarak değiştirildi
+
+"Banka sifresi ayni";
+"Banka şifresi eskisiyle aynı olamaz.";
+
+"Yanlis sifre girdiniz";
+"Yanlış şifre girdiniz.";
+
+"Banka zaten acik.";
+"Banka zaten açık.";
+
+"Banka zaten kapali";
+"Banka zaten kapalı.";
+
+"yang yer yok";
+"Envanteriniz bu kadar fazla yang alamaz.";
+
+"won yer yok";
+"Envanteriniz bu kadar fazla won alamaz.";
+
+"BYeterli yang yok.";
+"Yeterli yang'a sahip değilsiniz.";
+
+"BYeterli won yok.";
+"Yeterli won'a sahip değilsiniz.";
+
+"BYeterli ep yok.";
+"Yeterli ep'e sahip değilsiniz.";
+
+"yang banka sinir sorunu";
+"Banka'ya bu kadar yang ekleyemezsiniz.";
+
+"won banka sinir sorunu";
+"Banka'ya bu kadar won ekleyemezsiniz.";
+
+"ep banka sinir sorunu";
+"Banka'ya bu kadar ep ekleyemezsiniz.";
+
+"%s size %d yangg gonderdi.";
+"%s size %d yang gönderdi.";
+
+"%s karakterine %d yangg gonderdiniz.";
+"%s karakterine %d yang gönderdiniz.";
+
+"%s size %d wonn gonderdi.";
+"%s size %d won gönderdi.";
+
+"%s karakterine %d wonn gonderdiniz.";
+"%s karakterine %d won gönderdiniz.";
+
+"%s karakterine %d epp gonderdiniz.";
+"%s karakterine %d ep gönderdiniz.";
+
+"%s size %d epp gonderdi.";
+"%s size %d ep gönderdi.";
+
+"Bankaniza %d yang yatirdiniz.";
+"Bankanıza %d yang yatırdınız.";
+
+"Bankaniza %d won yatirdiniz.";
+"Bankanıza %d won yatırdınız.";
+
+"Bankaniza %d ep yatirdiniz.";
+"Bankanıza %d ep yatırdınız.";
+
+"Hedef ooyunda degil.";
+"Hedef oyunda değil.";
+
+"kendine yollayamazsin..";
+"Kendinize yollayamazsınız.";
+
+"Hedef envanter'inde bu kadar yang tasiyamaz.";
+"Hedef envanterinde bu kadar yang taşıyamaz.";
+
+"Hedef envanter'inde bu kadar won tasiyamaz.";
+"Hedef envanterinde bu kadar won taşıyamaz.";
+
+"Gonder banka yang yok";
+"Göndermek için bankanızda yeterli yang yok.";
+
+"Gonder banka ep yok";
+"Göndermek için bankanızda yeterli ep yok.";
+
+"Gonder banka won yok";
+"Göndermek için bankanızda yeterli won yok.";

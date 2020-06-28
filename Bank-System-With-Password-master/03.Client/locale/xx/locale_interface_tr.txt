@@ -1,0 +1,12 @@
+BANK	Banka
+BANK_CURRENT_COINS	Mevcut Ep:
+BANK_CURRENT_WON	Mevcut Won:
+BANK_CURRENT_YANG	Mevcut Yang:
+BANK_BANK_YANG	Bankadaki Yang:
+BANK_BANK_WON	Bankadaki Won:
+BANK_BANK_COIN	Bankadaki Ep:
+BANK_ADD	Yatýr
+BANK_WITHDRAW	Çek
+BANK_SEND	Gönder
+BANK_CLOSE	Kapat
+BANK_PASS	Þifre

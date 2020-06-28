@@ -1,0 +1,4 @@
+NEED_PRICE_BANK	You need to write a price.
+BANK_TARGET_NAME	Target Name
+BANK__SELL_PRICE	[Prices:]
+COINS_BANK	Coin

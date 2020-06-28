@@ -1,0 +1,5 @@
+Go NewBankSystem.h and:
+#define ENABLE_LC_ENGLISH
+
+blackdragonx61-Bank System With Password
+Enough for free release
